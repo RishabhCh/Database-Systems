@@ -1,0 +1,1752 @@
+[
+    {
+        "code": "AL",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -46414730201576333
+    },
+    {
+        "code": "GR",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 1681707849253687149
+    },
+    {
+        "code": "CY",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 1177843055041228350
+    },
+    {
+        "code": "MK",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 7565691223118528949
+    },
+    {
+        "code": "SRB",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 7084864062304698954
+    },
+    {
+        "code": "MNE",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -524800304542933244
+    },
+    {
+        "code": "KOS",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -4392305696805393062
+    },
+    {
+        "code": "AND",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 3323345859077561661
+    },
+    {
+        "code": "F",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 4848501827755603839
+    },
+    {
+        "code": "E",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -1220081099347847735
+    },
+    {
+        "code": "CZ",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 3453103553711737667
+    },
+    {
+        "code": "SK",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -4699868648880007407
+    },
+    {
+        "code": "D",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -8013865595675690075
+    },
+    {
+        "code": "H",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 6195943694628655621
+    },
+    {
+        "code": "I",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -5488668776073337857
+    },
+    {
+        "code": "CH",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 2888946653974831738
+    },
+    {
+        "code": "FL",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -481145831276560466
+    },
+    {
+        "code": "A",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -4950837275874374654
+    },
+    {
+        "code": "EST",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -3820154929247040318
+    },
+    {
+        "code": "LV",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -7677849810468315107
+    },
+    {
+        "code": "LT",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 8578409489469464472
+    },
+    {
+        "code": "BY",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -3747844006234049471
+    },
+    {
+        "code": "PL",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -701472255886842047
+    },
+    {
+        "code": "UA",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -324752744828390710
+    },
+    {
+        "code": "R",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "23.15",
+        "_id": -819132390523200638
+    },
+    {
+        "code": "R",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "76.85",
+        "_id": 2543734350174482886
+    },
+    {
+        "code": "B",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 661172052370765035
+    },
+    {
+        "code": "L",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -3855725987698479447
+    },
+    {
+        "code": "NL",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -4125991961625778544
+    },
+    {
+        "code": "SLO",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 3395056324044021409
+    },
+    {
+        "code": "HR",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -5850731650376532635
+    },
+    {
+        "code": "BIH",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -3178143101648304338
+    },
+    {
+        "code": "BG",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 8050980097509728844
+    },
+    {
+        "code": "RO",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 7637735891607734556
+    },
+    {
+        "code": "DK",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -1259241031733425199
+    },
+    {
+        "code": "IS",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -3251231029750901744
+    },
+    {
+        "code": "FO",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 7227517528160499335
+    },
+    {
+        "code": "IRL",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 32554930303877564
+    },
+    {
+        "code": "SF",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -2704595858965005918
+    },
+    {
+        "code": "N",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 5639694172660097943
+    },
+    {
+        "code": "S",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -24917508074560740
+    },
+    {
+        "code": "MC",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -2083911338131835498
+    },
+    {
+        "code": "V",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -8967585720113246520
+    },
+    {
+        "code": "CEU",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -483650890981364923
+    },
+    {
+        "code": "MEL",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 5504834281791466102
+    },
+    {
+        "code": "RSM",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -843591734888960610
+    },
+    {
+        "code": "M",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -9040002334015163151
+    },
+    {
+        "code": "GBM",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 5063531513737203214
+    },
+    {
+        "code": "MD",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 6018347573773825517
+    },
+    {
+        "code": "P",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 328841581008187786
+    },
+    {
+        "code": "SVA",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 1282159979559645735
+    },
+    {
+        "code": "GB",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 5321186851990968038
+    },
+    {
+        "code": "GBZ",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": 4401845279034891271
+    },
+    {
+        "code": "GBG",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -2459729434373951551
+    },
+    {
+        "code": "GBJ",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "100",
+        "_id": -3301650263743828470
+    },
+    {
+        "code": "ARM",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -6529706205657323036
+    },
+    {
+        "code": "GE",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 327260784049550798
+    },
+    {
+        "code": "AZ",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 4703773454068145990
+    },
+    {
+        "code": "TR",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "3",
+        "_id": -7404125683440423805
+    },
+    {
+        "code": "TR",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "97",
+        "_id": -6218128155992669620
+    },
+    {
+        "code": "RL",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 7878332208562260586
+    },
+    {
+        "code": "WB",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -7470365044977066844
+    },
+    {
+        "code": "GAZA",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 6851845974248807081
+    },
+    {
+        "code": "IL",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 5747786080851230193
+    },
+    {
+        "code": "SYR",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 4331212239160916097
+    },
+    {
+        "code": "JOR",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -1620415139715597248
+    },
+    {
+        "code": "SA",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 2523674801139338607
+    },
+    {
+        "code": "BRN",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 2214156045141273544
+    },
+    {
+        "code": "Q",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 6308560957339784722
+    },
+    {
+        "code": "UAE",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -7184785968603211422
+    },
+    {
+        "code": "OM",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -5890590223261790766
+    },
+    {
+        "code": "YE",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -1281337243187461706
+    },
+    {
+        "code": "KWT",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -4567661018278839402
+    },
+    {
+        "code": "IRQ",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -3740040196137143176
+    },
+    {
+        "code": "IR",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -6124787141273926053
+    },
+    {
+        "code": "AFG",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 7731206409142182623
+    },
+    {
+        "code": "TM",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 5760954507743769251
+    },
+    {
+        "code": "UZ",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -8097599945415173990
+    },
+    {
+        "code": "TJ",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 5404357842184643625
+    },
+    {
+        "code": "KG",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -933116671400474888
+    },
+    {
+        "code": "KZ",
+        "encompasses_continent": "Europe",
+        "continent_area": "10523000",
+        "encompass_percentage": "5.4",
+        "_id": 6071558747042144442
+    },
+    {
+        "code": "KZ",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "94.6",
+        "_id": 5026371787869091724
+    },
+    {
+        "code": "MNG",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -5445991969581586872
+    },
+    {
+        "code": "MV",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -8106057584681641116
+    },
+    {
+        "code": "PK",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -7893170350638796994
+    },
+    {
+        "code": "IND",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 2147561154141586999
+    },
+    {
+        "code": "NEP",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -2482408089654544653
+    },
+    {
+        "code": "BHT",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -3851726813799268575
+    },
+    {
+        "code": "BD",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 3657217401173412422
+    },
+    {
+        "code": "MYA",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -830942923612633439
+    },
+    {
+        "code": "CL",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -5075690249733762858
+    },
+    {
+        "code": "CN",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 6281520802383641352
+    },
+    {
+        "code": "RC",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -1162505037808222541
+    },
+    {
+        "code": "HK",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -591789406219698339
+    },
+    {
+        "code": "MACX",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 5217794945431726397
+    },
+    {
+        "code": "KP",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -4195179102709688263
+    },
+    {
+        "code": "ROK",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 3405576630930051211
+    },
+    {
+        "code": "J",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 8283233706824292958
+    },
+    {
+        "code": "RP",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -4462555351242114068
+    },
+    {
+        "code": "VN",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 3245698807743734286
+    },
+    {
+        "code": "K",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 1504393063878647886
+    },
+    {
+        "code": "LAO",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -2881737688519877903
+    },
+    {
+        "code": "THA",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -8395794343123411803
+    },
+    {
+        "code": "MAL",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -1116989313819960613
+    },
+    {
+        "code": "BRU",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -7225582161180419025
+    },
+    {
+        "code": "SGP",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": 1405259424996927326
+    },
+    {
+        "code": "RI",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "78",
+        "_id": 8181288164789053492
+    },
+    {
+        "code": "RI",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "22",
+        "_id": 568655971032596286
+    },
+    {
+        "code": "TL",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "100",
+        "_id": -1342780240053177159
+    },
+    {
+        "code": "PNG",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -2378858553020281691
+    },
+    {
+        "code": "SOL",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": 1487794670481324125
+    },
+    {
+        "code": "VU",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -9188979660379680603
+    },
+    {
+        "code": "NCL",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": 8261152636320065631
+    },
+    {
+        "code": "AUS",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": 3047019746514986176
+    },
+    {
+        "code": "XMAS",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": 5151470801127524058
+    },
+    {
+        "code": "COCO",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -7343391274618089102
+    },
+    {
+        "code": "NORF",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -7745986810780044051
+    },
+    {
+        "code": "NZ",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": 7905892680821075770
+    },
+    {
+        "code": "PAL",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -7857984211808759465
+    },
+    {
+        "code": "NMIS",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": 1529867779303990235
+    },
+    {
+        "code": "GUAM",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": 3987136969745104508
+    },
+    {
+        "code": "FSM",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -3867225855946649038
+    },
+    {
+        "code": "MH",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -726216954817497172
+    },
+    {
+        "code": "NAU",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -2401886717179954977
+    },
+    {
+        "code": "KIR",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -4194491293154883539
+    },
+    {
+        "code": "TUV",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -4144434966682150107
+    },
+    {
+        "code": "TOK",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": 8500087094241540432
+    },
+    {
+        "code": "WS",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": 6135665525759528410
+    },
+    {
+        "code": "AMSA",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -8187177263965258368
+    },
+    {
+        "code": "WF",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -1863710459121120717
+    },
+    {
+        "code": "FJI",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -6265782779840400207
+    },
+    {
+        "code": "TO",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -8816128796138707427
+    },
+    {
+        "code": "NIUE",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -4887339956204351585
+    },
+    {
+        "code": "COOK",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -6331723321287262063
+    },
+    {
+        "code": "FPOL",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -1485550105524570930
+    },
+    {
+        "code": "PITC",
+        "encompasses_continent": "Australia/Oceania",
+        "continent_area": "9000000",
+        "encompass_percentage": "100",
+        "_id": -6528291846719884039
+    },
+    {
+        "code": "ET",
+        "encompasses_continent": "Asia",
+        "continent_area": "44614500",
+        "encompass_percentage": "7.3",
+        "_id": 1142001755354961053
+    },
+    {
+        "code": "ET",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "92.7",
+        "_id": 856802992223048267
+    },
+    {
+        "code": "LAR",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -1443771694964315313
+    },
+    {
+        "code": "TN",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 7637113393608566948
+    },
+    {
+        "code": "DZ",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 5751328268723806363
+    },
+    {
+        "code": "MA",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -1313391284027405815
+    },
+    {
+        "code": "WSA",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -9006786350750682232
+    },
+    {
+        "code": "RMM",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -4509874195158557436
+    },
+    {
+        "code": "RIM",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -5584385448072439086
+    },
+    {
+        "code": "SN",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -1197352842093380464
+    },
+    {
+        "code": "WAG",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 8415696972990672397
+    },
+    {
+        "code": "GUB",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -3703660080752749020
+    },
+    {
+        "code": "RG",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 2460569533180692044
+    },
+    {
+        "code": "SLE",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -3256028345844795465
+    },
+    {
+        "code": "LB",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -3732977418890995262
+    },
+    {
+        "code": "BF",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -8375447413287929600
+    },
+    {
+        "code": "CI",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 5817098304549972459
+    },
+    {
+        "code": "GH",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -4242759403170108980
+    },
+    {
+        "code": "RT",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 5338984415846791667
+    },
+    {
+        "code": "BEN",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -7383790876920622470
+    },
+    {
+        "code": "NGR",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -7561006956987083208
+    },
+    {
+        "code": "RN",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 4268582876845242398
+    },
+    {
+        "code": "TCH",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 3126333668155075030
+    },
+    {
+        "code": "SUD",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 3653479886928662739
+    },
+    {
+        "code": "SSD",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -5500790149034810359
+    },
+    {
+        "code": "RCA",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 737967232043133321
+    },
+    {
+        "code": "CAM",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -3045128590988751909
+    },
+    {
+        "code": "GQ",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 3093077922777373655
+    },
+    {
+        "code": "G",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -5094976705948433861
+    },
+    {
+        "code": "RCB",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -6475138856848357376
+    },
+    {
+        "code": "CGO",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -307511462354547700
+    },
+    {
+        "code": "ANG",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 4256498743003898769
+    },
+    {
+        "code": "NAM",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 58696831108417724
+    },
+    {
+        "code": "RB",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 431117751905890343
+    },
+    {
+        "code": "RSA",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -6517693306027194937
+    },
+    {
+        "code": "LS",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 2977238731669708625
+    },
+    {
+        "code": "SD",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -5056439906354021711
+    },
+    {
+        "code": "MOC",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -8813101952785179231
+    },
+    {
+        "code": "ZW",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -2843222296636111862
+    },
+    {
+        "code": "Z",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -3142193459375041977
+    },
+    {
+        "code": "MW",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -8306365556590548310
+    },
+    {
+        "code": "EAT",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 8727194017432138384
+    },
+    {
+        "code": "BI",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -7523820860524978237
+    },
+    {
+        "code": "RWA",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 2629856390491797732
+    },
+    {
+        "code": "EAU",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 2459358274181757940
+    },
+    {
+        "code": "EAK",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 7141027802712720887
+    },
+    {
+        "code": "SO",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 5449926871059429428
+    },
+    {
+        "code": "DJI",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -345349419858042462
+    },
+    {
+        "code": "ETH",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -215842640575426644
+    },
+    {
+        "code": "ER",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -953733855671006040
+    },
+    {
+        "code": "CV",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -2103970172538440068
+    },
+    {
+        "code": "STP",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 2848830214861383787
+    },
+    {
+        "code": "SY",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 7473428728871270681
+    },
+    {
+        "code": "COM",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 1211618787667130899
+    },
+    {
+        "code": "MAYO",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -7019293732671988425
+    },
+    {
+        "code": "RM",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": 8224077901615209442
+    },
+    {
+        "code": "MS",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -6117679272993181113
+    },
+    {
+        "code": "REUN",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -2065595361963728228
+    },
+    {
+        "code": "HELX",
+        "encompasses_continent": "Africa",
+        "continent_area": "30221500",
+        "encompass_percentage": "100",
+        "_id": -8426721737888085313
+    },
+    {
+        "code": "GL",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 5536640033815477279
+    },
+    {
+        "code": "SPMI",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -638156143953947961
+    },
+    {
+        "code": "BERM",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 6491063389336019640
+    },
+    {
+        "code": "CDN",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -98541245589945688
+    },
+    {
+        "code": "USA",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -856696832638922479
+    },
+    {
+        "code": "MEX",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -5396122045616330889
+    },
+    {
+        "code": "BZ",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -2500675540022261737
+    },
+    {
+        "code": "GCA",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 6913320119261345785
+    },
+    {
+        "code": "ES",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 2023843952841874153
+    },
+    {
+        "code": "HN",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 112506947020459056
+    },
+    {
+        "code": "NIC",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 1337463695602824580
+    },
+    {
+        "code": "CR",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 4860300431371099537
+    },
+    {
+        "code": "PA",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 8261621223898365827
+    },
+    {
+        "code": "BS",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -4402240422638431496
+    },
+    {
+        "code": "TUCA",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 623644229780589854
+    },
+    {
+        "code": "CAYM",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -7112368990036488351
+    },
+    {
+        "code": "C",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -9103409712911479407
+    },
+    {
+        "code": "JA",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 5091430272177872955
+    },
+    {
+        "code": "RH",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 4080013928770125299
+    },
+    {
+        "code": "DOM",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 3273295000583262160
+    },
+    {
+        "code": "PR",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 4110747307908737766
+    },
+    {
+        "code": "VIRG",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -2332275409265688817
+    },
+    {
+        "code": "BVI",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -2553731457109134781
+    },
+    {
+        "code": "AXA",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -6707410816835150117
+    },
+    {
+        "code": "SMAR",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -3463509428968597044
+    },
+    {
+        "code": "SX",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -4310684464558186527
+    },
+    {
+        "code": "SBAR",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 5150409807756096827
+    },
+    {
+        "code": "KN",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 227740643450481268
+    },
+    {
+        "code": "AG",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 2073946006347249829
+    },
+    {
+        "code": "MNTS",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -815251019727342303
+    },
+    {
+        "code": "GUAD",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -168011604178115043
+    },
+    {
+        "code": "WD",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 7520225248540742123
+    },
+    {
+        "code": "MART",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 4422838719593246432
+    },
+    {
+        "code": "WL",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -217967109584676497
+    },
+    {
+        "code": "BDS",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -460231200788446260
+    },
+    {
+        "code": "WV",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -6455677067434823058
+    },
+    {
+        "code": "WG",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": -2579550442933376778
+    },
+    {
+        "code": "TT",
+        "encompasses_continent": "North America",
+        "continent_area": "24709000",
+        "encompass_percentage": "100",
+        "_id": 5823406391470226487
+    },
+    {
+        "code": "NLB",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": -8643978320781475716
+    },
+    {
+        "code": "CUR",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": 4062109666132592963
+    },
+    {
+        "code": "ARU",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": 2328231671788145936
+    },
+    {
+        "code": "YV",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": 7673503883724331030
+    },
+    {
+        "code": "GUY",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": -52354401955473135
+    },
+    {
+        "code": "SME",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": -1436464881526820412
+    },
+    {
+        "code": "FGU",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": 6786642297137851510
+    },
+    {
+        "code": "CO",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": 5280205435304078079
+    },
+    {
+        "code": "EC",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": -5335384946543872980
+    },
+    {
+        "code": "PE",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": -7086576977513380164
+    },
+    {
+        "code": "BOL",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": 427080271715056219
+    },
+    {
+        "code": "RCH",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": -6493888982127257950
+    },
+    {
+        "code": "RA",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": -8677907606418124298
+    },
+    {
+        "code": "PY",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": -8127394324994628732
+    },
+    {
+        "code": "ROU",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": 3137605305916130975
+    },
+    {
+        "code": "BR",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": 6638654567625483677
+    },
+    {
+        "code": "FALK",
+        "encompasses_continent": "South America",
+        "continent_area": "17840000",
+        "encompass_percentage": "100",
+        "_id": -4601277752828569922
+    }
+]

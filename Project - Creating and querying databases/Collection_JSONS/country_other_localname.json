@@ -1,0 +1,1000 @@
+[
+    {
+        "country": "A",
+        "localname": "Republik Österreich (die)",
+        "_id": -4726266491068311959
+    },
+    {
+        "country": "AFG",
+        "localname": "جُمْهُورِئ إِسْلامِئ أَفْغَانِسْتَان",
+        "_id": 8341480705625717528
+    },
+    {
+        "country": "AG",
+        "localname": "Antigua and Barbuda",
+        "_id": 1495195923914636010
+    },
+    {
+        "country": "AL",
+        "localname": "Shqipëri",
+        "_id": 6491981051573566929
+    },
+    {
+        "country": "AND",
+        "localname": "Principat d'Andorra",
+        "_id": 230477214170636596
+    },
+    {
+        "country": "ARM",
+        "localname": "Հայաստանի Հանրապետություն",
+        "_id": -4364008349924933744
+    },
+    {
+        "country": "ARU",
+        "localname": "Aruba",
+        "_id": 8325595093762425120
+    },
+    {
+        "country": "AUS",
+        "localname": "Australia",
+        "_id": -4278022593765952939
+    },
+    {
+        "country": "AZ",
+        "localname": "Azǝrbaycan Respublikası",
+        "_id": -1078869054474065880
+    },
+    {
+        "country": "B",
+        "localname": "Koninkrijk België (het)",
+        "_id": 6096124858570393597
+    },
+    {
+        "country": "BD",
+        "localname": "গণপ্রজাতন্ত্রী বাংলাদেশ",
+        "_id": -7156275516822488928
+    },
+    {
+        "country": "BDS",
+        "localname": "Barbados",
+        "_id": -4077665837817987798
+    },
+    {
+        "country": "BEN",
+        "localname": "la République du Bénin",
+        "_id": -3220708124238092103
+    },
+    {
+        "country": "BF",
+        "localname": "le Burkina Faso",
+        "_id": 253531241475379401
+    },
+    {
+        "country": "BG",
+        "localname": "Република България",
+        "_id": 7231182842823189766
+    },
+    {
+        "country": "BHT",
+        "localname": "འབྲུག་གྷལ་ཁབ",
+        "_id": 5022296450138071708
+    },
+    {
+        "country": "BI",
+        "localname": "la République du Burundi",
+        "_id": -2778533447810439532
+    },
+    {
+        "country": "BIH",
+        "localname": "Bosna i Hercegovina",
+        "_id": 5905724438351131700
+    },
+    {
+        "country": "BOL",
+        "localname": "Estado Plurinacional de Bolivia (el)",
+        "_id": 3263748303439339540
+    },
+    {
+        "country": "BRN",
+        "localname": "البحرين",
+        "_id": 2078128480693798190
+    },
+    {
+        "country": "BRU",
+        "localname": "Brunei Darussalam",
+        "_id": -2834227805941704225
+    },
+    {
+        "country": "BS",
+        "localname": "the Commonwealth of the Bahamas",
+        "_id": 1990662582708053963
+    },
+    {
+        "country": "BY",
+        "localname": "Рэспубліка Беларусь",
+        "_id": 49847079195413629
+    },
+    {
+        "country": "CAM",
+        "localname": "the Republic of Cameroon",
+        "_id": -7864748062856666920
+    },
+    {
+        "country": "CDN",
+        "localname": "Canada",
+        "_id": -3546948510680096246
+    },
+    {
+        "country": "CGO",
+        "localname": "la République démocratique du Congo",
+        "_id": 5064516414230221666
+    },
+    {
+        "country": "CI",
+        "localname": "la République de Côte d'Ivoire",
+        "_id": -3958186027044106059
+    },
+    {
+        "country": "CL",
+        "localname": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+        "_id": -2216401614228891849
+    },
+    {
+        "country": "CN",
+        "localname": "中國",
+        "_id": 6927832771973503918
+    },
+    {
+        "country": "CO",
+        "localname": "la República de Colombia",
+        "_id": -1375373943532909942
+    },
+    {
+        "country": "COM",
+        "localname": "اتحاد جزر القمر",
+        "_id": -427021093364910461
+    },
+    {
+        "country": "COOK",
+        "localname": "Cook Islands",
+        "_id": -684399571531687691
+    },
+    {
+        "country": "CR",
+        "localname": "la República de Costa Rica",
+        "_id": 4605506590154342593
+    },
+    {
+        "country": "CUR",
+        "localname": "Land Curaçao",
+        "_id": -597762542928835037
+    },
+    {
+        "country": "CV",
+        "localname": "República de Cabo Verde (a)",
+        "_id": -6460449824245193271
+    },
+    {
+        "country": "CY",
+        "localname": "Κυπριακή Δημοκρατία",
+        "_id": -2278682261017594471
+    },
+    {
+        "country": "CZ",
+        "localname": "Česko",
+        "othername": "Czechia",
+        "_id": -3233471371161295330
+    },
+    {
+        "country": "D",
+        "localname": "Bundesrepublik Deutschland (die)",
+        "_id": -7379502603959709449
+    },
+    {
+        "country": "DJI",
+        "localname": "جمهورية جيبوتي",
+        "_id": -5205358461392982674
+    },
+    {
+        "country": "DK",
+        "localname": "Kongeriget Danmark",
+        "_id": 5325677883924512033
+    },
+    {
+        "country": "DZ",
+        "localname": "الجزائر",
+        "_id": -8959200511911708716
+    },
+    {
+        "country": "E",
+        "localname": "el Reino de España",
+        "_id": -5887472385828922445
+    },
+    {
+        "country": "EAK",
+        "localname": "the Republic of Kenya",
+        "_id": -1762255301950110856
+    },
+    {
+        "country": "EAT",
+        "localname": "Jamhuri ya Muungano wa Tanzania",
+        "_id": 7638336283069845361
+    },
+    {
+        "country": "ER",
+        "localname": "إريتريا",
+        "_id": 832703575578016090
+    },
+    {
+        "country": "ES",
+        "localname": "la República de El Salvador",
+        "_id": -1807253838368994971
+    },
+    {
+        "country": "EST",
+        "localname": "Eesti Vabariik",
+        "_id": -3272917704953460183
+    },
+    {
+        "country": "ET",
+        "localname": "جمهورية مصر العربية",
+        "_id": 2053255546879779589
+    },
+    {
+        "country": "ETH",
+        "localname": "የኢትዮጵያ ፈደራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+        "_id": -3976490522906111193
+    },
+    {
+        "country": "F",
+        "localname": "la République française",
+        "_id": 7295030461666308
+    },
+    {
+        "country": "FJI",
+        "localname": "the Republic of the Fiji Islands",
+        "_id": 6293647842434290956
+    },
+    {
+        "country": "FL",
+        "localname": "Fürstentum Liechtenstein (das)",
+        "_id": 1655456486009085371
+    },
+    {
+        "country": "FO",
+        "localname": "Føroyar",
+        "_id": -295568153418026214
+    },
+    {
+        "country": "FPOL",
+        "localname": "Pōrīnetia Farāni",
+        "_id": 8978442194404203046
+    },
+    {
+        "country": "FSM",
+        "localname": "the Federated States of Micronesia",
+        "_id": 5047082321810278355
+    },
+    {
+        "country": "G",
+        "localname": "la République Gabonaise",
+        "_id": -5923656174986473411
+    },
+    {
+        "country": "GAZA",
+        "localname": "قطاع غزّة",
+        "_id": -861538612509944016
+    },
+    {
+        "country": "GB",
+        "localname": "the United Kingdom of Great Britain and Northern Ireland",
+        "_id": -5519972025858064863
+    },
+    {
+        "country": "GBG",
+        "localname": "the Bailiwick of Guernsey",
+        "_id": 5615467368102195919
+    },
+    {
+        "country": "GBJ",
+        "localname": "the Bailiwick of Jersey",
+        "_id": 2108572368750657139
+    },
+    {
+        "country": "GBM",
+        "localname": "the Isle of Man",
+        "_id": 668134086667635559
+    },
+    {
+        "country": "GCA",
+        "localname": "República de Guatemala (la)",
+        "_id": 7863221337461498644
+    },
+    {
+        "country": "GE",
+        "localname": "საქართველო",
+        "_id": 7169222590188644914
+    },
+    {
+        "country": "GH",
+        "localname": "the Republic of Ghana",
+        "_id": -6998319561012312282
+    },
+    {
+        "country": "GL",
+        "localname": "Kalaallit Nunaat",
+        "_id": 3813110690060736175
+    },
+    {
+        "country": "GQ",
+        "localname": "la République de Guinée équatoriale",
+        "_id": 5336182911790204237
+    },
+    {
+        "country": "GR",
+        "localname": "Ελληνική Δημοκρατία",
+        "_id": -8032763136309731828
+    },
+    {
+        "country": "GUB",
+        "localname": "República da Guiné-Bissau (a)",
+        "_id": -6689247302736351460
+    },
+    {
+        "country": "GUY",
+        "localname": "the Republic of Guyana",
+        "_id": 4852569887603007234
+    },
+    {
+        "country": "H",
+        "localname": "Magyar Köztársaság (a)",
+        "_id": -1007609710139581048
+    },
+    {
+        "country": "HK",
+        "localname": "香港",
+        "_id": -5711373857985102921
+    },
+    {
+        "country": "HN",
+        "localname": "la República de Honduras",
+        "_id": 3185232999475595431
+    },
+    {
+        "country": "HR",
+        "localname": "Republika Hrvatska",
+        "_id": -3730157482152192775
+    },
+    {
+        "country": "I",
+        "localname": "Repubblica Italiana (la)",
+        "_id": 7490555689384001939
+    },
+    {
+        "country": "IL",
+        "localname": "دولة إسرائيل",
+        "_id": -8395461277907663066
+    },
+    {
+        "country": "IND",
+        "localname": "the Republic of India",
+        "_id": -1480943041502961418
+    },
+    {
+        "country": "IR",
+        "localname": "جُمْهُورِئ إِسْلامِئ إِيرَان",
+        "_id": -3625671382597551720
+    },
+    {
+        "country": "IRL",
+        "localname": "Ireland",
+        "_id": 4986515566513680651
+    },
+    {
+        "country": "IRQ",
+        "localname": "جمهورية العراق",
+        "_id": -8448077696944682432
+    },
+    {
+        "country": "IS",
+        "localname": "Lýðveldið Ísland",
+        "_id": -6466318096045493956
+    },
+    {
+        "country": "J",
+        "localname": "日本",
+        "_id": 2820822207819470875
+    },
+    {
+        "country": "JA",
+        "localname": "Jamaica",
+        "_id": 8259210690594456458
+    },
+    {
+        "country": "JOR",
+        "localname": "المملكة الأردنية الهاشمية",
+        "_id": 7655795378729779337
+    },
+    {
+        "country": "K",
+        "localname": "ព្រះរាជាណាចក្រ កម្ពុជា",
+        "_id": 216316792788357709
+    },
+    {
+        "country": "KG",
+        "localname": "Кыргыз Республикасы",
+        "_id": 1972327269893328881
+    },
+    {
+        "country": "KIR",
+        "localname": "the Republic of Kiribati",
+        "_id": 856098411203741473
+    },
+    {
+        "country": "KN",
+        "localname": "Saint Kitts and Nevis",
+        "_id": -6007118711724363164
+    },
+    {
+        "country": "KOS",
+        "localname": "Republika e Kosovës",
+        "_id": -5715867681882963908
+    },
+    {
+        "country": "KP",
+        "localname": "조선 민주주의 인민 공화국",
+        "_id": -5701347321535575851
+    },
+    {
+        "country": "KWT",
+        "localname": "دولة الكويت",
+        "_id": -8691292496251976877
+    },
+    {
+        "country": "KZ",
+        "localname": "Қазақстан Республикасы",
+        "_id": 4870424576956817488
+    },
+    {
+        "country": "L",
+        "localname": "le Grand-Duché de Luxembourg",
+        "_id": -3374188114956792580
+    },
+    {
+        "country": "LAO",
+        "localname": "ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວ",
+        "_id": -7200873002966098419
+    },
+    {
+        "country": "LAR",
+        "localname": "لِيبِيَا",
+        "_id": 6842285016976937598
+    },
+    {
+        "country": "LB",
+        "localname": "the Republic of Liberia",
+        "_id": -1624973976569396601
+    },
+    {
+        "country": "LS",
+        "localname": "the Kingdom of Lesotho",
+        "_id": 1098336715460425295
+    },
+    {
+        "country": "LT",
+        "localname": "Lietuvos Respublika",
+        "_id": 2193107550984084743
+    },
+    {
+        "country": "LV",
+        "localname": "Latvijas Republika",
+        "_id": 2502271379437844568
+    },
+    {
+        "country": "M",
+        "localname": "the Republic of Malta",
+        "_id": 7856876925771452773
+    },
+    {
+        "country": "MA",
+        "localname": "المملكة المغربية",
+        "_id": -8663789109088908003
+    },
+    {
+        "country": "MACX",
+        "localname": "澳門",
+        "_id": -793868125748004917
+    },
+    {
+        "country": "MAL",
+        "localname": "Malaysia",
+        "_id": -220577895554261935
+    },
+    {
+        "country": "MC",
+        "localname": "la Principauté de Monaco",
+        "_id": 8572248725576734217
+    },
+    {
+        "country": "MD",
+        "localname": "Republica Moldova",
+        "_id": 3766409398724073483
+    },
+    {
+        "country": "MH",
+        "localname": "The Republic of the Marshall Islands",
+        "_id": -1414814319213552567
+    },
+    {
+        "country": "MK",
+        "localname": "Република Cеверна Македонија",
+        "_id": 2272044097583584050
+    },
+    {
+        "country": "MNE",
+        "localname": "Црна Гора",
+        "_id": 7517878016017363622
+    },
+    {
+        "country": "MNG",
+        "localname": "Монгол улс",
+        "_id": 4670796686062613086
+    },
+    {
+        "country": "MOC",
+        "localname": "República de Moçambique (a)",
+        "_id": 2880025729313052270
+    },
+    {
+        "country": "MS",
+        "localname": "The Republic of Mauritius",
+        "_id": -6997505978120775770
+    },
+    {
+        "country": "MV",
+        "localname": "ދިވެހިރާއްޖޭގެ ޖުމުހޫރިއްޔާ",
+        "_id": 3428204994223406194
+    },
+    {
+        "country": "MW",
+        "localname": "Dziko la Malaŵi",
+        "_id": 6860687905695242016
+    },
+    {
+        "country": "MYA",
+        "localname": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+        "othername": "Burma",
+        "_id": -7169383587225388220
+    },
+    {
+        "country": "N",
+        "localname": "Norge",
+        "_id": 6879290802433969571
+    },
+    {
+        "country": "NAM",
+        "localname": "the Republic of Namibia",
+        "_id": -1524037035089445956
+    },
+    {
+        "country": "NAU",
+        "localname": "the Republic of Nauru",
+        "_id": 2255136931804771570
+    },
+    {
+        "country": "NEP",
+        "localname": "संघीय लोकतान्त्रिक गणतन्त्र नेपाल",
+        "_id": -5192705662480288210
+    },
+    {
+        "country": "NGR",
+        "localname": "the Federal Republic of Nigeria",
+        "_id": 122373645847231206
+    },
+    {
+        "country": "NIC",
+        "localname": "la República de Nicaragua",
+        "_id": 5864930735811650517
+    },
+    {
+        "country": "NIUE",
+        "localname": "Niuē",
+        "_id": 2406867396363699143
+    },
+    {
+        "country": "NL",
+        "localname": "Koninkrijk der Nederlanden (het)",
+        "_id": -4593484017402896307
+    },
+    {
+        "country": "NMIS",
+        "localname": "Sankattan Siha Na Islas Mariånas",
+        "_id": 1198674013375643097
+    },
+    {
+        "country": "NZ",
+        "localname": "New Zealand",
+        "_id": -1110934032622878072
+    },
+    {
+        "country": "OM",
+        "localname": "سلطنة عمان",
+        "_id": -314688115080456403
+    },
+    {
+        "country": "P",
+        "localname": "República Portuguesa (a)",
+        "_id": -4594313396364881088
+    },
+    {
+        "country": "PA",
+        "localname": "la República de Panamá",
+        "_id": 6207516464484508879
+    },
+    {
+        "country": "PAL",
+        "localname": "Beluu er a Belau",
+        "_id": -8375047533231803653
+    },
+    {
+        "country": "PE",
+        "localname": "Piruw Suyu",
+        "_id": -4867091866741419998
+    },
+    {
+        "country": "PK",
+        "localname": "the Islamic Republic of Pakistan",
+        "_id": -5753019704385366569
+    },
+    {
+        "country": "PL",
+        "localname": "Rzeczpospolita Polska",
+        "_id": 1295748189416822576
+    },
+    {
+        "country": "PNG",
+        "localname": "Papua New Guinea",
+        "_id": -4639553598536905626
+    },
+    {
+        "country": "PY",
+        "localname": "Paraguay Retãn",
+        "_id": 5771853395803937025
+    },
+    {
+        "country": "Q",
+        "localname": "دولة قطر",
+        "_id": 381510030749038512
+    },
+    {
+        "country": "R",
+        "localname": "Россия",
+        "_id": 7300149706134460367
+    },
+    {
+        "country": "RB",
+        "localname": "the Republic of Botswana",
+        "_id": 1528927304355006322
+    },
+    {
+        "country": "RC",
+        "localname": "中華民國",
+        "_id": -4425452018019874361
+    },
+    {
+        "country": "RCA",
+        "localname": "la République centrafricaine",
+        "_id": 7089776694928290293
+    },
+    {
+        "country": "RCB",
+        "localname": "la République du Congo",
+        "_id": 8145785442299317839
+    },
+    {
+        "country": "RG",
+        "localname": "la République de Guinée",
+        "_id": 4878010281429582592
+    },
+    {
+        "country": "RH",
+        "localname": "la République d' Haïti",
+        "_id": -7529084663431294989
+    },
+    {
+        "country": "RI",
+        "localname": "Republik Indonesia",
+        "_id": 3482175376528891211
+    },
+    {
+        "country": "RIM",
+        "localname": "الجمهورية الإسلامية الموريتانية",
+        "_id": 8665923117830687992
+    },
+    {
+        "country": "RL",
+        "localname": "الجمهورية",
+        "_id": 7006383027414700593
+    },
+    {
+        "country": "RM",
+        "localname": "la République de Madagascar",
+        "_id": -8632681836362348011
+    },
+    {
+        "country": "RMM",
+        "localname": "la République du Mali",
+        "_id": 1647371919093515792
+    },
+    {
+        "country": "RN",
+        "localname": "la République du Niger",
+        "_id": 4987309758914157264
+    },
+    {
+        "country": "RO",
+        "localname": "România",
+        "_id": 2451091543366689243
+    },
+    {
+        "country": "ROK",
+        "localname": "대한 민국",
+        "_id": -8190197897023273849
+    },
+    {
+        "country": "ROU",
+        "localname": "la República Oriental del Uruguay",
+        "_id": -4981703621328250225
+    },
+    {
+        "country": "RP",
+        "localname": "the Republic of the Philippines",
+        "_id": -726447085056751020
+    },
+    {
+        "country": "RSA",
+        "localname": "Republiek van Suid-Afrika",
+        "_id": -6576661971971668875
+    },
+    {
+        "country": "RSM",
+        "localname": "Repubblica di San Marino (la)",
+        "_id": -6768423382067861619
+    },
+    {
+        "country": "RWA",
+        "localname": "the Republic of Rwanda",
+        "_id": 7268893999194081981
+    },
+    {
+        "country": "SA",
+        "localname": "المملكةة",
+        "_id": -8044972950743464677
+    },
+    {
+        "country": "SBAR",
+        "localname": "Collectivité de Saint-Barthélemy",
+        "_id": -8699322056065697895
+    },
+    {
+        "country": "SD",
+        "localname": "Kingdom of Eswatini",
+        "othername": "Swaziland",
+        "_id": -5102381820423788554
+    },
+    {
+        "country": "SF",
+        "localname": "Suomen tasavalta",
+        "_id": 7273944723602040089
+    },
+    {
+        "country": "SGP",
+        "localname": "新加坡共和国",
+        "_id": -6426770354116200803
+    },
+    {
+        "country": "SK",
+        "localname": "Slovensko",
+        "_id": -8645677287710885135
+    },
+    {
+        "country": "SLE",
+        "localname": "the Republic of Sierra Leone",
+        "_id": -1675560607626639816
+    },
+    {
+        "country": "SLO",
+        "localname": "Republika Slovenija",
+        "_id": -1132421779916378441
+    },
+    {
+        "country": "SMAR",
+        "localname": "Collectivité de Saint-Martin",
+        "_id": -6048540888876900445
+    },
+    {
+        "country": "SME",
+        "localname": "Republiek Suriname (de)",
+        "_id": 7595076185406754659
+    },
+    {
+        "country": "SO",
+        "localname": "جُمْهُورِيَّة الصُّومَال",
+        "_id": 3049720000419037857
+    },
+    {
+        "country": "SOL",
+        "localname": "Solomon Islands",
+        "_id": 1342436183507215716
+    },
+    {
+        "country": "SRB",
+        "localname": "Република Србија",
+        "_id": 7149023697994959855
+    },
+    {
+        "country": "SSD",
+        "localname": "the Republic of South Sudan",
+        "_id": -159691769625440840
+    },
+    {
+        "country": "STP",
+        "localname": "República Democrática de São Tomé e Príncipe (a)",
+        "_id": -5369555723459544243
+    },
+    {
+        "country": "SUD",
+        "localname": "جمهورية السودان",
+        "_id": 23753884183707052
+    },
+    {
+        "country": "SVA",
+        "localname": "Svalbard",
+        "_id": 4935557730557110452
+    },
+    {
+        "country": "SX",
+        "localname": "Sint Maarten",
+        "_id": 3951365392889892166
+    },
+    {
+        "country": "SY",
+        "localname": "Repiblik Sesel",
+        "_id": -7038627715147479541
+    },
+    {
+        "country": "SYR",
+        "localname": "الجمهورية العربية السورية",
+        "_id": -5752350721498002490
+    },
+    {
+        "country": "TCH",
+        "localname": "جمهورية تشاد",
+        "_id": -6659967097410030866
+    },
+    {
+        "country": "THA",
+        "localname": "ราชอาณาจักรไทย",
+        "_id": 7114909215689745895
+    },
+    {
+        "country": "TJ",
+        "localname": "Љумњурии Тољикистон",
+        "_id": -9068932546267373397
+    },
+    {
+        "country": "TL",
+        "localname": "República Democrática de Timor-Leste",
+        "_id": -6022888769140191914
+    },
+    {
+        "country": "TM",
+        "localname": "Türkmenistan",
+        "_id": -2617605553638065495
+    },
+    {
+        "country": "TN",
+        "localname": "الجمهورية التونسية",
+        "_id": 2061220427813571491
+    },
+    {
+        "country": "TO",
+        "localname": "the Kingdom of Tonga",
+        "_id": 6957160378290643537
+    },
+    {
+        "country": "TOK",
+        "localname": "Tokelau",
+        "_id": -6248363566647061601
+    },
+    {
+        "country": "TR",
+        "localname": "Türkiye Cumhuriyeti",
+        "_id": -8562018260709804833
+    },
+    {
+        "country": "TT",
+        "localname": "the Republic of Trinidad and Tobago",
+        "_id": -2263605530215318452
+    },
+    {
+        "country": "TUV",
+        "localname": "Tuvalu",
+        "_id": -7478561199937820714
+    },
+    {
+        "country": "UA",
+        "localname": "Украïна",
+        "_id": -4923653180967953841
+    },
+    {
+        "country": "UAE",
+        "localname": "الإمارات العربية المتحدة",
+        "_id": -7679899161667334586
+    },
+    {
+        "country": "UZ",
+        "localname": "Oʻzbekiston",
+        "_id": -2791838077965078639
+    },
+    {
+        "country": "V",
+        "localname": "Status Civitatis Vaticanae",
+        "_id": -9156765050728778079
+    },
+    {
+        "country": "VN",
+        "localname": "Việt Nam",
+        "_id": 1594117077330466645
+    },
+    {
+        "country": "WAG",
+        "localname": "The Republic of the Gambia",
+        "_id": 8773733580349147962
+    },
+    {
+        "country": "WB",
+        "localname": "الضفة الغربية",
+        "_id": -3110187372740307278
+    },
+    {
+        "country": "WD",
+        "localname": "the Commonwealth of Dominica",
+        "_id": -1692831820731796956
+    },
+    {
+        "country": "WF",
+        "localname": "Uvea mo Futuna",
+        "_id": 2153301347623853580
+    },
+    {
+        "country": "WG",
+        "localname": "Grenada",
+        "_id": 4248819825369177942
+    },
+    {
+        "country": "WL",
+        "localname": "Saint Lucia",
+        "_id": -3898810426240852451
+    },
+    {
+        "country": "WS",
+        "localname": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+        "_id": 5183250848369739273
+    },
+    {
+        "country": "WSA",
+        "localname": "الصحراء الغربية",
+        "_id": 3276901930856428026
+    },
+    {
+        "country": "WV",
+        "localname": "Saint Vincent and the Grenadines",
+        "_id": 4529645305482865594
+    },
+    {
+        "country": "YE",
+        "localname": "الجمهورية اليمنية",
+        "_id": 762018787499295924
+    }
+]

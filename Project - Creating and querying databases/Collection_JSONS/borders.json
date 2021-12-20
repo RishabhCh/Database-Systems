@@ -1,0 +1,1952 @@
+[
+    {
+        "country1": "AL",
+        "country2": "GR",
+        "length": "282",
+        "_id": -8826118288457325614
+    },
+    {
+        "country1": "AL",
+        "country2": "MK",
+        "length": "151",
+        "_id": 5278312835556097725
+    },
+    {
+        "country1": "AL",
+        "country2": "MNE",
+        "length": "172",
+        "_id": -2061954093620074262
+    },
+    {
+        "country1": "AL",
+        "country2": "KOS",
+        "length": "112",
+        "_id": 3236508258138712131
+    },
+    {
+        "country1": "GR",
+        "country2": "MK",
+        "length": "228",
+        "_id": 7465930562075887333
+    },
+    {
+        "country1": "GR",
+        "country2": "TR",
+        "length": "206",
+        "_id": 1759423208723065758
+    },
+    {
+        "country1": "MK",
+        "country2": "SRB",
+        "length": "62",
+        "_id": -1130451232358907493
+    },
+    {
+        "country1": "MNE",
+        "country2": "SRB",
+        "length": "124",
+        "_id": 5392762443624007788
+    },
+    {
+        "country1": "KOS",
+        "country2": "MNE",
+        "length": "79",
+        "_id": 7559278917146013876
+    },
+    {
+        "country1": "KOS",
+        "country2": "SRB",
+        "length": "352",
+        "_id": -1764448200754380395
+    },
+    {
+        "country1": "KOS",
+        "country2": "MK",
+        "length": "159",
+        "_id": 6846628113318797811
+    },
+    {
+        "country1": "AND",
+        "country2": "F",
+        "length": "60",
+        "_id": 2208902874841202331
+    },
+    {
+        "country1": "AND",
+        "country2": "E",
+        "length": "65",
+        "_id": 68052012587227133
+    },
+    {
+        "country1": "F",
+        "country2": "I",
+        "length": "488",
+        "_id": -8199619894392752145
+    },
+    {
+        "country1": "F",
+        "country2": "L",
+        "length": "73",
+        "_id": 3574825050362378895
+    },
+    {
+        "country1": "F",
+        "country2": "MC",
+        "length": "4.4",
+        "_id": 731940229546921750
+    },
+    {
+        "country1": "E",
+        "country2": "F",
+        "length": "623",
+        "_id": 2817557041606971763
+    },
+    {
+        "country1": "E",
+        "country2": "GBZ",
+        "length": "1.2",
+        "_id": -4170392802367599226
+    },
+    {
+        "country1": "E",
+        "country2": "P",
+        "length": "1214",
+        "_id": -6124822606194828761
+    },
+    {
+        "country1": "CZ",
+        "country2": "D",
+        "length": "646",
+        "_id": -6769336936771201227
+    },
+    {
+        "country1": "CZ",
+        "country2": "SK",
+        "length": "215",
+        "_id": 2682388395327824612
+    },
+    {
+        "country1": "CZ",
+        "country2": "PL",
+        "length": "658",
+        "_id": 7397585867742567723
+    },
+    {
+        "country1": "SK",
+        "country2": "UA",
+        "length": "90",
+        "_id": -6424249610216822949
+    },
+    {
+        "country1": "D",
+        "country2": "F",
+        "length": "451",
+        "_id": -3533633616526602407
+    },
+    {
+        "country1": "D",
+        "country2": "PL",
+        "length": "456",
+        "_id": 453409143720748199
+    },
+    {
+        "country1": "D",
+        "country2": "L",
+        "length": "138",
+        "_id": -8051461291491410666
+    },
+    {
+        "country1": "D",
+        "country2": "NL",
+        "length": "577",
+        "_id": -4025899065524590032
+    },
+    {
+        "country1": "D",
+        "country2": "DK",
+        "length": "68",
+        "_id": 7160565973169707867
+    },
+    {
+        "country1": "H",
+        "country2": "SRB",
+        "length": "151",
+        "_id": -2285520575328768403
+    },
+    {
+        "country1": "H",
+        "country2": "SK",
+        "length": "515",
+        "_id": 8671384826343716025
+    },
+    {
+        "country1": "H",
+        "country2": "SLO",
+        "length": "102",
+        "_id": 2467554179224321255
+    },
+    {
+        "country1": "H",
+        "country2": "UA",
+        "length": "103",
+        "_id": -9170808556399861824
+    },
+    {
+        "country1": "H",
+        "country2": "HR",
+        "length": "329",
+        "_id": 3728830668593897109
+    },
+    {
+        "country1": "H",
+        "country2": "RO",
+        "length": "443",
+        "_id": -1049029729526796418
+    },
+    {
+        "country1": "I",
+        "country2": "SLO",
+        "length": "235",
+        "_id": 5407854947917987747
+    },
+    {
+        "country1": "I",
+        "country2": "V",
+        "length": "3.2",
+        "_id": 4017902875202439843
+    },
+    {
+        "country1": "I",
+        "country2": "RSM",
+        "length": "39",
+        "_id": 2643637755084503515
+    },
+    {
+        "country1": "CH",
+        "country2": "F",
+        "length": "573",
+        "_id": -8563945619865887913
+    },
+    {
+        "country1": "CH",
+        "country2": "D",
+        "length": "334",
+        "_id": -2538020140814460522
+    },
+    {
+        "country1": "CH",
+        "country2": "I",
+        "length": "740",
+        "_id": -7030087441502563085
+    },
+    {
+        "country1": "CH",
+        "country2": "FL",
+        "length": "41",
+        "_id": -6962999388136518165
+    },
+    {
+        "country1": "A",
+        "country2": "CZ",
+        "length": "362",
+        "_id": 3392882635220099864
+    },
+    {
+        "country1": "A",
+        "country2": "D",
+        "length": "784",
+        "_id": 3111262348450273783
+    },
+    {
+        "country1": "A",
+        "country2": "H",
+        "length": "366",
+        "_id": 8144587232646811198
+    },
+    {
+        "country1": "A",
+        "country2": "I",
+        "length": "430",
+        "_id": 3173022190448234402
+    },
+    {
+        "country1": "A",
+        "country2": "FL",
+        "length": "37",
+        "_id": 4148097321765132757
+    },
+    {
+        "country1": "A",
+        "country2": "SK",
+        "length": "91",
+        "_id": -1158545814926077898
+    },
+    {
+        "country1": "A",
+        "country2": "SLO",
+        "length": "324",
+        "_id": 434301533712326729
+    },
+    {
+        "country1": "A",
+        "country2": "CH",
+        "length": "164",
+        "_id": 3848549059080435792
+    },
+    {
+        "country1": "EST",
+        "country2": "LV",
+        "length": "267",
+        "_id": 7112233401508034911
+    },
+    {
+        "country1": "EST",
+        "country2": "R",
+        "length": "290",
+        "_id": 6335533875151960849
+    },
+    {
+        "country1": "LV",
+        "country2": "R",
+        "length": "217",
+        "_id": -6827118122975728056
+    },
+    {
+        "country1": "LT",
+        "country2": "LV",
+        "length": "453",
+        "_id": 6432472263979790823
+    },
+    {
+        "country1": "LT",
+        "country2": "PL",
+        "length": "91",
+        "_id": -6669501653323351316
+    },
+    {
+        "country1": "LT",
+        "country2": "R",
+        "length": "227",
+        "_id": -8425354348112362215
+    },
+    {
+        "country1": "BY",
+        "country2": "LV",
+        "length": "141",
+        "_id": 6649817727881271866
+    },
+    {
+        "country1": "BY",
+        "country2": "LT",
+        "length": "502",
+        "_id": -2433995009861555774
+    },
+    {
+        "country1": "BY",
+        "country2": "PL",
+        "length": "605",
+        "_id": 1353320174952682588
+    },
+    {
+        "country1": "BY",
+        "country2": "UA",
+        "length": "891",
+        "_id": 7953779963950852379
+    },
+    {
+        "country1": "BY",
+        "country2": "R",
+        "length": "959",
+        "_id": -9084803849720164562
+    },
+    {
+        "country1": "PL",
+        "country2": "SK",
+        "length": "444",
+        "_id": 931879147412144119
+    },
+    {
+        "country1": "PL",
+        "country2": "UA",
+        "length": "428",
+        "_id": 978106163993259856
+    },
+    {
+        "country1": "PL",
+        "country2": "R",
+        "length": "206",
+        "_id": -2563479551935273829
+    },
+    {
+        "country1": "R",
+        "country2": "UA",
+        "length": "1576",
+        "_id": 440913722709240414
+    },
+    {
+        "country1": "R",
+        "country2": "SF",
+        "length": "1313",
+        "_id": 3546039059857063729
+    },
+    {
+        "country1": "B",
+        "country2": "F",
+        "length": "620",
+        "_id": -201802040751253663
+    },
+    {
+        "country1": "B",
+        "country2": "D",
+        "length": "167",
+        "_id": -7938042606185709216
+    },
+    {
+        "country1": "B",
+        "country2": "L",
+        "length": "148",
+        "_id": -7662583241355242135
+    },
+    {
+        "country1": "B",
+        "country2": "NL",
+        "length": "450",
+        "_id": 1583635671334509382
+    },
+    {
+        "country1": "HR",
+        "country2": "SRB",
+        "length": "241",
+        "_id": 6180914349599577278
+    },
+    {
+        "country1": "HR",
+        "country2": "MNE",
+        "length": "25",
+        "_id": 3215404170532363130
+    },
+    {
+        "country1": "HR",
+        "country2": "SLO",
+        "length": "546",
+        "_id": -1546234725306459405
+    },
+    {
+        "country1": "BIH",
+        "country2": "SRB",
+        "length": "357",
+        "_id": 6345108557114152502
+    },
+    {
+        "country1": "BIH",
+        "country2": "MNE",
+        "length": "249",
+        "_id": 2435606010391474851
+    },
+    {
+        "country1": "BIH",
+        "country2": "HR",
+        "length": "932",
+        "_id": 6131941239132047226
+    },
+    {
+        "country1": "BG",
+        "country2": "GR",
+        "length": "494",
+        "_id": 1540448937710489087
+    },
+    {
+        "country1": "BG",
+        "country2": "MK",
+        "length": "148",
+        "_id": 6102699030422976170
+    },
+    {
+        "country1": "BG",
+        "country2": "SRB",
+        "length": "318",
+        "_id": 5239225283050216908
+    },
+    {
+        "country1": "BG",
+        "country2": "RO",
+        "length": "608",
+        "_id": 7276284473366640466
+    },
+    {
+        "country1": "BG",
+        "country2": "TR",
+        "length": "240",
+        "_id": -5040341899169689344
+    },
+    {
+        "country1": "RO",
+        "country2": "SRB",
+        "length": "476",
+        "_id": 1443805681163184183
+    },
+    {
+        "country1": "RO",
+        "country2": "UA",
+        "length": "531",
+        "_id": 6667640636221907284
+    },
+    {
+        "country1": "N",
+        "country2": "R",
+        "length": "167",
+        "_id": -7256406120752114028
+    },
+    {
+        "country1": "N",
+        "country2": "SF",
+        "length": "729",
+        "_id": -5380506071016399075
+    },
+    {
+        "country1": "N",
+        "country2": "S",
+        "length": "1619",
+        "_id": -8351183591134061698
+    },
+    {
+        "country1": "S",
+        "country2": "SF",
+        "length": "586",
+        "_id": -2173881817936063112
+    },
+    {
+        "country1": "CEU",
+        "country2": "MA",
+        "length": "6.3",
+        "_id": -2402572173943670533
+    },
+    {
+        "country1": "MD",
+        "country2": "UA",
+        "length": "939",
+        "_id": -8451065494014721031
+    },
+    {
+        "country1": "MD",
+        "country2": "RO",
+        "length": "450",
+        "_id": -9078454353136819870
+    },
+    {
+        "country1": "GB",
+        "country2": "IRL",
+        "length": "360",
+        "_id": 3443684861299410767
+    },
+    {
+        "country1": "ARM",
+        "country2": "TR",
+        "length": "268",
+        "_id": -6158982626528298288
+    },
+    {
+        "country1": "ARM",
+        "country2": "IR",
+        "length": "35",
+        "_id": -8849602018687894175
+    },
+    {
+        "country1": "ARM",
+        "country2": "GE",
+        "length": "164",
+        "_id": 3175000333773437150
+    },
+    {
+        "country1": "ARM",
+        "country2": "AZ",
+        "length": "787",
+        "_id": -8035112412543931681
+    },
+    {
+        "country1": "GE",
+        "country2": "R",
+        "length": "723",
+        "_id": -4535673849205023155
+    },
+    {
+        "country1": "GE",
+        "country2": "TR",
+        "length": "252",
+        "_id": 4373148024974326507
+    },
+    {
+        "country1": "AZ",
+        "country2": "R",
+        "length": "284",
+        "_id": 286892335255012109
+    },
+    {
+        "country1": "AZ",
+        "country2": "TR",
+        "length": "9",
+        "_id": 7910947855761908089
+    },
+    {
+        "country1": "AZ",
+        "country2": "IR",
+        "length": "611",
+        "_id": -4430456671767548324
+    },
+    {
+        "country1": "AZ",
+        "country2": "GE",
+        "length": "322",
+        "_id": -8424253069338451774
+    },
+    {
+        "country1": "RL",
+        "country2": "SYR",
+        "length": "375",
+        "_id": -3241592842877187962
+    },
+    {
+        "country1": "GAZA",
+        "country2": "IL",
+        "length": "51",
+        "_id": -8414604920903016506
+    },
+    {
+        "country1": "IL",
+        "country2": "JOR",
+        "length": "238",
+        "_id": -2783595885139729720
+    },
+    {
+        "country1": "IL",
+        "country2": "SYR",
+        "length": "76",
+        "_id": -1388662032187235149
+    },
+    {
+        "country1": "IL",
+        "country2": "RL",
+        "length": "79",
+        "_id": -6487563781779911401
+    },
+    {
+        "country1": "IL",
+        "country2": "WB",
+        "length": "307",
+        "_id": 3927296810945435596
+    },
+    {
+        "country1": "SYR",
+        "country2": "TR",
+        "length": "822",
+        "_id": -3674019271024619048
+    },
+    {
+        "country1": "JOR",
+        "country2": "SA",
+        "length": "728",
+        "_id": -8979799268928866738
+    },
+    {
+        "country1": "JOR",
+        "country2": "SYR",
+        "length": "375",
+        "_id": 2652622172958123975
+    },
+    {
+        "country1": "JOR",
+        "country2": "WB",
+        "length": "97",
+        "_id": -7605910470905764752
+    },
+    {
+        "country1": "SA",
+        "country2": "UAE",
+        "length": "457",
+        "_id": -8305509623120208728
+    },
+    {
+        "country1": "SA",
+        "country2": "YE",
+        "length": "1458",
+        "_id": -5172592456605190291
+    },
+    {
+        "country1": "Q",
+        "country2": "SA",
+        "length": "60",
+        "_id": -3478898267222804699
+    },
+    {
+        "country1": "OM",
+        "country2": "SA",
+        "length": "676",
+        "_id": 5770432626104404126
+    },
+    {
+        "country1": "OM",
+        "country2": "UAE",
+        "length": "410",
+        "_id": 7722056305865664890
+    },
+    {
+        "country1": "OM",
+        "country2": "YE",
+        "length": "288",
+        "_id": 5265932413927869311
+    },
+    {
+        "country1": "KWT",
+        "country2": "SA",
+        "length": "222",
+        "_id": -4968533805044615929
+    },
+    {
+        "country1": "IRQ",
+        "country2": "TR",
+        "length": "331",
+        "_id": -4064713411484226894
+    },
+    {
+        "country1": "IRQ",
+        "country2": "JOR",
+        "length": "181",
+        "_id": 8600200536794487526
+    },
+    {
+        "country1": "IRQ",
+        "country2": "KWT",
+        "length": "242",
+        "_id": -3829862280853422833
+    },
+    {
+        "country1": "IRQ",
+        "country2": "SA",
+        "length": "814",
+        "_id": -1258078462394563289
+    },
+    {
+        "country1": "IRQ",
+        "country2": "SYR",
+        "length": "605",
+        "_id": 2373050144826286737
+    },
+    {
+        "country1": "IR",
+        "country2": "TR",
+        "length": "499",
+        "_id": -3292583770683082079
+    },
+    {
+        "country1": "IR",
+        "country2": "PK",
+        "length": "909",
+        "_id": -3507310996174430516
+    },
+    {
+        "country1": "IR",
+        "country2": "TM",
+        "length": "992",
+        "_id": -8149681614524951042
+    },
+    {
+        "country1": "IR",
+        "country2": "IRQ",
+        "length": "1458",
+        "_id": -3582734112613843176
+    },
+    {
+        "country1": "AFG",
+        "country2": "CN",
+        "length": "76",
+        "_id": 418056246131663749
+    },
+    {
+        "country1": "AFG",
+        "country2": "IR",
+        "length": "936",
+        "_id": 3443353827068875187
+    },
+    {
+        "country1": "AFG",
+        "country2": "PK",
+        "length": "2430",
+        "_id": 4105126283056380080
+    },
+    {
+        "country1": "AFG",
+        "country2": "TJ",
+        "length": "1206",
+        "_id": -795000570697719004
+    },
+    {
+        "country1": "AFG",
+        "country2": "TM",
+        "length": "744",
+        "_id": -8055042537491299739
+    },
+    {
+        "country1": "AFG",
+        "country2": "UZ",
+        "length": "137",
+        "_id": -9106820678976520548
+    },
+    {
+        "country1": "TM",
+        "country2": "UZ",
+        "length": "1621",
+        "_id": -2788619942038853731
+    },
+    {
+        "country1": "TJ",
+        "country2": "UZ",
+        "length": "1161",
+        "_id": -4671048394125517655
+    },
+    {
+        "country1": "KG",
+        "country2": "TJ",
+        "length": "870",
+        "_id": -6905119765285764438
+    },
+    {
+        "country1": "KG",
+        "country2": "UZ",
+        "length": "1099",
+        "_id": -3340458101456029951
+    },
+    {
+        "country1": "KG",
+        "country2": "KZ",
+        "length": "1051",
+        "_id": -5518219057940171262
+    },
+    {
+        "country1": "KZ",
+        "country2": "R",
+        "length": "6846",
+        "_id": -7767451628675669056
+    },
+    {
+        "country1": "KZ",
+        "country2": "TM",
+        "length": "379",
+        "_id": -7012565403108497961
+    },
+    {
+        "country1": "KZ",
+        "country2": "UZ",
+        "length": "2203",
+        "_id": 3838257594524962625
+    },
+    {
+        "country1": "MNG",
+        "country2": "R",
+        "length": "3441",
+        "_id": -5356009475786130328
+    },
+    {
+        "country1": "IND",
+        "country2": "PK",
+        "length": "2912",
+        "_id": -5421016250102226826
+    },
+    {
+        "country1": "IND",
+        "country2": "MYA",
+        "length": "1463",
+        "_id": -5664311762234688948
+    },
+    {
+        "country1": "IND",
+        "country2": "NEP",
+        "length": "1690",
+        "_id": -4215077144676446608
+    },
+    {
+        "country1": "BHT",
+        "country2": "CN",
+        "length": "470",
+        "_id": -9067927901085602004
+    },
+    {
+        "country1": "BHT",
+        "country2": "IND",
+        "length": "605",
+        "_id": 3740942541421048175
+    },
+    {
+        "country1": "BD",
+        "country2": "MYA",
+        "length": "193",
+        "_id": 8865126072746384049
+    },
+    {
+        "country1": "BD",
+        "country2": "IND",
+        "length": "4053",
+        "_id": -7472219162059720853
+    },
+    {
+        "country1": "MYA",
+        "country2": "THA",
+        "length": "1800",
+        "_id": -5743350922033141124
+    },
+    {
+        "country1": "CN",
+        "country2": "R",
+        "length": "3645",
+        "_id": 1048088158165329465
+    },
+    {
+        "country1": "CN",
+        "country2": "PK",
+        "length": "523",
+        "_id": -9055068798597769861
+    },
+    {
+        "country1": "CN",
+        "country2": "TJ",
+        "length": "414",
+        "_id": 5197953415878017222
+    },
+    {
+        "country1": "CN",
+        "country2": "MYA",
+        "length": "2185",
+        "_id": -8181122681127232048
+    },
+    {
+        "country1": "CN",
+        "country2": "IND",
+        "length": "3380",
+        "_id": 824914473264718915
+    },
+    {
+        "country1": "CN",
+        "country2": "NEP",
+        "length": "1236",
+        "_id": 4658794321905420611
+    },
+    {
+        "country1": "CN",
+        "country2": "LAO",
+        "length": "423",
+        "_id": -7646241412259252932
+    },
+    {
+        "country1": "CN",
+        "country2": "VN",
+        "length": "1281",
+        "_id": -3029075577079254159
+    },
+    {
+        "country1": "CN",
+        "country2": "KZ",
+        "length": "1533",
+        "_id": 1091039707482026104
+    },
+    {
+        "country1": "CN",
+        "country2": "KP",
+        "length": "1416",
+        "_id": 8873608085465206326
+    },
+    {
+        "country1": "CN",
+        "country2": "KG",
+        "length": "858",
+        "_id": -2303801301279043524
+    },
+    {
+        "country1": "CN",
+        "country2": "MNG",
+        "length": "4673",
+        "_id": 8551585395876477185
+    },
+    {
+        "country1": "CN",
+        "country2": "MACX",
+        "length": "0.34",
+        "_id": -730514320992394590
+    },
+    {
+        "country1": "CN",
+        "country2": "HK",
+        "length": "30",
+        "_id": 633388746055695865
+    },
+    {
+        "country1": "KP",
+        "country2": "R",
+        "length": "19",
+        "_id": 2987833452755254387
+    },
+    {
+        "country1": "KP",
+        "country2": "ROK",
+        "length": "238",
+        "_id": -3623586056858097101
+    },
+    {
+        "country1": "K",
+        "country2": "LAO",
+        "length": "541",
+        "_id": -4182869861891976065
+    },
+    {
+        "country1": "K",
+        "country2": "THA",
+        "length": "803",
+        "_id": -5044600947393235439
+    },
+    {
+        "country1": "K",
+        "country2": "VN",
+        "length": "1228",
+        "_id": -6532606594421915267
+    },
+    {
+        "country1": "LAO",
+        "country2": "MYA",
+        "length": "235",
+        "_id": -1623265198062654395
+    },
+    {
+        "country1": "LAO",
+        "country2": "THA",
+        "length": "1754",
+        "_id": 1386570435011120354
+    },
+    {
+        "country1": "LAO",
+        "country2": "VN",
+        "length": "2130",
+        "_id": -4873373405836869192
+    },
+    {
+        "country1": "MAL",
+        "country2": "THA",
+        "length": "506",
+        "_id": -1119534356444610392
+    },
+    {
+        "country1": "MAL",
+        "country2": "RI",
+        "length": "1782",
+        "_id": 3260937146293861750
+    },
+    {
+        "country1": "BRU",
+        "country2": "MAL",
+        "length": "381",
+        "_id": -741255487794632636
+    },
+    {
+        "country1": "RI",
+        "country2": "TL",
+        "length": "228",
+        "_id": -2453603520359908948
+    },
+    {
+        "country1": "PNG",
+        "country2": "RI",
+        "length": "820",
+        "_id": -587459056757735240
+    },
+    {
+        "country1": "ET",
+        "country2": "GAZA",
+        "length": "11",
+        "_id": 4901019890196024060
+    },
+    {
+        "country1": "ET",
+        "country2": "IL",
+        "length": "255",
+        "_id": -6262326869646233906
+    },
+    {
+        "country1": "ET",
+        "country2": "LAR",
+        "length": "1150",
+        "_id": -1326547905593748010
+    },
+    {
+        "country1": "ET",
+        "country2": "SUD",
+        "length": "1273",
+        "_id": 8168485774417010024
+    },
+    {
+        "country1": "LAR",
+        "country2": "RN",
+        "length": "354",
+        "_id": 432828908895656361
+    },
+    {
+        "country1": "LAR",
+        "country2": "TN",
+        "length": "459",
+        "_id": -1423849082369113926
+    },
+    {
+        "country1": "LAR",
+        "country2": "TCH",
+        "length": "1055",
+        "_id": 8214089018472385226
+    },
+    {
+        "country1": "LAR",
+        "country2": "SUD",
+        "length": "383",
+        "_id": 4979313311096193687
+    },
+    {
+        "country1": "DZ",
+        "country2": "LAR",
+        "length": "982",
+        "_id": -6147683341140709479
+    },
+    {
+        "country1": "DZ",
+        "country2": "RMM",
+        "length": "1376",
+        "_id": 8348194672886970491
+    },
+    {
+        "country1": "DZ",
+        "country2": "RIM",
+        "length": "463",
+        "_id": -6844217012817484184
+    },
+    {
+        "country1": "DZ",
+        "country2": "MA",
+        "length": "1559",
+        "_id": 7747174340162741703
+    },
+    {
+        "country1": "DZ",
+        "country2": "RN",
+        "length": "956",
+        "_id": -494227255517795136
+    },
+    {
+        "country1": "DZ",
+        "country2": "TN",
+        "length": "965",
+        "_id": 8104222629030647469
+    },
+    {
+        "country1": "DZ",
+        "country2": "WSA",
+        "length": "42",
+        "_id": 2603473228814066406
+    },
+    {
+        "country1": "MA",
+        "country2": "WSA",
+        "length": "443",
+        "_id": 8068269584502442200
+    },
+    {
+        "country1": "MA",
+        "country2": "MEL",
+        "length": "9.6",
+        "_id": 610918340105073193
+    },
+    {
+        "country1": "RMM",
+        "country2": "RN",
+        "length": "821",
+        "_id": 5191661715989280699
+    },
+    {
+        "country1": "RMM",
+        "country2": "SN",
+        "length": "419",
+        "_id": 5662095956406508515
+    },
+    {
+        "country1": "RIM",
+        "country2": "RMM",
+        "length": "2237",
+        "_id": -846181185238531957
+    },
+    {
+        "country1": "RIM",
+        "country2": "WSA",
+        "length": "1561",
+        "_id": -7708937941805608491
+    },
+    {
+        "country1": "RIM",
+        "country2": "SN",
+        "length": "813",
+        "_id": -8776235486369272740
+    },
+    {
+        "country1": "SN",
+        "country2": "WAG",
+        "length": "740",
+        "_id": 8249361758962743638
+    },
+    {
+        "country1": "GUB",
+        "country2": "RG",
+        "length": "386",
+        "_id": -1087850302825895067
+    },
+    {
+        "country1": "GUB",
+        "country2": "SN",
+        "length": "338",
+        "_id": 761775026692479086
+    },
+    {
+        "country1": "RG",
+        "country2": "RMM",
+        "length": "858",
+        "_id": 3512181838095733615
+    },
+    {
+        "country1": "RG",
+        "country2": "SN",
+        "length": "330",
+        "_id": -1300318922135686280
+    },
+    {
+        "country1": "RG",
+        "country2": "SLE",
+        "length": "652",
+        "_id": 1168982697240808825
+    },
+    {
+        "country1": "LB",
+        "country2": "RG",
+        "length": "563",
+        "_id": 9179887672836375363
+    },
+    {
+        "country1": "LB",
+        "country2": "SLE",
+        "length": "306",
+        "_id": 8253539827252508565
+    },
+    {
+        "country1": "BF",
+        "country2": "RMM",
+        "length": "1000",
+        "_id": 8075803054207156897
+    },
+    {
+        "country1": "BF",
+        "country2": "RN",
+        "length": "628",
+        "_id": 7307887229790316976
+    },
+    {
+        "country1": "BF",
+        "country2": "RT",
+        "length": "126",
+        "_id": -2383898129166941911
+    },
+    {
+        "country1": "BF",
+        "country2": "CI",
+        "length": "584",
+        "_id": -9185083125698652863
+    },
+    {
+        "country1": "BF",
+        "country2": "GH",
+        "length": "548",
+        "_id": -7009012849146984009
+    },
+    {
+        "country1": "CI",
+        "country2": "RMM",
+        "length": "532",
+        "_id": 7304599683585285382
+    },
+    {
+        "country1": "CI",
+        "country2": "GH",
+        "length": "668",
+        "_id": -3354009691035947103
+    },
+    {
+        "country1": "CI",
+        "country2": "RG",
+        "length": "610",
+        "_id": -840212012337929761
+    },
+    {
+        "country1": "CI",
+        "country2": "LB",
+        "length": "716",
+        "_id": -6002228362881638809
+    },
+    {
+        "country1": "GH",
+        "country2": "RT",
+        "length": "877",
+        "_id": 8506818871750464604
+    },
+    {
+        "country1": "BEN",
+        "country2": "RN",
+        "length": "266",
+        "_id": 5762171721341608696
+    },
+    {
+        "country1": "BEN",
+        "country2": "BF",
+        "length": "306",
+        "_id": 114131428487784364
+    },
+    {
+        "country1": "BEN",
+        "country2": "NGR",
+        "length": "773",
+        "_id": -3376971016302611970
+    },
+    {
+        "country1": "BEN",
+        "country2": "RT",
+        "length": "644",
+        "_id": -3488281755664703227
+    },
+    {
+        "country1": "NGR",
+        "country2": "RN",
+        "length": "1497",
+        "_id": 6499835055065073658
+    },
+    {
+        "country1": "NGR",
+        "country2": "TCH",
+        "length": "87",
+        "_id": 7721521716788329162
+    },
+    {
+        "country1": "RN",
+        "country2": "TCH",
+        "length": "1175",
+        "_id": -5289972921548633129
+    },
+    {
+        "country1": "SUD",
+        "country2": "TCH",
+        "length": "1360",
+        "_id": 818476933467298005
+    },
+    {
+        "country1": "SSD",
+        "country2": "SUD",
+        "length": "2184",
+        "_id": 5909769651884777230
+    },
+    {
+        "country1": "RCA",
+        "country2": "RCB",
+        "length": "467",
+        "_id": 5588310507995068056
+    },
+    {
+        "country1": "RCA",
+        "country2": "TCH",
+        "length": "1197",
+        "_id": 1429530523329688025
+    },
+    {
+        "country1": "RCA",
+        "country2": "SUD",
+        "length": "175",
+        "_id": -2234025104724661417
+    },
+    {
+        "country1": "RCA",
+        "country2": "SSD",
+        "length": "989",
+        "_id": -8522696139558275719
+    },
+    {
+        "country1": "CAM",
+        "country2": "RCB",
+        "length": "523",
+        "_id": 6949864756216760496
+    },
+    {
+        "country1": "CAM",
+        "country2": "NGR",
+        "length": "1690",
+        "_id": 8442936875815694078
+    },
+    {
+        "country1": "CAM",
+        "country2": "RCA",
+        "length": "797",
+        "_id": -4079788790467544758
+    },
+    {
+        "country1": "CAM",
+        "country2": "TCH",
+        "length": "1094",
+        "_id": -2491301980242608947
+    },
+    {
+        "country1": "CAM",
+        "country2": "GQ",
+        "length": "189",
+        "_id": 4721568307424612680
+    },
+    {
+        "country1": "CAM",
+        "country2": "G",
+        "length": "298",
+        "_id": -1805861298295573597
+    },
+    {
+        "country1": "G",
+        "country2": "RCB",
+        "length": "1903",
+        "_id": -6553203653480617817
+    },
+    {
+        "country1": "G",
+        "country2": "GQ",
+        "length": "350",
+        "_id": -8874102376776793945
+    },
+    {
+        "country1": "CGO",
+        "country2": "RCB",
+        "length": "2410",
+        "_id": 4060462802740831233
+    },
+    {
+        "country1": "CGO",
+        "country2": "Z",
+        "length": "1930",
+        "_id": 8661826889753862123
+    },
+    {
+        "country1": "CGO",
+        "country2": "RWA",
+        "length": "217",
+        "_id": 7303909155110338703
+    },
+    {
+        "country1": "CGO",
+        "country2": "RCA",
+        "length": "1577",
+        "_id": -8017394021685432353
+    },
+    {
+        "country1": "CGO",
+        "country2": "SSD",
+        "length": "639",
+        "_id": -2301252432640263401
+    },
+    {
+        "country1": "CGO",
+        "country2": "EAU",
+        "length": "765",
+        "_id": 628857181142904199
+    },
+    {
+        "country1": "CGO",
+        "country2": "EAT",
+        "length": "459",
+        "_id": 7222548494541538267
+    },
+    {
+        "country1": "ANG",
+        "country2": "RCB",
+        "length": "201",
+        "_id": 6064459421434475357
+    },
+    {
+        "country1": "ANG",
+        "country2": "NAM",
+        "length": "1376",
+        "_id": 5515300991939927400
+    },
+    {
+        "country1": "ANG",
+        "country2": "CGO",
+        "length": "2511",
+        "_id": -1078298734559218597
+    },
+    {
+        "country1": "ANG",
+        "country2": "Z",
+        "length": "1110",
+        "_id": 6344062737849583830
+    },
+    {
+        "country1": "NAM",
+        "country2": "Z",
+        "length": "233",
+        "_id": -7899669878702008753
+    },
+    {
+        "country1": "NAM",
+        "country2": "RB",
+        "length": "1360",
+        "_id": -7877680740828579290
+    },
+    {
+        "country1": "NAM",
+        "country2": "RSA",
+        "length": "855",
+        "_id": -3552712634623776024
+    },
+    {
+        "country1": "RB",
+        "country2": "RSA",
+        "length": "1840",
+        "_id": -4093732872637256186
+    },
+    {
+        "country1": "RB",
+        "country2": "ZW",
+        "length": "813",
+        "_id": 7628677628577205771
+    },
+    {
+        "country1": "RSA",
+        "country2": "ZW",
+        "length": "225",
+        "_id": -7518659663173681176
+    },
+    {
+        "country1": "RSA",
+        "country2": "SD",
+        "length": "430",
+        "_id": 1930040712396085893
+    },
+    {
+        "country1": "LS",
+        "country2": "RSA",
+        "length": "909",
+        "_id": -7354755882591100332
+    },
+    {
+        "country1": "MOC",
+        "country2": "Z",
+        "length": "419",
+        "_id": -4397074248333609398
+    },
+    {
+        "country1": "MOC",
+        "country2": "RSA",
+        "length": "491",
+        "_id": 6641360488906767094
+    },
+    {
+        "country1": "MOC",
+        "country2": "ZW",
+        "length": "1231",
+        "_id": -8129934168105158176
+    },
+    {
+        "country1": "MOC",
+        "country2": "MW",
+        "length": "1569",
+        "_id": 1333343886185435387
+    },
+    {
+        "country1": "MOC",
+        "country2": "SD",
+        "length": "105",
+        "_id": 7072678746389975729
+    },
+    {
+        "country1": "Z",
+        "country2": "ZW",
+        "length": "797",
+        "_id": -6160703173093941616
+    },
+    {
+        "country1": "MW",
+        "country2": "Z",
+        "length": "837",
+        "_id": -5714064305960248012
+    },
+    {
+        "country1": "EAT",
+        "country2": "Z",
+        "length": "338",
+        "_id": 7070044180115006495
+    },
+    {
+        "country1": "EAT",
+        "country2": "RWA",
+        "length": "217",
+        "_id": 6648983087170373947
+    },
+    {
+        "country1": "EAT",
+        "country2": "EAU",
+        "length": "396",
+        "_id": -6292425946239853043
+    },
+    {
+        "country1": "EAT",
+        "country2": "MW",
+        "length": "475",
+        "_id": -6155264763172261396
+    },
+    {
+        "country1": "EAT",
+        "country2": "MOC",
+        "length": "756",
+        "_id": 980300651728594127
+    },
+    {
+        "country1": "BI",
+        "country2": "CGO",
+        "length": "233",
+        "_id": 4733357518815856390
+    },
+    {
+        "country1": "BI",
+        "country2": "RWA",
+        "length": "290",
+        "_id": 4723393106140317470
+    },
+    {
+        "country1": "BI",
+        "country2": "EAT",
+        "length": "451",
+        "_id": 5506328349662632333
+    },
+    {
+        "country1": "EAU",
+        "country2": "RWA",
+        "length": "169",
+        "_id": 4760142612524219396
+    },
+    {
+        "country1": "EAU",
+        "country2": "SSD",
+        "length": "435",
+        "_id": -2674624047452074981
+    },
+    {
+        "country1": "EAK",
+        "country2": "EAT",
+        "length": "769",
+        "_id": -8093644492908963840
+    },
+    {
+        "country1": "EAK",
+        "country2": "SSD",
+        "length": "232",
+        "_id": -6785281555897266633
+    },
+    {
+        "country1": "EAK",
+        "country2": "ETH",
+        "length": "830",
+        "_id": -4905647675648507830
+    },
+    {
+        "country1": "EAK",
+        "country2": "SO",
+        "length": "682",
+        "_id": 2263688770038807448
+    },
+    {
+        "country1": "EAK",
+        "country2": "EAU",
+        "length": "933",
+        "_id": 483108041845076283
+    },
+    {
+        "country1": "DJI",
+        "country2": "ER",
+        "length": "113",
+        "_id": -83845259225403346
+    },
+    {
+        "country1": "DJI",
+        "country2": "ETH",
+        "length": "337",
+        "_id": 7981853985151432560
+    },
+    {
+        "country1": "DJI",
+        "country2": "SO",
+        "length": "58",
+        "_id": 7495550066219951175
+    },
+    {
+        "country1": "ETH",
+        "country2": "SUD",
+        "length": "769",
+        "_id": -5880978423372915991
+    },
+    {
+        "country1": "ETH",
+        "country2": "SSD",
+        "length": "934",
+        "_id": 3076171268802202991
+    },
+    {
+        "country1": "ETH",
+        "country2": "SO",
+        "length": "1626",
+        "_id": 7066988426648370613
+    },
+    {
+        "country1": "ER",
+        "country2": "SUD",
+        "length": "605",
+        "_id": -5928313129700470558
+    },
+    {
+        "country1": "ER",
+        "country2": "ETH",
+        "length": "912",
+        "_id": 3840036797270443005
+    },
+    {
+        "country1": "CDN",
+        "country2": "USA",
+        "length": "8893",
+        "_id": 811189529659080896
+    },
+    {
+        "country1": "MEX",
+        "country2": "USA",
+        "length": "3326",
+        "_id": 4362269476364839745
+    },
+    {
+        "country1": "BZ",
+        "country2": "GCA",
+        "length": "266",
+        "_id": -6343562747624570438
+    },
+    {
+        "country1": "BZ",
+        "country2": "MEX",
+        "length": "250",
+        "_id": -1830873059976776766
+    },
+    {
+        "country1": "GCA",
+        "country2": "MEX",
+        "length": "962",
+        "_id": -3714839973197514368
+    },
+    {
+        "country1": "GCA",
+        "country2": "HN",
+        "length": "256",
+        "_id": 7636623178692324344
+    },
+    {
+        "country1": "ES",
+        "country2": "GCA",
+        "length": "203",
+        "_id": -5903190211403510282
+    },
+    {
+        "country1": "ES",
+        "country2": "HN",
+        "length": "342",
+        "_id": 937285489565868480
+    },
+    {
+        "country1": "HN",
+        "country2": "NIC",
+        "length": "922",
+        "_id": -7791844100120743798
+    },
+    {
+        "country1": "CR",
+        "country2": "NIC",
+        "length": "309",
+        "_id": -5007082232163702418
+    },
+    {
+        "country1": "CR",
+        "country2": "PA",
+        "length": "348",
+        "_id": -1128702513434157224
+    },
+    {
+        "country1": "DOM",
+        "country2": "RH",
+        "length": "275",
+        "_id": -8904846796769357703
+    },
+    {
+        "country1": "SMAR",
+        "country2": "SX",
+        "length": "15",
+        "_id": 623034978939651157
+    },
+    {
+        "country1": "GUY",
+        "country2": "SME",
+        "length": "836",
+        "_id": 6172926215609459044
+    },
+    {
+        "country1": "GUY",
+        "country2": "YV",
+        "length": "789",
+        "_id": -1285328964026713255
+    },
+    {
+        "country1": "FGU",
+        "country2": "SME",
+        "length": "556",
+        "_id": 3394974877600758351
+    },
+    {
+        "country1": "CO",
+        "country2": "PA",
+        "length": "339",
+        "_id": -4294868907918520189
+    },
+    {
+        "country1": "CO",
+        "country2": "PE",
+        "length": "1494",
+        "_id": 61744808746655116
+    },
+    {
+        "country1": "CO",
+        "country2": "YV",
+        "length": "2341",
+        "_id": -1690470248024959846
+    },
+    {
+        "country1": "CO",
+        "country2": "EC",
+        "length": "708",
+        "_id": 1699104601492223908
+    },
+    {
+        "country1": "EC",
+        "country2": "PE",
+        "length": "1529",
+        "_id": 4018298566550271750
+    },
+    {
+        "country1": "PE",
+        "country2": "RCH",
+        "length": "168",
+        "_id": 1979453844194428016
+    },
+    {
+        "country1": "BOL",
+        "country2": "RA",
+        "length": "942",
+        "_id": 5442473579985008272
+    },
+    {
+        "country1": "BOL",
+        "country2": "BR",
+        "length": "3403",
+        "_id": 2935130645101900343
+    },
+    {
+        "country1": "BOL",
+        "country2": "RCH",
+        "length": "942",
+        "_id": -1830926691337935558
+    },
+    {
+        "country1": "BOL",
+        "country2": "PY",
+        "length": "753",
+        "_id": 3035797081233922413
+    },
+    {
+        "country1": "BOL",
+        "country2": "PE",
+        "length": "1212",
+        "_id": -7562869788724587813
+    },
+    {
+        "country1": "RA",
+        "country2": "RCH",
+        "length": "6691",
+        "_id": 4928555955828764200
+    },
+    {
+        "country1": "RA",
+        "country2": "ROU",
+        "length": "541",
+        "_id": -6943141211595483512
+    },
+    {
+        "country1": "PY",
+        "country2": "RA",
+        "length": "2531",
+        "_id": -7648412257506461029
+    },
+    {
+        "country1": "BR",
+        "country2": "CO",
+        "length": "1790",
+        "_id": 4153115497878073446
+    },
+    {
+        "country1": "BR",
+        "country2": "RA",
+        "length": "1263",
+        "_id": 3200867995302198824
+    },
+    {
+        "country1": "BR",
+        "country2": "PY",
+        "length": "1371",
+        "_id": -1242622486845242841
+    },
+    {
+        "country1": "BR",
+        "country2": "ROU",
+        "length": "1050",
+        "_id": -7022226187176551678
+    },
+    {
+        "country1": "BR",
+        "country2": "PE",
+        "length": "2659",
+        "_id": 7388434208494784341
+    },
+    {
+        "country1": "BR",
+        "country2": "FGU",
+        "length": "649",
+        "_id": -4551986988840786039
+    },
+    {
+        "country1": "BR",
+        "country2": "GUY",
+        "length": "1308",
+        "_id": 2621452474707074066
+    },
+    {
+        "country1": "BR",
+        "country2": "SME",
+        "length": "515",
+        "_id": -5828733930971539671
+    },
+    {
+        "country1": "BR",
+        "country2": "YV",
+        "length": "2137",
+        "_id": 8897706537202912696
+    }
+]

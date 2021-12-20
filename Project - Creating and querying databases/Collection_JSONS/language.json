@@ -1,0 +1,8389 @@
+[
+    {
+        "country": "AL",
+        "language": "Albanian",
+        "percentage": "98.8",
+        "_id": 73372785519887247
+    },
+    {
+        "country": "AL",
+        "language": "Greek",
+        "percentage": "0.5",
+        "_id": 3837621552687825391
+    },
+    {
+        "country": "AL",
+        "language": "Roma",
+        "percentage": "0.3",
+        "_id": -4774904714493375232
+    },
+    {
+        "country": "AL",
+        "language": "Aromanian",
+        "percentage": "0.3",
+        "_id": -717420584502976580
+    },
+    {
+        "country": "AL",
+        "language": "Macedonian",
+        "percentage": "0.2",
+        "_id": -6264257129026081760
+    },
+    {
+        "country": "GR",
+        "language": "Greek",
+        "percentage": "92",
+        "_id": 3028939252982048370
+    },
+    {
+        "country": "GR",
+        "language": "Albanian",
+        "percentage": "4",
+        "_id": -3746794666150207752
+    },
+    {
+        "country": "GR",
+        "language": "Roma",
+        "percentage": "2",
+        "_id": -571990899950009884
+    },
+    {
+        "country": "GR",
+        "language": "Macedonian",
+        "percentage": "1",
+        "_id": 3973793013885680809
+    },
+    {
+        "country": "GR",
+        "language": "Turkish",
+        "percentage": "1",
+        "_id": 7302147827908546631
+    },
+    {
+        "country": "GR",
+        "language": "Aromanian",
+        "percentage": "0.4",
+        "_id": -8501012955883806005
+    },
+    {
+        "country": "CY",
+        "language": "Greek",
+        "percentage": "61",
+        "_id": 7657758016907615260
+    },
+    {
+        "country": "CY",
+        "language": "Turkish",
+        "percentage": "24",
+        "_id": -3715828778517858192
+    },
+    {
+        "country": "CY",
+        "language": "English",
+        "percentage": "3",
+        "_id": 4137123091757009597
+    },
+    {
+        "country": "CY",
+        "language": "Romanian",
+        "percentage": "2.2",
+        "_id": -6670647101762747562
+    },
+    {
+        "country": "CY",
+        "language": "Bulgarian",
+        "percentage": "1.8",
+        "_id": -6807639415572797342
+    },
+    {
+        "country": "CY",
+        "language": "Arabic",
+        "percentage": "1.2",
+        "_id": 6763404616265388526
+    },
+    {
+        "country": "CY",
+        "language": "Filipino",
+        "percentage": "0.9",
+        "_id": 1070962966432872201
+    },
+    {
+        "country": "MK",
+        "language": "Macedonian",
+        "percentage": "66.5",
+        "_id": 7785734315833820319
+    },
+    {
+        "country": "MK",
+        "language": "Albanian",
+        "percentage": "25.1",
+        "_id": -4236033540860118854
+    },
+    {
+        "country": "MK",
+        "language": "Turkish",
+        "percentage": "3.5",
+        "_id": -3010798554625619173
+    },
+    {
+        "country": "MK",
+        "language": "Roma",
+        "percentage": "1.9",
+        "_id": 8030381002374577515
+    },
+    {
+        "country": "MK",
+        "language": "Serbo-Croatian",
+        "percentage": "1.6",
+        "_id": 8443169724916043980
+    },
+    {
+        "country": "MK",
+        "language": "Aromanian",
+        "percentage": "0.35",
+        "_id": 7984028043253454755
+    },
+    {
+        "country": "SRB",
+        "language": "Serbo-Croatian",
+        "percentage": "90",
+        "_id": -7447079166250411263
+    },
+    {
+        "country": "SRB",
+        "language": "Hungarian",
+        "percentage": "3.4",
+        "_id": 60896034448983031
+    },
+    {
+        "country": "SRB",
+        "language": "Roma",
+        "percentage": "1.4",
+        "_id": 1657704101843393180
+    },
+    {
+        "country": "SRB",
+        "language": "Slovak",
+        "percentage": "0.7",
+        "_id": 2047758381140104408
+    },
+    {
+        "country": "SRB",
+        "language": "Aromanian",
+        "percentage": "0.5",
+        "_id": 492484622804667299
+    },
+    {
+        "country": "SRB",
+        "language": "Bulgarian",
+        "percentage": "0.3",
+        "_id": -857293660481227122
+    },
+    {
+        "country": "MNE",
+        "language": "Serbo-Croatian",
+        "percentage": "86.5",
+        "_id": -6056036507590423182
+    },
+    {
+        "country": "MNE",
+        "language": "Albanian",
+        "percentage": "5.3",
+        "_id": -1235427006398703519
+    },
+    {
+        "country": "MNE",
+        "language": "Roma",
+        "percentage": "0.8",
+        "_id": -5881538915175850009
+    },
+    {
+        "country": "KOS",
+        "language": "Albanian",
+        "percentage": "94.5",
+        "_id": 6473186761358962957
+    },
+    {
+        "country": "KOS",
+        "language": "Serbo-Croatian",
+        "percentage": "3.3",
+        "_id": 8271159093307754054
+    },
+    {
+        "country": "KOS",
+        "language": "Roma",
+        "percentage": "1.4",
+        "_id": 3496404354847379066
+    },
+    {
+        "country": "KOS",
+        "language": "Turkish",
+        "percentage": "1.1",
+        "_id": 2129932147718782342
+    },
+    {
+        "country": "AND",
+        "language": "Catalan",
+        "percentage": "54.8",
+        "_id": -5107995711602398396
+    },
+    {
+        "country": "AND",
+        "language": "Spanish",
+        "percentage": "16.1",
+        "_id": 5639492697052232893
+    },
+    {
+        "country": "AND",
+        "language": "Portuguese",
+        "percentage": "13",
+        "_id": 4842080617028405247
+    },
+    {
+        "country": "AND",
+        "language": "French",
+        "percentage": "7",
+        "_id": -2734974897599069280
+    },
+    {
+        "country": "AND",
+        "language": "Arabic",
+        "percentage": "3",
+        "_id": 920032407845519347
+    },
+    {
+        "country": "AND",
+        "language": "Galician",
+        "percentage": "2",
+        "_id": -9091042963482245113
+    },
+    {
+        "country": "F",
+        "language": "French",
+        "percentage": "87.2",
+        "_id": -5995371783939571396
+    },
+    {
+        "country": "F",
+        "language": "Arabic",
+        "percentage": "3.6",
+        "_id": 697313370597112511
+    },
+    {
+        "country": "F",
+        "language": "Berber",
+        "percentage": "3.4",
+        "_id": 8523845585750845716
+    },
+    {
+        "country": "F",
+        "language": "Spanish",
+        "percentage": "1.2",
+        "_id": 7190529602264369545
+    },
+    {
+        "country": "F",
+        "language": "Italian",
+        "percentage": "1.2",
+        "_id": -5864170925167112415
+    },
+    {
+        "country": "F",
+        "language": "Portuguese",
+        "percentage": "1.1",
+        "_id": -7293222372267918302
+    },
+    {
+        "country": "F",
+        "language": "Occitan",
+        "percentage": "1",
+        "_id": 6899903877315312083
+    },
+    {
+        "country": "F",
+        "language": "Alsatian",
+        "percentage": "0.8",
+        "_id": 7190082144444637333
+    },
+    {
+        "country": "F",
+        "language": "English",
+        "percentage": "0.5",
+        "_id": 326955498931197055
+    },
+    {
+        "country": "F",
+        "language": "Vietnamese",
+        "percentage": "0.5",
+        "_id": -8257075032441400704
+    },
+    {
+        "country": "F",
+        "language": "Breton",
+        "percentage": "0.3",
+        "_id": 1743794823667441249
+    },
+    {
+        "country": "F",
+        "language": "Turkish",
+        "percentage": "0.3",
+        "_id": 2940945992792583774
+    },
+    {
+        "country": "F",
+        "language": "Kurdish",
+        "percentage": "0.3",
+        "_id": -5241993989453640631
+    },
+    {
+        "country": "F",
+        "language": "Corsu",
+        "percentage": "0.2",
+        "_id": -4209594816888173194
+    },
+    {
+        "country": "F",
+        "language": "Catalan",
+        "percentage": "0.1",
+        "_id": 8472593223907987960
+    },
+    {
+        "country": "F",
+        "language": "Basque",
+        "percentage": "0.1",
+        "_id": -9198706796885692047
+    },
+    {
+        "country": "E",
+        "language": "Spanish",
+        "percentage": "69",
+        "_id": 112545410026416631
+    },
+    {
+        "country": "E",
+        "language": "Catalan",
+        "percentage": "14.6",
+        "_id": -4735655249868503774
+    },
+    {
+        "country": "E",
+        "language": "Galician",
+        "percentage": "6",
+        "_id": 3573823427211129005
+    },
+    {
+        "country": "E",
+        "language": "Arabic",
+        "percentage": "2",
+        "_id": -2688249981075052137
+    },
+    {
+        "country": "E",
+        "language": "Romanian",
+        "percentage": "1.8",
+        "_id": 558539300785825499
+    },
+    {
+        "country": "E",
+        "language": "Basque",
+        "percentage": "1.7",
+        "_id": -8057906854765277126
+    },
+    {
+        "country": "E",
+        "language": "Roma",
+        "percentage": "1.6",
+        "_id": -9028933706689903216
+    },
+    {
+        "country": "E",
+        "language": "Berber",
+        "percentage": "1.5",
+        "_id": 6426315003851691200
+    },
+    {
+        "country": "E",
+        "language": "English",
+        "percentage": "0.8",
+        "_id": 4928149966077640895
+    },
+    {
+        "country": "CZ",
+        "language": "Czech",
+        "percentage": "95.4",
+        "_id": -5770835727445380290
+    },
+    {
+        "country": "CZ",
+        "language": "Slovak",
+        "percentage": "1.6",
+        "_id": 4801351579324539704
+    },
+    {
+        "country": "SK",
+        "language": "Slovak",
+        "percentage": "78.6",
+        "_id": 649145537405286406
+    },
+    {
+        "country": "SK",
+        "language": "Hungarian",
+        "percentage": "9.4",
+        "_id": -7318914026751162740
+    },
+    {
+        "country": "SK",
+        "language": "Roma",
+        "percentage": "2.3",
+        "_id": 6731515340800994736
+    },
+    {
+        "country": "SK",
+        "language": "Ukrainian",
+        "percentage": "1",
+        "_id": -2223412714938544605
+    },
+    {
+        "country": "D",
+        "language": "German",
+        "percentage": "95",
+        "_id": 7260765669913401335
+    },
+    {
+        "country": "D",
+        "language": "Turkish",
+        "percentage": "1.8",
+        "_id": 5203124009819063643
+    },
+    {
+        "country": "D",
+        "language": "Arabic",
+        "percentage": "1.5",
+        "_id": -1285635797099926283
+    },
+    {
+        "country": "D",
+        "language": "Roma",
+        "percentage": "0.8",
+        "_id": -6067091203464069680
+    },
+    {
+        "country": "D",
+        "language": "Russian",
+        "percentage": "0.5",
+        "_id": -9014200609207560759
+    },
+    {
+        "country": "D",
+        "language": "Kurdish",
+        "percentage": "0.3",
+        "_id": -969017730150744641
+    },
+    {
+        "country": "H",
+        "language": "Hungarian",
+        "percentage": "99",
+        "_id": -649774818254954485
+    },
+    {
+        "country": "I",
+        "language": "Italian",
+        "percentage": "90",
+        "_id": -8591369728753544083
+    },
+    {
+        "country": "I",
+        "language": "Sardu",
+        "percentage": "1.6",
+        "_id": -5285127796706422159
+    },
+    {
+        "country": "I",
+        "language": "Romanian",
+        "percentage": "1.4",
+        "_id": -8447298067107370099
+    },
+    {
+        "country": "I",
+        "language": "Arabic",
+        "percentage": "1",
+        "_id": -7788362070849731333
+    },
+    {
+        "country": "I",
+        "language": "Albanian",
+        "percentage": "0.8",
+        "_id": 3539202777484103092
+    },
+    {
+        "country": "I",
+        "language": "German",
+        "percentage": "0.6",
+        "_id": 9019354889496981901
+    },
+    {
+        "country": "I",
+        "language": "Friulian",
+        "percentage": "0.5",
+        "_id": 970275688814098542
+    },
+    {
+        "country": "I",
+        "language": "Chinese",
+        "percentage": "0.5",
+        "_id": 4751364896653844035
+    },
+    {
+        "country": "I",
+        "language": "French",
+        "percentage": "0.2",
+        "_id": -336687474824702960
+    },
+    {
+        "country": "I",
+        "language": "Occitan",
+        "percentage": "0.2",
+        "_id": 4667321887877118640
+    },
+    {
+        "country": "I",
+        "language": "Slovenian",
+        "percentage": "0.2",
+        "_id": -7797960071183175858
+    },
+    {
+        "country": "I",
+        "language": "Roma",
+        "percentage": "0.2",
+        "_id": 464211785452573640
+    },
+    {
+        "country": "I",
+        "language": "Ladin",
+        "percentage": "0.06",
+        "_id": -6838629832178636930
+    },
+    {
+        "country": "CH",
+        "language": "German",
+        "percentage": "62.8",
+        "_id": 2469499538967437812
+    },
+    {
+        "country": "CH",
+        "language": "French",
+        "percentage": "22.9",
+        "_id": 6386113611328927809
+    },
+    {
+        "country": "CH",
+        "language": "Italian",
+        "percentage": "8.2",
+        "_id": -1966828589741117941
+    },
+    {
+        "country": "CH",
+        "language": "Romansh",
+        "percentage": "0.8",
+        "_id": 8389124027623358504
+    },
+    {
+        "country": "FL",
+        "language": "German",
+        "percentage": "91.5",
+        "_id": 3431104316646802552
+    },
+    {
+        "country": "FL",
+        "language": "Portuguese",
+        "percentage": "1.9",
+        "_id": -4145937121142038514
+    },
+    {
+        "country": "FL",
+        "language": "Italian",
+        "percentage": "1.5",
+        "_id": -8429797344099292514
+    },
+    {
+        "country": "FL",
+        "language": "Turkish",
+        "percentage": "1.3",
+        "_id": 8759317524137087982
+    },
+    {
+        "country": "FL",
+        "language": "Albanian",
+        "percentage": "1.1",
+        "_id": -5846577402860758939
+    },
+    {
+        "country": "A",
+        "language": "German",
+        "percentage": "92.6",
+        "_id": -2926371751239848284
+    },
+    {
+        "country": "A",
+        "language": "Serbo-Croatian",
+        "percentage": "4.2",
+        "_id": 1951917897587372874
+    },
+    {
+        "country": "A",
+        "language": "Turkish",
+        "percentage": "2.3",
+        "_id": -5677416628305781623
+    },
+    {
+        "country": "A",
+        "language": "Hungarian",
+        "percentage": "0.5",
+        "_id": 5851576255961430137
+    },
+    {
+        "country": "A",
+        "language": "Polish",
+        "percentage": "0.35",
+        "_id": 3730914545176290143
+    },
+    {
+        "country": "A",
+        "language": "Albanian",
+        "percentage": "0.35",
+        "_id": -2552242290976333366
+    },
+    {
+        "country": "A",
+        "language": "Slovenian",
+        "percentage": "0.3",
+        "_id": 717988990668441472
+    },
+    {
+        "country": "A",
+        "language": "Arabic",
+        "percentage": "0.2",
+        "_id": -8531145437563022689
+    },
+    {
+        "country": "EST",
+        "language": "Estonian",
+        "percentage": "68.5",
+        "_id": 1187875705506095812
+    },
+    {
+        "country": "EST",
+        "language": "Russian",
+        "percentage": "29.6",
+        "_id": 7226956121552302516
+    },
+    {
+        "country": "EST",
+        "language": "Ukrainian",
+        "percentage": "0.6",
+        "_id": -464503547011917349
+    },
+    {
+        "country": "LV",
+        "language": "Latvian",
+        "percentage": "56.3",
+        "_id": 219732171948173514
+    },
+    {
+        "country": "LV",
+        "language": "Russian",
+        "percentage": "33.8",
+        "_id": -8428852155236501315
+    },
+    {
+        "country": "LT",
+        "language": "Lithuanian",
+        "percentage": "82",
+        "_id": -5119834340950195280
+    },
+    {
+        "country": "LT",
+        "language": "Russian",
+        "percentage": "8",
+        "_id": -3124533219931196845
+    },
+    {
+        "country": "LT",
+        "language": "Polish",
+        "percentage": "5.6",
+        "_id": -8055740173331888821
+    },
+    {
+        "country": "BY",
+        "language": "Russian",
+        "percentage": "70.2",
+        "_id": -120438001435650183
+    },
+    {
+        "country": "BY",
+        "language": "Belorussian",
+        "percentage": "23.4",
+        "_id": 5827891777254635307
+    },
+    {
+        "country": "PL",
+        "language": "Polish",
+        "percentage": "98.2",
+        "_id": 7698875640930020279
+    },
+    {
+        "country": "PL",
+        "language": "German",
+        "percentage": "0.3",
+        "_id": 5081149708417293576
+    },
+    {
+        "country": "UA",
+        "language": "Ukrainian",
+        "percentage": "67.5",
+        "_id": -648676105782376949
+    },
+    {
+        "country": "UA",
+        "language": "Russian",
+        "percentage": "29.6",
+        "_id": -6379406515452399321
+    },
+    {
+        "country": "UA",
+        "language": "Romanian",
+        "percentage": "0.7",
+        "_id": 3379289171934686590
+    },
+    {
+        "country": "UA",
+        "language": "Belorussian",
+        "percentage": "0.6",
+        "_id": -6669416230078531134
+    },
+    {
+        "country": "UA",
+        "language": "Crimean Tatar",
+        "percentage": "0.6",
+        "_id": -4783120737741467938
+    },
+    {
+        "country": "UA",
+        "language": "Bulgarian",
+        "percentage": "0.5",
+        "_id": 9081278732066605933
+    },
+    {
+        "country": "UA",
+        "language": "Hungarian",
+        "percentage": "0.4",
+        "_id": 8955851645718498388
+    },
+    {
+        "country": "UA",
+        "language": "Polish",
+        "percentage": "0.3",
+        "_id": -5582917391232856110
+    },
+    {
+        "country": "UA",
+        "language": "Yiddish",
+        "percentage": "0.2",
+        "_id": -702097219801303399
+    },
+    {
+        "country": "R",
+        "language": "Russian",
+        "percentage": "83",
+        "_id": -7328360669473789107
+    },
+    {
+        "country": "R",
+        "language": "Tatar",
+        "percentage": "3.8",
+        "_id": -525510374294267756
+    },
+    {
+        "country": "R",
+        "language": "Ukrainian",
+        "percentage": "1.4",
+        "_id": -2265282143943365006
+    },
+    {
+        "country": "R",
+        "language": "Chuvash",
+        "percentage": "1.1",
+        "_id": 1045677106004592839
+    },
+    {
+        "country": "R",
+        "language": "Bashkir",
+        "percentage": "1",
+        "_id": 4718823815854375146
+    },
+    {
+        "country": "R",
+        "language": "Chechen",
+        "percentage": "1",
+        "_id": 7777193172034806689
+    },
+    {
+        "country": "R",
+        "language": "Armenian",
+        "percentage": "0.86",
+        "_id": 7921173371596962043
+    },
+    {
+        "country": "R",
+        "language": "Avaric",
+        "percentage": "0.6",
+        "_id": 8732129309946131215
+    },
+    {
+        "country": "R",
+        "language": "Mongolian",
+        "percentage": "0.6",
+        "_id": -3675456211040126297
+    },
+    {
+        "country": "R",
+        "language": "Circassian",
+        "percentage": "0.6",
+        "_id": -7277887889735502528
+    },
+    {
+        "country": "R",
+        "language": "Azerbaijani",
+        "percentage": "0.44",
+        "_id": -7614990443947402345
+    },
+    {
+        "country": "R",
+        "language": "Dargwa",
+        "percentage": "0.4",
+        "_id": 1354514678157101479
+    },
+    {
+        "country": "R",
+        "language": "Ossetian",
+        "percentage": "0.38",
+        "_id": -6690780662805987983
+    },
+    {
+        "country": "R",
+        "language": "Mari",
+        "percentage": "0.32",
+        "_id": 6122201207509417871
+    },
+    {
+        "country": "R",
+        "language": "Kazakh",
+        "percentage": "0.3",
+        "_id": 3875573395524526134
+    },
+    {
+        "country": "R",
+        "language": "Yakut",
+        "percentage": "0.3",
+        "_id": -1878060990393905944
+    },
+    {
+        "country": "R",
+        "language": "Ingush",
+        "percentage": "0.3",
+        "_id": 4316026779338131120
+    },
+    {
+        "country": "R",
+        "language": "Lezgian",
+        "percentage": "0.3",
+        "_id": -8540405767036311825
+    },
+    {
+        "country": "R",
+        "language": "Erzya",
+        "percentage": "0.3",
+        "_id": -3696057883481763240
+    },
+    {
+        "country": "R",
+        "language": "Buryat",
+        "percentage": "0.25",
+        "_id": -8146480415839849893
+    },
+    {
+        "country": "R",
+        "language": "Uzbek",
+        "percentage": "0.2",
+        "_id": 5233106399814620001
+    },
+    {
+        "country": "R",
+        "language": "German",
+        "percentage": "0.2",
+        "_id": 1939342277170525409
+    },
+    {
+        "country": "R",
+        "language": "Udmurt",
+        "percentage": "0.15",
+        "_id": 805605706333443157
+    },
+    {
+        "country": "R",
+        "language": "Komi",
+        "percentage": "0.15",
+        "_id": 7669300756474969748
+    },
+    {
+        "country": "R",
+        "language": "Kalmyk",
+        "percentage": "0.1",
+        "_id": 8354473656022329857
+    },
+    {
+        "country": "R",
+        "language": "Evenki",
+        "percentage": "0.02",
+        "_id": 169650725540797406
+    },
+    {
+        "country": "R",
+        "language": "Khanty",
+        "percentage": "0.01",
+        "_id": 8868651351901094517
+    },
+    {
+        "country": "B",
+        "language": "Dutch",
+        "percentage": "55",
+        "_id": -1737771105154094093
+    },
+    {
+        "country": "B",
+        "language": "French",
+        "percentage": "39",
+        "_id": 4930897267318140203
+    },
+    {
+        "country": "B",
+        "language": "Arabic",
+        "percentage": "3",
+        "_id": -4149436410475992813
+    },
+    {
+        "country": "B",
+        "language": "Italian",
+        "percentage": "2",
+        "_id": 2240205717598932032
+    },
+    {
+        "country": "B",
+        "language": "Turkish",
+        "percentage": "1",
+        "_id": 8677544549315333601
+    },
+    {
+        "country": "B",
+        "language": "German",
+        "percentage": "0.7",
+        "_id": -3073112109744685913
+    },
+    {
+        "country": "L",
+        "language": "Luxembourgish",
+        "percentage": "55.8",
+        "_id": 3031442371037079173
+    },
+    {
+        "country": "L",
+        "language": "Portuguese",
+        "percentage": "15.7",
+        "_id": -8139505810597302132
+    },
+    {
+        "country": "L",
+        "language": "French",
+        "percentage": "12.1",
+        "_id": 4428400888545731685
+    },
+    {
+        "country": "L",
+        "language": "German",
+        "percentage": "3.1",
+        "_id": -2612168960404375213
+    },
+    {
+        "country": "L",
+        "language": "Italian",
+        "percentage": "2.9",
+        "_id": -8363914461902167684
+    },
+    {
+        "country": "L",
+        "language": "English",
+        "percentage": "2.1",
+        "_id": 3892769968664769736
+    },
+    {
+        "country": "NL",
+        "language": "Dutch",
+        "percentage": "85",
+        "_id": 8741806660965355326
+    },
+    {
+        "country": "NL",
+        "language": "Frisian",
+        "percentage": "2.5",
+        "_id": -4282254541987126585
+    },
+    {
+        "country": "NL",
+        "language": "Malay",
+        "percentage": "2",
+        "_id": 7761513948719783424
+    },
+    {
+        "country": "NL",
+        "language": "Arabic",
+        "percentage": "2",
+        "_id": 6694386081978255182
+    },
+    {
+        "country": "NL",
+        "language": "Turkish",
+        "percentage": "1.5",
+        "_id": 6778411874654594051
+    },
+    {
+        "country": "NL",
+        "language": "Polish",
+        "percentage": "1",
+        "_id": -1556510123705693211
+    },
+    {
+        "country": "NL",
+        "language": "Berber",
+        "percentage": "1",
+        "_id": 4841557972522762010
+    },
+    {
+        "country": "NL",
+        "language": "Kurdish",
+        "percentage": "0.3",
+        "_id": -7680634132146851276
+    },
+    {
+        "country": "SLO",
+        "language": "Slovenian",
+        "percentage": "92",
+        "_id": 6070644995748697499
+    },
+    {
+        "country": "SLO",
+        "language": "Serbo-Croatian",
+        "percentage": "4.5",
+        "_id": 1817399380870563422
+    },
+    {
+        "country": "SLO",
+        "language": "Hungarian",
+        "percentage": "0.4",
+        "_id": 2160186000767914851
+    },
+    {
+        "country": "SLO",
+        "language": "Albanian",
+        "percentage": "0.4",
+        "_id": -6472344552580913778
+    },
+    {
+        "country": "SLO",
+        "language": "Italian",
+        "percentage": "0.2",
+        "_id": 8098900410320283705
+    },
+    {
+        "country": "SLO",
+        "language": "Roma",
+        "percentage": "0.2",
+        "_id": -6532996646694493809
+    },
+    {
+        "country": "HR",
+        "language": "Serbo-Croatian",
+        "percentage": "96.8",
+        "_id": -3939467369092641342
+    },
+    {
+        "country": "HR",
+        "language": "Roma",
+        "percentage": "0.4",
+        "_id": 1243627533311674321
+    },
+    {
+        "country": "BIH",
+        "language": "Serbo-Croatian",
+        "percentage": "98.3",
+        "_id": -604277847353542997
+    },
+    {
+        "country": "BG",
+        "language": "Bulgarian",
+        "percentage": "85",
+        "_id": -6763970663538777
+    },
+    {
+        "country": "BG",
+        "language": "Turkish",
+        "percentage": "9.1",
+        "_id": 1938080422090953020
+    },
+    {
+        "country": "BG",
+        "language": "Roma",
+        "percentage": "4.2",
+        "_id": -2565322387833751491
+    },
+    {
+        "country": "RO",
+        "language": "Romanian",
+        "percentage": "91",
+        "_id": -2178841352129605717
+    },
+    {
+        "country": "RO",
+        "language": "Hungarian",
+        "percentage": "6.3",
+        "_id": 7780762017145967159
+    },
+    {
+        "country": "RO",
+        "language": "Roma",
+        "percentage": "1.2",
+        "_id": 3892787237448398802
+    },
+    {
+        "country": "RO",
+        "language": "Ukrainian",
+        "percentage": "0.3",
+        "_id": 4155901825576458584
+    },
+    {
+        "country": "RO",
+        "language": "Turkish",
+        "percentage": "0.15",
+        "_id": -2939889603963081564
+    },
+    {
+        "country": "RO",
+        "language": "German",
+        "percentage": "0.1",
+        "_id": 816880950296461136
+    },
+    {
+        "country": "RO",
+        "language": "Russian",
+        "percentage": "0.1",
+        "_id": 1823288799375994036
+    },
+    {
+        "country": "RO",
+        "language": "Crimean Tatar",
+        "percentage": "0.1",
+        "_id": -7614660436033560175
+    },
+    {
+        "country": "RO",
+        "language": "Aromanian",
+        "percentage": "0.1",
+        "_id": -7429479125500440027
+    },
+    {
+        "country": "DK",
+        "language": "Danish",
+        "percentage": "98",
+        "_id": 2647545867111830487
+    },
+    {
+        "country": "DK",
+        "language": "German",
+        "percentage": "0.5",
+        "_id": -1310960531735809750
+    },
+    {
+        "country": "IS",
+        "language": "Icelandic",
+        "percentage": "93.2",
+        "_id": -5009771102581726062
+    },
+    {
+        "country": "IS",
+        "language": "Lithuanian",
+        "percentage": "0.43",
+        "_id": -8664898429304591641
+    },
+    {
+        "country": "IS",
+        "language": "English",
+        "percentage": "0.32",
+        "_id": 1195735384419332817
+    },
+    {
+        "country": "IS",
+        "language": "German",
+        "percentage": "0.31",
+        "_id": 497279373331549120
+    },
+    {
+        "country": "IS",
+        "language": "Danish",
+        "percentage": "0.31",
+        "_id": -2144029577437852135
+    },
+    {
+        "country": "FO",
+        "language": "Faroese",
+        "percentage": "93.8",
+        "_id": 3192489139387122238
+    },
+    {
+        "country": "FO",
+        "language": "Danish",
+        "percentage": "3.2",
+        "_id": 5576254020785896381
+    },
+    {
+        "country": "IRL",
+        "language": "English",
+        "percentage": "95",
+        "_id": 6486970929188834174
+    },
+    {
+        "country": "IRL",
+        "language": "Polish",
+        "percentage": "2.3",
+        "_id": 1754144833851052310
+    },
+    {
+        "country": "IRL",
+        "language": "Irish",
+        "percentage": "2",
+        "_id": -2372840765947993271
+    },
+    {
+        "country": "IRL",
+        "language": "Lithuanian",
+        "percentage": "0.7",
+        "_id": 3240328870888265550
+    },
+    {
+        "country": "IRL",
+        "language": "Romanian",
+        "percentage": "0.7",
+        "_id": 8181508530311466532
+    },
+    {
+        "country": "IRL",
+        "language": "Latvian",
+        "percentage": "0.3",
+        "_id": -6587781105933508298
+    },
+    {
+        "country": "IRL",
+        "language": "Arabic",
+        "percentage": "0.3",
+        "_id": -2330774313384474830
+    },
+    {
+        "country": "IRL",
+        "language": "Malayalam",
+        "percentage": "0.2",
+        "_id": -7469312329904913382
+    },
+    {
+        "country": "IRL",
+        "language": "Yoruba",
+        "percentage": "0.2",
+        "_id": 3713431523162332632
+    },
+    {
+        "country": "IRL",
+        "language": "Igbo",
+        "percentage": "0.1",
+        "_id": -2505201251994131147
+    },
+    {
+        "country": "SF",
+        "language": "Finnish",
+        "percentage": "87.6",
+        "_id": -8720471979856785559
+    },
+    {
+        "country": "SF",
+        "language": "Swedish",
+        "percentage": "5.2",
+        "_id": 228593939945740292
+    },
+    {
+        "country": "SF",
+        "language": "Russian",
+        "percentage": "1.4",
+        "_id": -4136671579984869805
+    },
+    {
+        "country": "SF",
+        "language": "Estonian",
+        "percentage": "0.9",
+        "_id": -7387563431214397301
+    },
+    {
+        "country": "SF",
+        "language": "Arabic",
+        "percentage": "0.5",
+        "_id": -2034904730197800876
+    },
+    {
+        "country": "SF",
+        "language": "Somali",
+        "percentage": "0.4",
+        "_id": 3198972470954558655
+    },
+    {
+        "country": "SF",
+        "language": "English",
+        "percentage": "0.4",
+        "_id": 2504137913772458732
+    },
+    {
+        "country": "SF",
+        "language": "Sami",
+        "percentage": "0.05",
+        "_id": -4061899991768060017
+    },
+    {
+        "country": "N",
+        "language": "Norwegian",
+        "percentage": "99",
+        "_id": 1806047945133678461
+    },
+    {
+        "country": "N",
+        "language": "Sami",
+        "percentage": "0.3",
+        "_id": 6591595600501338272
+    },
+    {
+        "country": "S",
+        "language": "Swedish",
+        "percentage": "82",
+        "_id": -7795116658659312224
+    },
+    {
+        "country": "S",
+        "language": "Arabic",
+        "percentage": "3.5",
+        "_id": 1535056899808782259
+    },
+    {
+        "country": "S",
+        "language": "Finnish",
+        "percentage": "1.4",
+        "_id": -2724363027975846587
+    },
+    {
+        "country": "S",
+        "language": "Polish",
+        "percentage": "0.7",
+        "_id": 5386463272604811644
+    },
+    {
+        "country": "S",
+        "language": "Sami",
+        "percentage": "0.1",
+        "_id": 5907389302937430403
+    },
+    {
+        "country": "MC",
+        "language": "French",
+        "percentage": "50",
+        "_id": -2488663932330697763
+    },
+    {
+        "country": "MC",
+        "language": "Italian",
+        "percentage": "22",
+        "_id": 5884032265992123698
+    },
+    {
+        "country": "MC",
+        "language": "English",
+        "percentage": "8.5",
+        "_id": -3715075278531950521
+    },
+    {
+        "country": "MC",
+        "language": "German",
+        "percentage": "4",
+        "_id": 3764914014914481942
+    },
+    {
+        "country": "MC",
+        "language": "Russian",
+        "percentage": "2",
+        "_id": -2409824021618198495
+    },
+    {
+        "country": "MC",
+        "language": "Greek",
+        "percentage": "1",
+        "_id": 4255114326457587350
+    },
+    {
+        "country": "V",
+        "language": "Latin",
+        "_id": -6496258221806316215
+    },
+    {
+        "country": "V",
+        "language": "Italian",
+        "_id": -2057752319334328639
+    },
+    {
+        "country": "CEU",
+        "language": "Spanish",
+        "_id": 3649039877036256279
+    },
+    {
+        "country": "CEU",
+        "language": "Arabic",
+        "_id": -119374356390172092
+    },
+    {
+        "country": "CEU",
+        "language": "Berber",
+        "_id": -2234900487868501490
+    },
+    {
+        "country": "MEL",
+        "language": "Spanish",
+        "_id": 7071610655304521372
+    },
+    {
+        "country": "MEL",
+        "language": "Berber",
+        "_id": -5661494215631190869
+    },
+    {
+        "country": "MEL",
+        "language": "Arabic",
+        "_id": 8846523446884424587
+    },
+    {
+        "country": "RSM",
+        "language": "Italian",
+        "percentage": "99",
+        "_id": 7371476388739195983
+    },
+    {
+        "country": "M",
+        "language": "Maltese",
+        "percentage": "88",
+        "_id": -2044800634567326894
+    },
+    {
+        "country": "M",
+        "language": "Italian",
+        "percentage": "8",
+        "_id": 1232634763341070870
+    },
+    {
+        "country": "M",
+        "language": "English",
+        "percentage": "2",
+        "_id": -7765672165364967744
+    },
+    {
+        "country": "GBM",
+        "language": "English",
+        "percentage": "100",
+        "_id": -4258828404271870617
+    },
+    {
+        "country": "MD",
+        "language": "Romanian",
+        "percentage": "78.6",
+        "_id": -7604442356200095340
+    },
+    {
+        "country": "MD",
+        "language": "Russian",
+        "percentage": "14.5",
+        "_id": 66110647813597981
+    },
+    {
+        "country": "MD",
+        "language": "Gagauz",
+        "percentage": "2.7",
+        "_id": 6045885585039243838
+    },
+    {
+        "country": "MD",
+        "language": "Ukrainian",
+        "percentage": "2.7",
+        "_id": -1406786569004469502
+    },
+    {
+        "country": "MD",
+        "language": "Bulgarian",
+        "percentage": "1",
+        "_id": -9181998597879467798
+    },
+    {
+        "country": "MD",
+        "language": "Roma",
+        "percentage": "0.3",
+        "_id": -8252905738702260366
+    },
+    {
+        "country": "P",
+        "language": "Portuguese",
+        "percentage": "97",
+        "_id": -2867456858976510769
+    },
+    {
+        "country": "P",
+        "language": "Ukrainian",
+        "percentage": "0.5",
+        "_id": 6526065127497591075
+    },
+    {
+        "country": "P",
+        "language": "Romanian",
+        "percentage": "0.4",
+        "_id": -4014490834053420880
+    },
+    {
+        "country": "SVA",
+        "language": "Norwegian",
+        "percentage": "58",
+        "_id": -8772047687313039254
+    },
+    {
+        "country": "GB",
+        "language": "English",
+        "percentage": "88",
+        "_id": 1145344318483430768
+    },
+    {
+        "country": "GB",
+        "language": "Scots",
+        "percentage": "2.5",
+        "_id": -8893552282985204499
+    },
+    {
+        "country": "GB",
+        "language": "Welsh",
+        "percentage": "1.5",
+        "_id": 2207664500801449338
+    },
+    {
+        "country": "GB",
+        "language": "Polish",
+        "percentage": "1",
+        "_id": 7294648445692367347
+    },
+    {
+        "country": "GB",
+        "language": "Punjabi",
+        "percentage": "0.5",
+        "_id": -1970005708304502899
+    },
+    {
+        "country": "GB",
+        "language": "Urdu",
+        "percentage": "0.5",
+        "_id": -3205985415180567431
+    },
+    {
+        "country": "GB",
+        "language": "Bengali",
+        "percentage": "0.4",
+        "_id": 7124208903967441808
+    },
+    {
+        "country": "GB",
+        "language": "Gujarati",
+        "percentage": "0.4",
+        "_id": -8371085787342411255
+    },
+    {
+        "country": "GB",
+        "language": "Arabic",
+        "percentage": "0.3",
+        "_id": -5401524997661752898
+    },
+    {
+        "country": "GB",
+        "language": "French",
+        "percentage": "0.3",
+        "_id": 9105221371482668216
+    },
+    {
+        "country": "GB",
+        "language": "Chinese",
+        "percentage": "0.3",
+        "_id": -7637918917402722854
+    },
+    {
+        "country": "GB",
+        "language": "Portuguese",
+        "percentage": "0.2",
+        "_id": 5012154328191769028
+    },
+    {
+        "country": "GB",
+        "language": "Spanish",
+        "percentage": "0.2",
+        "_id": -2425907159306248721
+    },
+    {
+        "country": "GB",
+        "language": "Tamil",
+        "percentage": "0.2",
+        "_id": 4115393643744634413
+    },
+    {
+        "country": "GB",
+        "language": "Turkish",
+        "percentage": "0.2",
+        "_id": 7773323151649432819
+    },
+    {
+        "country": "GB",
+        "language": "Italian",
+        "percentage": "0.2",
+        "_id": -979673005714572921
+    },
+    {
+        "country": "GB",
+        "language": "Somali",
+        "percentage": "0.2",
+        "_id": 6056131643102320630
+    },
+    {
+        "country": "GB",
+        "language": "Lithuanian",
+        "percentage": "0.2",
+        "_id": -7000750811177338591
+    },
+    {
+        "country": "GB",
+        "language": "Irish",
+        "percentage": "0.1",
+        "_id": -5902456799252607945
+    },
+    {
+        "country": "GB",
+        "language": "Scottish Gaelic",
+        "percentage": "0.1",
+        "_id": 8181256349476236369
+    },
+    {
+        "country": "GBZ",
+        "language": "Llanito",
+        "_id": 6908013481896719486
+    },
+    {
+        "country": "GBZ",
+        "language": "English",
+        "_id": -8602156542667276571
+    },
+    {
+        "country": "GBZ",
+        "language": "Spanish",
+        "_id": -6054179055314844019
+    },
+    {
+        "country": "GBG",
+        "language": "English",
+        "_id": 5277146590556973064
+    },
+    {
+        "country": "GBJ",
+        "language": "English",
+        "percentage": "94.5",
+        "_id": -2321571305236159822
+    },
+    {
+        "country": "GBJ",
+        "language": "Portuguese",
+        "percentage": "4.6",
+        "_id": -26316328160306152
+    },
+    {
+        "country": "ARM",
+        "language": "Armenian",
+        "percentage": "97.9",
+        "_id": -7923521656296682371
+    },
+    {
+        "country": "ARM",
+        "language": "Kurdish",
+        "percentage": "1",
+        "_id": -3315052186788507317
+    },
+    {
+        "country": "ARM",
+        "language": "Russian",
+        "percentage": "0.6",
+        "_id": -5063114990678461260
+    },
+    {
+        "country": "GE",
+        "language": "Georgian",
+        "percentage": "87.6",
+        "_id": 2859087268915050037
+    },
+    {
+        "country": "GE",
+        "language": "Azerbaijani",
+        "percentage": "6.2",
+        "_id": -877045107469447127
+    },
+    {
+        "country": "GE",
+        "language": "Armenian",
+        "percentage": "3.9",
+        "_id": -7588590584986550272
+    },
+    {
+        "country": "GE",
+        "language": "Abkhaz",
+        "percentage": "2.5",
+        "_id": -2546617571569110452
+    },
+    {
+        "country": "GE",
+        "language": "Ossetian",
+        "percentage": "1.5",
+        "_id": -5526870163307151912
+    },
+    {
+        "country": "GE",
+        "language": "Russian",
+        "percentage": "1.2",
+        "_id": 367355409679032258
+    },
+    {
+        "country": "AZ",
+        "language": "Azerbaijani",
+        "percentage": "92.5",
+        "_id": -5898340190763245684
+    },
+    {
+        "country": "AZ",
+        "language": "Lezgian",
+        "percentage": "2.2",
+        "_id": -7189940926207642433
+    },
+    {
+        "country": "AZ",
+        "language": "Armenian",
+        "percentage": "1.4",
+        "_id": -7021756486413557246
+    },
+    {
+        "country": "AZ",
+        "language": "Russian",
+        "percentage": "1.3",
+        "_id": 7190191754005141048
+    },
+    {
+        "country": "TR",
+        "language": "Turkish",
+        "percentage": "84.5",
+        "_id": 2953209804560606045
+    },
+    {
+        "country": "TR",
+        "language": "Kurdish",
+        "percentage": "12",
+        "_id": -3881825648871738312
+    },
+    {
+        "country": "TR",
+        "language": "Arabic",
+        "percentage": "1.4",
+        "_id": 5662654309332954123
+    },
+    {
+        "country": "TR",
+        "language": "Zaza",
+        "percentage": "1",
+        "_id": -7757834315263374045
+    },
+    {
+        "country": "TR",
+        "language": "Circassian",
+        "percentage": "1",
+        "_id": -6233836527732545235
+    },
+    {
+        "country": "RL",
+        "language": "Arabic",
+        "percentage": "95",
+        "_id": -2489944997516303079
+    },
+    {
+        "country": "RL",
+        "language": "Armenian",
+        "percentage": "4",
+        "_id": -1082077202620491428
+    },
+    {
+        "country": "WB",
+        "language": "Arabic",
+        "percentage": "83",
+        "_id": 6537131220724404942
+    },
+    {
+        "country": "WB",
+        "language": "Hebrew",
+        "percentage": "17",
+        "_id": -988120563147009895
+    },
+    {
+        "country": "GAZA",
+        "language": "Arabic",
+        "percentage": "99.8",
+        "_id": -5148858554672974375
+    },
+    {
+        "country": "IL",
+        "language": "Hebrew",
+        "percentage": "60",
+        "_id": -2430647992130412858
+    },
+    {
+        "country": "IL",
+        "language": "Arabic",
+        "percentage": "18",
+        "_id": -3747285972624545754
+    },
+    {
+        "country": "IL",
+        "language": "Russian",
+        "percentage": "15",
+        "_id": -2133925494965920356
+    },
+    {
+        "country": "IL",
+        "language": "German",
+        "percentage": "3",
+        "_id": -1701708349826425980
+    },
+    {
+        "country": "IL",
+        "language": "Amharic",
+        "percentage": "2",
+        "_id": -7484564355925762155
+    },
+    {
+        "country": "IL",
+        "language": "Persian",
+        "percentage": "2",
+        "_id": 7437276089716726975
+    },
+    {
+        "country": "IL",
+        "language": "English",
+        "_id": -7891220924374745885
+    },
+    {
+        "country": "SYR",
+        "language": "Arabic",
+        "percentage": "85",
+        "_id": 7257573626304251718
+    },
+    {
+        "country": "SYR",
+        "language": "Kurdish",
+        "percentage": "9",
+        "_id": -7179721477058251319
+    },
+    {
+        "country": "SYR",
+        "language": "Turkish",
+        "percentage": "4",
+        "_id": -8387924582024229123
+    },
+    {
+        "country": "SYR",
+        "language": "Circassian",
+        "percentage": "4",
+        "_id": -637151840562554909
+    },
+    {
+        "country": "JOR",
+        "language": "Arabic",
+        "percentage": "98",
+        "_id": 4706100884296556672
+    },
+    {
+        "country": "JOR",
+        "language": "Armenian",
+        "percentage": "0.5",
+        "_id": -6932424189364170666
+    },
+    {
+        "country": "JOR",
+        "language": "Circassian",
+        "percentage": "0.5",
+        "_id": 775664212769540462
+    },
+    {
+        "country": "SA",
+        "language": "Arabic",
+        "percentage": "85",
+        "_id": -3695786982889894217
+    },
+    {
+        "country": "SA",
+        "language": "Hindi",
+        "percentage": "3.5",
+        "_id": -918236059035928701
+    },
+    {
+        "country": "SA",
+        "language": "Indonesian",
+        "percentage": "3",
+        "_id": -2330933888777258555
+    },
+    {
+        "country": "SA",
+        "language": "Mehri",
+        "percentage": "2.5",
+        "_id": -1291034664761131347
+    },
+    {
+        "country": "SA",
+        "language": "Filipino",
+        "percentage": "2.3",
+        "_id": -8041610925741996593
+    },
+    {
+        "country": "SA",
+        "language": "Malayalam",
+        "percentage": "1.5",
+        "_id": -6009982842652905726
+    },
+    {
+        "country": "SA",
+        "language": "Rohingya",
+        "percentage": "1.3",
+        "_id": 403518451493720023
+    },
+    {
+        "country": "SA",
+        "language": "Urdu",
+        "percentage": "1.2",
+        "_id": 5039061609748713495
+    },
+    {
+        "country": "BRN",
+        "language": "Arabic",
+        "_id": 5975424625521849661
+    },
+    {
+        "country": "Q",
+        "language": "Arabic",
+        "_id": 3202399163132400285
+    },
+    {
+        "country": "Q",
+        "language": "English",
+        "_id": -6810879578443026053
+    },
+    {
+        "country": "UAE",
+        "language": "Arabic",
+        "percentage": "30",
+        "_id": 1857979718984532680
+    },
+    {
+        "country": "UAE",
+        "language": "Malayalam",
+        "percentage": "11",
+        "_id": -5147126026039302384
+    },
+    {
+        "country": "UAE",
+        "language": "Filipino",
+        "percentage": "6.1",
+        "_id": -352640448588846932
+    },
+    {
+        "country": "UAE",
+        "language": "Punjabi",
+        "percentage": "6",
+        "_id": -1291696233621309926
+    },
+    {
+        "country": "UAE",
+        "language": "Tamil",
+        "percentage": "5",
+        "_id": 6611639718428751506
+    },
+    {
+        "country": "UAE",
+        "language": "Pashto",
+        "percentage": "5",
+        "_id": 8955022281891221912
+    },
+    {
+        "country": "UAE",
+        "language": "Sindhi",
+        "percentage": "3",
+        "_id": -3608240995886583454
+    },
+    {
+        "country": "UAE",
+        "language": "English",
+        "_id": -8345579237932318079
+    },
+    {
+        "country": "OM",
+        "language": "Arabic",
+        "percentage": "60",
+        "_id": 8627115502772488049
+    },
+    {
+        "country": "OM",
+        "language": "Mehri",
+        "percentage": "3",
+        "_id": -808012458171968208
+    },
+    {
+        "country": "OM",
+        "language": "Shehri",
+        "percentage": "2.5",
+        "_id": -47539227670635347
+    },
+    {
+        "country": "YE",
+        "language": "Arabic",
+        "percentage": "98",
+        "_id": -8676880583751361411
+    },
+    {
+        "country": "YE",
+        "language": "Soqotri",
+        "percentage": "0.3",
+        "_id": -3241318449888870030
+    },
+    {
+        "country": "YE",
+        "language": "Mehri",
+        "percentage": "0.2",
+        "_id": 306238017832303650
+    },
+    {
+        "country": "KWT",
+        "language": "Arabic",
+        "percentage": "64",
+        "_id": 763500286856007196
+    },
+    {
+        "country": "KWT",
+        "language": "Persian",
+        "percentage": "10",
+        "_id": -3475008892782232471
+    },
+    {
+        "country": "IRQ",
+        "language": "Arabic",
+        "percentage": "70",
+        "_id": 9174204907333211765
+    },
+    {
+        "country": "IRQ",
+        "language": "Kurdish",
+        "percentage": "15.5",
+        "_id": -6052211234807834979
+    },
+    {
+        "country": "IRQ",
+        "language": "Turkish",
+        "percentage": "10",
+        "_id": -5159040911364305458
+    },
+    {
+        "country": "IRQ",
+        "language": "Luri",
+        "percentage": "0.2",
+        "_id": -5839186593338444901
+    },
+    {
+        "country": "IR",
+        "language": "Persian",
+        "percentage": "60",
+        "_id": -5851368106130653941
+    },
+    {
+        "country": "IR",
+        "language": "Azerbaijani",
+        "percentage": "16",
+        "_id": 7511683208276312212
+    },
+    {
+        "country": "IR",
+        "language": "Kurdish",
+        "percentage": "10",
+        "_id": -6448063436157990754
+    },
+    {
+        "country": "IR",
+        "language": "Luri",
+        "percentage": "6",
+        "_id": 45217966932015517
+    },
+    {
+        "country": "IR",
+        "language": "Turkmen",
+        "percentage": "2",
+        "_id": -7446591210563493303
+    },
+    {
+        "country": "IR",
+        "language": "Arabic",
+        "percentage": "2",
+        "_id": -4099967813346910430
+    },
+    {
+        "country": "IR",
+        "language": "Balochi",
+        "percentage": "2",
+        "_id": 4217772112190435082
+    },
+    {
+        "country": "IR",
+        "language": "Qashqai",
+        "percentage": "1.2",
+        "_id": 7910447399199705582
+    },
+    {
+        "country": "IR",
+        "language": "Armenian",
+        "percentage": "0.3",
+        "_id": -1289068924048531474
+    },
+    {
+        "country": "AFG",
+        "language": "Dari",
+        "percentage": "41",
+        "_id": -1434337419487639346
+    },
+    {
+        "country": "AFG",
+        "language": "Pashto",
+        "percentage": "41",
+        "_id": 6249450758346600334
+    },
+    {
+        "country": "AFG",
+        "language": "Uzbek",
+        "percentage": "8",
+        "_id": -3623307469276257598
+    },
+    {
+        "country": "AFG",
+        "language": "Turkmen",
+        "percentage": "3",
+        "_id": 4757554472547662023
+    },
+    {
+        "country": "AFG",
+        "language": "Urdu",
+        "percentage": "3",
+        "_id": 5905132159069331219
+    },
+    {
+        "country": "AFG",
+        "language": "Balochi",
+        "percentage": "1",
+        "_id": 766490575943482670
+    },
+    {
+        "country": "AFG",
+        "language": "Arabic",
+        "percentage": "1",
+        "_id": 8009397570080718249
+    },
+    {
+        "country": "AFG",
+        "language": "Shugni",
+        "percentage": "0.1",
+        "_id": 7823877087812949991
+    },
+    {
+        "country": "TM",
+        "language": "Turkmen",
+        "percentage": "86",
+        "_id": 4744805404734867972
+    },
+    {
+        "country": "TM",
+        "language": "Russian",
+        "percentage": "7",
+        "_id": -3469328264750376255
+    },
+    {
+        "country": "TM",
+        "language": "Uzbek",
+        "percentage": "5.8",
+        "_id": 7583187201646822376
+    },
+    {
+        "country": "TM",
+        "language": "Azerbaijani",
+        "percentage": "1",
+        "_id": -6497209882651081640
+    },
+    {
+        "country": "TM",
+        "language": "Balochi",
+        "percentage": "0.8",
+        "_id": -6699037135302537111
+    },
+    {
+        "country": "UZ",
+        "language": "Uzbek",
+        "percentage": "74.3",
+        "_id": 4951972574846847298
+    },
+    {
+        "country": "UZ",
+        "language": "Russian",
+        "percentage": "14.2",
+        "_id": 6173233771011828116
+    },
+    {
+        "country": "UZ",
+        "language": "Dari",
+        "percentage": "4.4",
+        "_id": 3018860499048454570
+    },
+    {
+        "country": "UZ",
+        "language": "Kazakh",
+        "percentage": "2.5",
+        "_id": 9130795547719054112
+    },
+    {
+        "country": "UZ",
+        "language": "Karakalpak",
+        "percentage": "2",
+        "_id": -8991099969316903662
+    },
+    {
+        "country": "UZ",
+        "language": "Tatar",
+        "percentage": "0.6",
+        "_id": -2732160284938084608
+    },
+    {
+        "country": "UZ",
+        "language": "Crimean Tatar",
+        "percentage": "0.5",
+        "_id": 239695797084795584
+    },
+    {
+        "country": "UZ",
+        "language": "Uyghur",
+        "percentage": "0.2",
+        "_id": 7025296107661153314
+    },
+    {
+        "country": "TJ",
+        "language": "Dari",
+        "percentage": "84.4",
+        "_id": -4616133376908298583
+    },
+    {
+        "country": "TJ",
+        "language": "Uzbek",
+        "percentage": "11.9",
+        "_id": 8648254836635403609
+    },
+    {
+        "country": "TJ",
+        "language": "Shugni",
+        "percentage": "1",
+        "_id": -8835538829496575230
+    },
+    {
+        "country": "TJ",
+        "language": "Kyrgyz",
+        "percentage": "0.8",
+        "_id": 6991994232156879231
+    },
+    {
+        "country": "TJ",
+        "language": "Russian",
+        "percentage": "0.5",
+        "_id": 3864569299845896704
+    },
+    {
+        "country": "TJ",
+        "language": "Tatar",
+        "percentage": "0.1",
+        "_id": 3712732651840442232
+    },
+    {
+        "country": "KG",
+        "language": "Kyrgyz",
+        "percentage": "71.4",
+        "_id": -8825688734791242669
+    },
+    {
+        "country": "KG",
+        "language": "Uzbek",
+        "percentage": "14.4",
+        "_id": -7235029800074673595
+    },
+    {
+        "country": "KG",
+        "language": "Russian",
+        "percentage": "9",
+        "_id": 4635546922632452281
+    },
+    {
+        "country": "KG",
+        "language": "Dungan",
+        "percentage": "1.1",
+        "_id": -2268373832635326013
+    },
+    {
+        "country": "KG",
+        "language": "Uyghur",
+        "percentage": "1.1",
+        "_id": -7250991181742128153
+    },
+    {
+        "country": "KG",
+        "language": "Dari",
+        "percentage": "1.1",
+        "_id": -2175569051628956625
+    },
+    {
+        "country": "KG",
+        "language": "Kazakh",
+        "percentage": "0.7",
+        "_id": 2296878944713423793
+    },
+    {
+        "country": "KG",
+        "language": "Ukrainian",
+        "percentage": "0.5",
+        "_id": -4235687738065970208
+    },
+    {
+        "country": "KZ",
+        "language": "Kazakh",
+        "percentage": "68",
+        "_id": -1187453765847912653
+    },
+    {
+        "country": "KZ",
+        "language": "Russian",
+        "percentage": "20",
+        "_id": -3465854977155510356
+    },
+    {
+        "country": "KZ",
+        "language": "Uzbek",
+        "percentage": "2.1",
+        "_id": -5256239735775583781
+    },
+    {
+        "country": "KZ",
+        "language": "Ukrainian",
+        "percentage": "2.1",
+        "_id": -4772331899681644859
+    },
+    {
+        "country": "KZ",
+        "language": "Uyghur",
+        "percentage": "1.4",
+        "_id": 1881945226522093333
+    },
+    {
+        "country": "KZ",
+        "language": "Tatar",
+        "percentage": "1.3",
+        "_id": 1911335650647364518
+    },
+    {
+        "country": "KZ",
+        "language": "German",
+        "percentage": "1.1",
+        "_id": -1976656565868389651
+    },
+    {
+        "country": "KZ",
+        "language": "Tajik",
+        "percentage": "0.2",
+        "_id": -4023298729352796062
+    },
+    {
+        "country": "KZ",
+        "language": "Dungan",
+        "percentage": "0.2",
+        "_id": 250336400469488122
+    },
+    {
+        "country": "MNG",
+        "language": "Mongolian",
+        "percentage": "86",
+        "_id": 3896264287765811692
+    },
+    {
+        "country": "MNG",
+        "language": "Oirat",
+        "percentage": "7",
+        "_id": -8624964949156525925
+    },
+    {
+        "country": "MNG",
+        "language": "Kazakh",
+        "percentage": "4.5",
+        "_id": 3645666882487588827
+    },
+    {
+        "country": "MNG",
+        "language": "Buryat",
+        "percentage": "1.6",
+        "_id": -6522499561923241750
+    },
+    {
+        "country": "MV",
+        "language": "Dhivehi",
+        "percentage": "84",
+        "_id": 3637818808730691985
+    },
+    {
+        "country": "MV",
+        "language": "Bengali",
+        "percentage": "10",
+        "_id": 7404539593396923117
+    },
+    {
+        "country": "MV",
+        "language": "Filipino",
+        "percentage": "1",
+        "_id": -5034820541485998908
+    },
+    {
+        "country": "PK",
+        "language": "Punjabi",
+        "percentage": "50",
+        "_id": -2653522498295457789
+    },
+    {
+        "country": "PK",
+        "language": "Sindhi",
+        "percentage": "12",
+        "_id": -7873505251770704053
+    },
+    {
+        "country": "PK",
+        "language": "Saraiki",
+        "percentage": "10",
+        "_id": -1908520590530365683
+    },
+    {
+        "country": "PK",
+        "language": "Pashto",
+        "percentage": "8",
+        "_id": -3605396313310269593
+    },
+    {
+        "country": "PK",
+        "language": "Urdu",
+        "percentage": "8",
+        "_id": -7648422945469201092
+    },
+    {
+        "country": "PK",
+        "language": "Balochi",
+        "percentage": "3",
+        "_id": -2545972376884242043
+    },
+    {
+        "country": "PK",
+        "language": "Brahui",
+        "percentage": "2",
+        "_id": -8776616286721587379
+    },
+    {
+        "country": "PK",
+        "language": "Gujarati",
+        "percentage": "1",
+        "_id": -3237360782221089174
+    },
+    {
+        "country": "PK",
+        "language": "Balti",
+        "percentage": "0.2",
+        "_id": 4239931697024228875
+    },
+    {
+        "country": "PK",
+        "language": "Kashmiri",
+        "percentage": "0.1",
+        "_id": -5315975919765257101
+    },
+    {
+        "country": "IND",
+        "language": "Hindi",
+        "percentage": "37.5",
+        "_id": 7862046479695155775
+    },
+    {
+        "country": "IND",
+        "language": "Bengali",
+        "percentage": "8",
+        "_id": -7514273865279108577
+    },
+    {
+        "country": "IND",
+        "language": "Marathi",
+        "percentage": "6.9",
+        "_id": 2015498376911050412
+    },
+    {
+        "country": "IND",
+        "language": "Telugu",
+        "percentage": "6.7",
+        "_id": -5526411244967108858
+    },
+    {
+        "country": "IND",
+        "language": "Tamil",
+        "percentage": "5.7",
+        "_id": -7542820678508065319
+    },
+    {
+        "country": "IND",
+        "language": "Gujarati",
+        "percentage": "4.6",
+        "_id": 5641595954179976658
+    },
+    {
+        "country": "IND",
+        "language": "Urdu",
+        "percentage": "4.2",
+        "_id": -3864848973550081219
+    },
+    {
+        "country": "IND",
+        "language": "Bhojpuri",
+        "percentage": "4.2",
+        "_id": 2125641269903278122
+    },
+    {
+        "country": "IND",
+        "language": "Kannada",
+        "percentage": "3.6",
+        "_id": -4294569124336784412
+    },
+    {
+        "country": "IND",
+        "language": "Odia",
+        "percentage": "3.1",
+        "_id": -2251396439983787528
+    },
+    {
+        "country": "IND",
+        "language": "Malayalam",
+        "percentage": "2.9",
+        "_id": 2129754012590914083
+    },
+    {
+        "country": "IND",
+        "language": "Punjabi",
+        "percentage": "2.7",
+        "_id": -5444624352725853511
+    },
+    {
+        "country": "IND",
+        "language": "Magadhi",
+        "percentage": "1.6",
+        "_id": -3058786237627276888
+    },
+    {
+        "country": "IND",
+        "language": "Assamese",
+        "percentage": "1.2",
+        "_id": -6527104273769533848
+    },
+    {
+        "country": "IND",
+        "language": "Maithili",
+        "percentage": "1.1",
+        "_id": -3555106586659944571
+    },
+    {
+        "country": "IND",
+        "language": "Santali",
+        "percentage": "0.6",
+        "_id": 5387917935450389294
+    },
+    {
+        "country": "IND",
+        "language": "Kashmiri",
+        "percentage": "0.6",
+        "_id": 3568922086786426043
+    },
+    {
+        "country": "IND",
+        "language": "Awadhi",
+        "percentage": "0.3",
+        "_id": -924785608562349
+    },
+    {
+        "country": "IND",
+        "language": "Gondi",
+        "percentage": "0.25",
+        "_id": 5248849182016760680
+    },
+    {
+        "country": "IND",
+        "language": "Nepali",
+        "percentage": "0.2",
+        "_id": -6037703962231301765
+    },
+    {
+        "country": "IND",
+        "language": "Chin",
+        "percentage": "0.2",
+        "_id": -6975457323775530940
+    },
+    {
+        "country": "IND",
+        "language": "Kurukh",
+        "percentage": "0.2",
+        "_id": -5140867372139065917
+    },
+    {
+        "country": "IND",
+        "language": "Meitei",
+        "percentage": "0.15",
+        "_id": -6278918299301706225
+    },
+    {
+        "country": "IND",
+        "language": "Khasi",
+        "percentage": "0.1",
+        "_id": 1613171574972215032
+    },
+    {
+        "country": "IND",
+        "language": "Mundari",
+        "percentage": "0.1",
+        "_id": 5731755185640871106
+    },
+    {
+        "country": "IND",
+        "language": "Sindhi",
+        "percentage": "0.1",
+        "_id": -3843882150344235380
+    },
+    {
+        "country": "IND",
+        "language": "Pashto",
+        "percentage": "0.1",
+        "_id": 4955123590248577169
+    },
+    {
+        "country": "IND",
+        "language": "Bodo",
+        "percentage": "0.1",
+        "_id": 1369116469207888038
+    },
+    {
+        "country": "NEP",
+        "language": "Nepali",
+        "percentage": "44.6",
+        "_id": 7697230932051773641
+    },
+    {
+        "country": "NEP",
+        "language": "Maithili",
+        "percentage": "14.7",
+        "_id": -4869888577006691753
+    },
+    {
+        "country": "NEP",
+        "language": "Bhojpuri",
+        "percentage": "6",
+        "_id": -6205847893379511373
+    },
+    {
+        "country": "NEP",
+        "language": "Tharu",
+        "percentage": "5.8",
+        "_id": 1709115690718294429
+    },
+    {
+        "country": "NEP",
+        "language": "Tamang",
+        "percentage": "5.1",
+        "_id": 8033110513445941122
+    },
+    {
+        "country": "NEP",
+        "language": "Newar",
+        "percentage": "3.2",
+        "_id": -3262350279868489265
+    },
+    {
+        "country": "NEP",
+        "language": "Magar",
+        "percentage": "3",
+        "_id": -7086325879746446528
+    },
+    {
+        "country": "NEP",
+        "language": "Urdu",
+        "percentage": "2.6",
+        "_id": -5876221721353530304
+    },
+    {
+        "country": "NEP",
+        "language": "Awadhi",
+        "percentage": "1.9",
+        "_id": 3374906246259212475
+    },
+    {
+        "country": "NEP",
+        "language": "Sherpa",
+        "percentage": "1",
+        "_id": -8988671978722891207
+    },
+    {
+        "country": "NEP",
+        "language": "Kurukh",
+        "percentage": "0.1",
+        "_id": -1589351673383850156
+    },
+    {
+        "country": "NEP",
+        "language": "Central Tibetan",
+        "percentage": "0.1",
+        "_id": 5271767182746671515
+    },
+    {
+        "country": "BHT",
+        "language": "Nepali",
+        "percentage": "30",
+        "_id": -5213888784677857880
+    },
+    {
+        "country": "BHT",
+        "language": "Tshangla",
+        "percentage": "28",
+        "_id": -6989860541426137139
+    },
+    {
+        "country": "BHT",
+        "language": "Dzongkha",
+        "percentage": "24",
+        "_id": -1019225122429886363
+    },
+    {
+        "country": "BHT",
+        "language": "Kurukh",
+        "percentage": "0.6",
+        "_id": -3759476506597314390
+    },
+    {
+        "country": "BD",
+        "language": "Bengali",
+        "percentage": "98.5",
+        "_id": -9099850059848619264
+    },
+    {
+        "country": "BD",
+        "language": "Rohingya",
+        "percentage": "1",
+        "_id": -3880936118985757838
+    },
+    {
+        "country": "BD",
+        "language": "Santali",
+        "percentage": "0.2",
+        "_id": -5734341891391437483
+    },
+    {
+        "country": "BD",
+        "language": "Urdu",
+        "percentage": "0.2",
+        "_id": 3606745419300965158
+    },
+    {
+        "country": "MYA",
+        "language": "Burmese",
+        "percentage": "80",
+        "_id": -1241864487436795262
+    },
+    {
+        "country": "MYA",
+        "language": "Tai Nuea",
+        "percentage": "6",
+        "_id": 4287736952311105674
+    },
+    {
+        "country": "MYA",
+        "language": "Karen",
+        "percentage": "6",
+        "_id": 6818951146369506125
+    },
+    {
+        "country": "MYA",
+        "language": "Rakhine",
+        "percentage": "2",
+        "_id": 9200110286887557959
+    },
+    {
+        "country": "MYA",
+        "language": "Rohingya",
+        "percentage": "1.5",
+        "_id": 2521099291141451726
+    },
+    {
+        "country": "MYA",
+        "language": "Jingpo",
+        "percentage": "1.5",
+        "_id": 7619418931201934178
+    },
+    {
+        "country": "MYA",
+        "language": "Mon",
+        "percentage": "1.5",
+        "_id": 2750893445927065644
+    },
+    {
+        "country": "MYA",
+        "language": "Lisu",
+        "percentage": "1.2",
+        "_id": -6266473946865754123
+    },
+    {
+        "country": "MYA",
+        "language": "Chin",
+        "percentage": "1.2",
+        "_id": -7131939964151306825
+    },
+    {
+        "country": "MYA",
+        "language": "Wa",
+        "percentage": "1",
+        "_id": -8544628867858790175
+    },
+    {
+        "country": "MYA",
+        "language": "Hani",
+        "percentage": "0.4",
+        "_id": 6247703259447643115
+    },
+    {
+        "country": "MYA",
+        "language": "Lahu",
+        "percentage": "0.3",
+        "_id": -3933657476376845805
+    },
+    {
+        "country": "CL",
+        "language": "Sinhala",
+        "percentage": "74.9",
+        "_id": 6462109513336031040
+    },
+    {
+        "country": "CL",
+        "language": "Tamil",
+        "percentage": "24.6",
+        "_id": 1626156525586385099
+    },
+    {
+        "country": "CL",
+        "language": "English",
+        "percentage": "0.3",
+        "_id": 4138335316770414391
+    },
+    {
+        "country": "CN",
+        "language": "Mandarin",
+        "percentage": "71",
+        "_id": 3076952031556444144
+    },
+    {
+        "country": "CN",
+        "language": "Hokkien",
+        "percentage": "6.2",
+        "_id": -7422259010258965366
+    },
+    {
+        "country": "CN",
+        "language": "Wu",
+        "percentage": "6.1",
+        "_id": 5174152554736006916
+    },
+    {
+        "country": "CN",
+        "language": "Cantonese",
+        "percentage": "5.6",
+        "_id": 6508991294575860902
+    },
+    {
+        "country": "CN",
+        "language": "Gan",
+        "percentage": "3.9",
+        "_id": 6576598595887331090
+    },
+    {
+        "country": "CN",
+        "language": "Hakka",
+        "percentage": "3.5",
+        "_id": -7768025966738706070
+    },
+    {
+        "country": "CN",
+        "language": "Xiang",
+        "percentage": "3",
+        "_id": -6345345215217786204
+    },
+    {
+        "country": "CN",
+        "language": "Uyghur",
+        "percentage": "0.8",
+        "_id": -8467639860791931661
+    },
+    {
+        "country": "CN",
+        "language": "Northern Zhuang",
+        "percentage": "0.7",
+        "_id": -5892243332007943313
+    },
+    {
+        "country": "CN",
+        "language": "Southern Zhuang",
+        "percentage": "0.7",
+        "_id": -7670442566982107410
+    },
+    {
+        "country": "CN",
+        "language": "Yi",
+        "percentage": "0.5",
+        "_id": -5392395961048088457
+    },
+    {
+        "country": "CN",
+        "language": "Mongolian",
+        "percentage": "0.4",
+        "_id": 1744093663963193516
+    },
+    {
+        "country": "CN",
+        "language": "Huizhou",
+        "percentage": "0.3",
+        "_id": 8245201428229363000
+    },
+    {
+        "country": "CN",
+        "language": "Bouyei",
+        "percentage": "0.2",
+        "_id": -710811043793632157
+    },
+    {
+        "country": "CN",
+        "language": "Hmu",
+        "percentage": "0.2",
+        "_id": 9044743566193273285
+    },
+    {
+        "country": "CN",
+        "language": "Hmong",
+        "percentage": "0.2",
+        "_id": -2657171873595647208
+    },
+    {
+        "country": "CN",
+        "language": "Amdolese",
+        "percentage": "0.15",
+        "_id": 8610870943014393414
+    },
+    {
+        "country": "CN",
+        "language": "Kazakh",
+        "percentage": "0.15",
+        "_id": 7912248826927779872
+    },
+    {
+        "country": "CN",
+        "language": "Khams",
+        "percentage": "0.1",
+        "_id": 3540739196784426775
+    },
+    {
+        "country": "CN",
+        "language": "Kam",
+        "percentage": "0.1",
+        "_id": -368577387297527626
+    },
+    {
+        "country": "CN",
+        "language": "Hani",
+        "percentage": "0.1",
+        "_id": -5105651091118167260
+    },
+    {
+        "country": "CN",
+        "language": "Iu-Mien",
+        "percentage": "0.1",
+        "_id": -6717737139329356055
+    },
+    {
+        "country": "CN",
+        "language": "Central Tibetan",
+        "percentage": "0.1",
+        "_id": -4154931424417217115
+    },
+    {
+        "country": "CN",
+        "language": "Tujia",
+        "percentage": "0.05",
+        "_id": 6264244121125793653
+    },
+    {
+        "country": "CN",
+        "language": "Hlai",
+        "percentage": "0.05",
+        "_id": 4238349633108181317
+    },
+    {
+        "country": "CN",
+        "language": "Tai Nuea",
+        "percentage": "0.05",
+        "_id": -2803067438917451194
+    },
+    {
+        "country": "CN",
+        "language": "Lisu",
+        "percentage": "0.05",
+        "_id": -8234268170560623753
+    },
+    {
+        "country": "CN",
+        "language": "Lahu",
+        "percentage": "0.04",
+        "_id": -5299760351195126321
+    },
+    {
+        "country": "CN",
+        "language": "Wa",
+        "percentage": "0.03",
+        "_id": 7539217076014137277
+    },
+    {
+        "country": "CN",
+        "language": "Dongxiang",
+        "percentage": "0.015",
+        "_id": 6790414472792423135
+    },
+    {
+        "country": "CN",
+        "language": "Xibe",
+        "percentage": "0.014",
+        "_id": -6702758347903237690
+    },
+    {
+        "country": "CN",
+        "language": "Jingpo",
+        "percentage": "0.01",
+        "_id": 4969007788197391231
+    },
+    {
+        "country": "CN",
+        "language": "Kyrgyz",
+        "percentage": "0.01",
+        "_id": -7552388179157310956
+    },
+    {
+        "country": "CN",
+        "language": "Salar",
+        "percentage": "0.01",
+        "_id": -2790991843087680483
+    },
+    {
+        "country": "CN",
+        "language": "Oirat",
+        "percentage": "0.01",
+        "_id": -4852616934687485212
+    },
+    {
+        "country": "RC",
+        "language": "Hokkien",
+        "percentage": "70",
+        "_id": -5083686606388070182
+    },
+    {
+        "country": "RC",
+        "language": "Hakka",
+        "percentage": "16",
+        "_id": 1129011386604897739
+    },
+    {
+        "country": "RC",
+        "language": "Mandarin",
+        "percentage": "12",
+        "_id": -7823335140057015123
+    },
+    {
+        "country": "RC",
+        "language": "Amis",
+        "percentage": "0.7",
+        "_id": -2072909363686547279
+    },
+    {
+        "country": "RC",
+        "language": "Paiwan",
+        "percentage": "0.3",
+        "_id": 177219453146300823
+    },
+    {
+        "country": "HK",
+        "language": "Cantonese",
+        "percentage": "88.9",
+        "_id": 589076667058625620
+    },
+    {
+        "country": "HK",
+        "language": "English",
+        "percentage": "4.3",
+        "_id": -5114837997019748475
+    },
+    {
+        "country": "HK",
+        "language": "Hokkien",
+        "percentage": "3",
+        "_id": -561299466284778347
+    },
+    {
+        "country": "HK",
+        "language": "Mandarin",
+        "percentage": "1.9",
+        "_id": -7856506303910999699
+    },
+    {
+        "country": "MACX",
+        "language": "Cantonese",
+        "percentage": "85.7",
+        "_id": -8622509386808343097
+    },
+    {
+        "country": "MACX",
+        "language": "Mandarin",
+        "percentage": "5.5",
+        "_id": -4536718533211276706
+    },
+    {
+        "country": "MACX",
+        "language": "Tagalog",
+        "percentage": "3",
+        "_id": 8741591919345797247
+    },
+    {
+        "country": "MACX",
+        "language": "Hokkien",
+        "percentage": "3",
+        "_id": 5968992094185206696
+    },
+    {
+        "country": "MACX",
+        "language": "English",
+        "percentage": "2.8",
+        "_id": 3029430881109271407
+    },
+    {
+        "country": "MACX",
+        "language": "Portuguese",
+        "percentage": "0.6",
+        "_id": 1394002340339158640
+    },
+    {
+        "country": "KP",
+        "language": "Korean",
+        "percentage": "100",
+        "_id": 494050044301834138
+    },
+    {
+        "country": "ROK",
+        "language": "Korean",
+        "percentage": "100",
+        "_id": -1133526735463278836
+    },
+    {
+        "country": "J",
+        "language": "Japanese",
+        "percentage": "100",
+        "_id": -6689983022009215235
+    },
+    {
+        "country": "RP",
+        "language": "Tagalog",
+        "percentage": "24.4",
+        "_id": 1507907456139850633
+    },
+    {
+        "country": "RP",
+        "language": "Cebuanu",
+        "percentage": "21.4",
+        "_id": -1420637141987250308
+    },
+    {
+        "country": "RP",
+        "language": "Ilokano",
+        "percentage": "8.8",
+        "_id": 1030224134986398667
+    },
+    {
+        "country": "RP",
+        "language": "Hiligaynon",
+        "percentage": "8.4",
+        "_id": -8179994762337424543
+    },
+    {
+        "country": "VN",
+        "language": "Vietnamese",
+        "percentage": "90",
+        "_id": -5752183336596272928
+    },
+    {
+        "country": "VN",
+        "language": "Tay",
+        "percentage": "2",
+        "_id": -4722134613714892527
+    },
+    {
+        "country": "VN",
+        "language": "Khmer",
+        "percentage": "1.5",
+        "_id": -6326754239512400471
+    },
+    {
+        "country": "VN",
+        "language": "Hmong",
+        "percentage": "1.2",
+        "_id": 5414626965027719572
+    },
+    {
+        "country": "VN",
+        "language": "Nung",
+        "percentage": "1.1",
+        "_id": 1159129871572572101
+    },
+    {
+        "country": "VN",
+        "language": "Iu-Mien",
+        "percentage": "0.5",
+        "_id": 1897328193655905209
+    },
+    {
+        "country": "VN",
+        "language": "Jarai",
+        "percentage": "0.2",
+        "_id": -722244849028034868
+    },
+    {
+        "country": "VN",
+        "language": "Bahnar",
+        "percentage": "0.2",
+        "_id": 5925640821082546047
+    },
+    {
+        "country": "VN",
+        "language": "Koho",
+        "percentage": "0.2",
+        "_id": 2076993612642681095
+    },
+    {
+        "country": "VN",
+        "language": "Rade",
+        "percentage": "0.2",
+        "_id": 2692377665116441605
+    },
+    {
+        "country": "VN",
+        "language": "Sedang",
+        "percentage": "0.1",
+        "_id": -2769007043441303401
+    },
+    {
+        "country": "VN",
+        "language": "Bouyei",
+        "percentage": "0.1",
+        "_id": -5380630375740147961
+    },
+    {
+        "country": "VN",
+        "language": "Cham",
+        "percentage": "0.1",
+        "_id": -4144629463809658769
+    },
+    {
+        "country": "K",
+        "language": "Khmer",
+        "percentage": "96",
+        "_id": -4797915286214866796
+    },
+    {
+        "country": "K",
+        "language": "Cham",
+        "percentage": "1.5",
+        "_id": 2870654396726703129
+    },
+    {
+        "country": "K",
+        "language": "Jarai",
+        "percentage": "0.2",
+        "_id": -3014762002435023352
+    },
+    {
+        "country": "K",
+        "language": "Kuy",
+        "percentage": "0.2",
+        "_id": -4165593396866724278
+    },
+    {
+        "country": "K",
+        "language": "Vietnamese",
+        "percentage": "0.1",
+        "_id": -7117834512990917576
+    },
+    {
+        "country": "LAO",
+        "language": "Thai",
+        "percentage": "56.2",
+        "_id": -1874772219646214256
+    },
+    {
+        "country": "LAO",
+        "language": "Khmu",
+        "percentage": "11",
+        "_id": 2754674842867451727
+    },
+    {
+        "country": "LAO",
+        "language": "Hmong",
+        "percentage": "9",
+        "_id": 8264987545501952487
+    },
+    {
+        "country": "LAO",
+        "language": "Bru",
+        "percentage": "2",
+        "_id": -3517839285107798808
+    },
+    {
+        "country": "LAO",
+        "language": "TaOi",
+        "percentage": "2",
+        "_id": 495903844322981366
+    },
+    {
+        "country": "LAO",
+        "language": "Tai Nuea",
+        "percentage": "2",
+        "_id": 1061379894580840775
+    },
+    {
+        "country": "LAO",
+        "language": "Hani",
+        "percentage": "1",
+        "_id": -2238892225649914671
+    },
+    {
+        "country": "LAO",
+        "language": "Vietnamese",
+        "percentage": "1",
+        "_id": 8591255889846789419
+    },
+    {
+        "country": "LAO",
+        "language": "Kuy",
+        "percentage": "0.7",
+        "_id": -4532967598900396127
+    },
+    {
+        "country": "LAO",
+        "language": "Iu-Mien",
+        "percentage": "0.3",
+        "_id": -5132642905331560627
+    },
+    {
+        "country": "LAO",
+        "language": "Lahu",
+        "percentage": "0.2",
+        "_id": 8620097382320256959
+    },
+    {
+        "country": "THA",
+        "language": "Thai",
+        "percentage": "85",
+        "_id": -3834802041366335648
+    },
+    {
+        "country": "THA",
+        "language": "Khmer",
+        "percentage": "2.3",
+        "_id": -816036234946020297
+    },
+    {
+        "country": "THA",
+        "language": "Malay",
+        "percentage": "2",
+        "_id": -1714611838022135567
+    },
+    {
+        "country": "THA",
+        "language": "Karen",
+        "percentage": "0.5",
+        "_id": 8945223841051364281
+    },
+    {
+        "country": "THA",
+        "language": "Chinese",
+        "percentage": "0.3",
+        "_id": 53669434296159864
+    },
+    {
+        "country": "THA",
+        "language": "Kuy",
+        "percentage": "0.3",
+        "_id": 4805187422520852400
+    },
+    {
+        "country": "THA",
+        "language": "Hmong",
+        "percentage": "0.2",
+        "_id": -469546174694205127
+    },
+    {
+        "country": "THA",
+        "language": "Lisu",
+        "percentage": "0.1",
+        "_id": -2914236790745837180
+    },
+    {
+        "country": "THA",
+        "language": "Iu-Mien",
+        "percentage": "0.1",
+        "_id": 6700959458915371125
+    },
+    {
+        "country": "THA",
+        "language": "Lahu",
+        "percentage": "0.1",
+        "_id": -4576800752859133551
+    },
+    {
+        "country": "THA",
+        "language": "Mon",
+        "percentage": "0.1",
+        "_id": -7593427274714832901
+    },
+    {
+        "country": "MAL",
+        "language": "Malay",
+        "percentage": "84",
+        "_id": -2736992913482735873
+    },
+    {
+        "country": "MAL",
+        "language": "Minangkabau",
+        "percentage": "3",
+        "_id": -2697157382542794755
+    },
+    {
+        "country": "MAL",
+        "language": "Javanese",
+        "percentage": "2",
+        "_id": -5495325352207297342
+    },
+    {
+        "country": "MAL",
+        "language": "Hokkien",
+        "percentage": "0.7",
+        "_id": 6631827329745962907
+    },
+    {
+        "country": "MAL",
+        "language": "Hakka",
+        "percentage": "0.6",
+        "_id": -2602469136903392014
+    },
+    {
+        "country": "MAL",
+        "language": "Tamil",
+        "percentage": "0.6",
+        "_id": 6101264209985188479
+    },
+    {
+        "country": "MAL",
+        "language": "Malayalam",
+        "percentage": "0.6",
+        "_id": -1277835691146337471
+    },
+    {
+        "country": "MAL",
+        "language": "Rohingya",
+        "percentage": "0.5",
+        "_id": 5608777304180399962
+    },
+    {
+        "country": "MAL",
+        "language": "Cantonese",
+        "percentage": "0.5",
+        "_id": 7526074261893212396
+    },
+    {
+        "country": "MAL",
+        "language": "Mandarin",
+        "percentage": "0.4",
+        "_id": 3467036972354196781
+    },
+    {
+        "country": "MAL",
+        "language": "Teochew Chinese",
+        "percentage": "0.4",
+        "_id": -1869038129517481140
+    },
+    {
+        "country": "MAL",
+        "language": "Kedayan",
+        "percentage": "0.3",
+        "_id": -6219325523603254176
+    },
+    {
+        "country": "MAL",
+        "language": "Aslian",
+        "percentage": "0.3",
+        "_id": 8776339454425293615
+    },
+    {
+        "country": "MAL",
+        "language": "Iban",
+        "percentage": "0.3",
+        "_id": -234677950506020347
+    },
+    {
+        "country": "BRU",
+        "language": "Malay",
+        "percentage": "65.7",
+        "_id": -1571968385463285402
+    },
+    {
+        "country": "BRU",
+        "language": "Kedayan",
+        "percentage": "10",
+        "_id": 7320764910376040074
+    },
+    {
+        "country": "BRU",
+        "language": "Chinese",
+        "percentage": "10",
+        "_id": 3159822132482473700
+    },
+    {
+        "country": "SGP",
+        "language": "English",
+        "percentage": "36.9",
+        "_id": 8925361310561187115
+    },
+    {
+        "country": "SGP",
+        "language": "Mandarin",
+        "percentage": "34.9",
+        "_id": 1115496493218832855
+    },
+    {
+        "country": "SGP",
+        "language": "Malay",
+        "percentage": "10.7",
+        "_id": -6032775256884607553
+    },
+    {
+        "country": "SGP",
+        "language": "Hokkien",
+        "percentage": "4",
+        "_id": 9004403431964458657
+    },
+    {
+        "country": "SGP",
+        "language": "Tamil",
+        "percentage": "3.3",
+        "_id": -516325945617646815
+    },
+    {
+        "country": "SGP",
+        "language": "Cantonese",
+        "percentage": "2",
+        "_id": -5017364643391360372
+    },
+    {
+        "country": "RI",
+        "language": "Javanese",
+        "percentage": "45",
+        "_id": 6290936107763303010
+    },
+    {
+        "country": "RI",
+        "language": "Indonesian",
+        "percentage": "20",
+        "_id": -584557560809048246
+    },
+    {
+        "country": "RI",
+        "language": "Sundanese",
+        "percentage": "16",
+        "_id": -8874351746278988524
+    },
+    {
+        "country": "RI",
+        "language": "Madurese",
+        "percentage": "5.2",
+        "_id": -3763028925783072428
+    },
+    {
+        "country": "RI",
+        "language": "Minangkabau",
+        "percentage": "2.1",
+        "_id": -7242865181837464852
+    },
+    {
+        "country": "RI",
+        "language": "Acehnese",
+        "percentage": "1.7",
+        "_id": 6042094704356771666
+    },
+    {
+        "country": "RI",
+        "language": "Laani",
+        "percentage": "0.2",
+        "_id": -6257411285743530445
+    },
+    {
+        "country": "RI",
+        "language": "Tetum",
+        "percentage": "0.15",
+        "_id": -3599359213754823104
+    },
+    {
+        "country": "TL",
+        "language": "Tetum",
+        "percentage": "42.6",
+        "_id": 5178991748570596368
+    },
+    {
+        "country": "TL",
+        "language": "Portuguese",
+        "percentage": "30.8",
+        "_id": -7233768387195359040
+    },
+    {
+        "country": "TL",
+        "language": "Makasae",
+        "percentage": "10.5",
+        "_id": -6904170402537547099
+    },
+    {
+        "country": "PNG",
+        "language": "Tok Pisin",
+        "percentage": "50",
+        "_id": -505413043445527293
+    },
+    {
+        "country": "PNG",
+        "language": "Enga",
+        "percentage": "5",
+        "_id": -1524426795884870071
+    },
+    {
+        "country": "PNG",
+        "language": "Melpa",
+        "percentage": "3",
+        "_id": 1569381295346092324
+    },
+    {
+        "country": "PNG",
+        "language": "Kuman",
+        "percentage": "2",
+        "_id": -1835372000608690666
+    },
+    {
+        "country": "PNG",
+        "language": "Huli",
+        "percentage": "2",
+        "_id": 4632818496959517513
+    },
+    {
+        "country": "PNG",
+        "language": "Tolai",
+        "percentage": "2",
+        "_id": -3944796549795724407
+    },
+    {
+        "country": "PNG",
+        "language": "English",
+        "percentage": "1",
+        "_id": 2100877826144290793
+    },
+    {
+        "country": "SOL",
+        "language": "Solomon Pijin",
+        "percentage": "65",
+        "_id": -109147876256631392
+    },
+    {
+        "country": "SOL",
+        "language": "Kwara-ae",
+        "percentage": "8",
+        "_id": 2085793082783269951
+    },
+    {
+        "country": "SOL",
+        "language": "Are-Are",
+        "percentage": "4.5",
+        "_id": -4577187955377740962
+    },
+    {
+        "country": "SOL",
+        "language": "Lau",
+        "percentage": "4.2",
+        "_id": -713263932559378052
+    },
+    {
+        "country": "SOL",
+        "language": "Cheke-Holo",
+        "percentage": "2.7",
+        "_id": 3332826672723134291
+    },
+    {
+        "country": "SOL",
+        "language": "Roviana",
+        "percentage": "2.5",
+        "_id": -731835151089652009
+    },
+    {
+        "country": "SOL",
+        "language": "Bilua",
+        "percentage": "2.2",
+        "_id": 4590835046800069024
+    },
+    {
+        "country": "SOL",
+        "language": "Äiwoo",
+        "percentage": "2.2",
+        "_id": 7091916299284146863
+    },
+    {
+        "country": "SOL",
+        "language": "English",
+        "percentage": "1",
+        "_id": 3844278546423159029
+    },
+    {
+        "country": "SOL",
+        "language": "Kiribati",
+        "percentage": "1",
+        "_id": 6212518127058049836
+    },
+    {
+        "country": "SOL",
+        "language": "Tikopia",
+        "percentage": "0.7",
+        "_id": -7882505867832843947
+    },
+    {
+        "country": "VU",
+        "language": "Bislama",
+        "percentage": "36.8",
+        "_id": 8318970058617674745
+    },
+    {
+        "country": "VU",
+        "language": "Lenakel",
+        "percentage": "4.5",
+        "_id": 5495470068374806649
+    },
+    {
+        "country": "VU",
+        "language": "Nakanamanga",
+        "percentage": "3.5",
+        "_id": -7072364341550859526
+    },
+    {
+        "country": "VU",
+        "language": "Uripiv",
+        "percentage": "3.3",
+        "_id": 8666260375595237847
+    },
+    {
+        "country": "VU",
+        "language": "West Ambae",
+        "percentage": "3.2",
+        "_id": -7276059375210156061
+    },
+    {
+        "country": "VU",
+        "language": "English",
+        "percentage": "2",
+        "_id": 5710552834042131096
+    },
+    {
+        "country": "VU",
+        "language": "French",
+        "percentage": "0.6",
+        "_id": -7826737700226113245
+    },
+    {
+        "country": "NCL",
+        "language": "French",
+        "percentage": "70",
+        "_id": 3911639290477398005
+    },
+    {
+        "country": "NCL",
+        "language": "Wallisian",
+        "percentage": "8",
+        "_id": -3505814313801699670
+    },
+    {
+        "country": "NCL",
+        "language": "Drehu",
+        "percentage": "5",
+        "_id": -3468083090343114652
+    },
+    {
+        "country": "NCL",
+        "language": "Nengone",
+        "percentage": "3.5",
+        "_id": -3081477650039792561
+    },
+    {
+        "country": "NCL",
+        "language": "Paici",
+        "percentage": "2.5",
+        "_id": -8428504135894461881
+    },
+    {
+        "country": "NCL",
+        "language": "Xârâcùù",
+        "percentage": "2.2",
+        "_id": 743543401794485583
+    },
+    {
+        "country": "NCL",
+        "language": "Ajie",
+        "percentage": "2",
+        "_id": -8657894195604066916
+    },
+    {
+        "country": "NCL",
+        "language": "Iaai",
+        "percentage": "1.5",
+        "_id": -3279914325215739609
+    },
+    {
+        "country": "NCL",
+        "language": "Javanese",
+        "percentage": "1",
+        "_id": -1811100397800935274
+    },
+    {
+        "country": "NCL",
+        "language": "West Uvean",
+        "percentage": "0.8",
+        "_id": 8194698919554630139
+    },
+    {
+        "country": "AUS",
+        "language": "English",
+        "percentage": "72.7",
+        "_id": -5297958575311300045
+    },
+    {
+        "country": "AUS",
+        "language": "Mandarin",
+        "percentage": "2.5",
+        "_id": -5046866329912476298
+    },
+    {
+        "country": "AUS",
+        "language": "Arabic",
+        "percentage": "1.4",
+        "_id": 5824677191125868269
+    },
+    {
+        "country": "AUS",
+        "language": "Cantonese",
+        "percentage": "1.2",
+        "_id": 5018118976818143760
+    },
+    {
+        "country": "AUS",
+        "language": "Vietnamese",
+        "percentage": "1.2",
+        "_id": 1939829517958271172
+    },
+    {
+        "country": "AUS",
+        "language": "Italian",
+        "percentage": "1.2",
+        "_id": -3131566898461853031
+    },
+    {
+        "country": "AUS",
+        "language": "Greek",
+        "percentage": "1",
+        "_id": -2770127307808337739
+    },
+    {
+        "country": "XMAS",
+        "language": "English",
+        "percentage": "27.8",
+        "_id": 7030697280838737721
+    },
+    {
+        "country": "XMAS",
+        "language": "Mandarin",
+        "percentage": "17.2",
+        "_id": 5359775458982016408
+    },
+    {
+        "country": "XMAS",
+        "language": "Malay",
+        "percentage": "17.2",
+        "_id": 1040754633066394207
+    },
+    {
+        "country": "XMAS",
+        "language": "Cantonese",
+        "percentage": "3.7",
+        "_id": -4988913374091865151
+    },
+    {
+        "country": "XMAS",
+        "language": "Hokkien",
+        "percentage": "1.5",
+        "_id": -2005813205283597158
+    },
+    {
+        "country": "XMAS",
+        "language": "Filipino",
+        "percentage": "1",
+        "_id": 1555072153640943575
+    },
+    {
+        "country": "COCO",
+        "language": "Malay",
+        "percentage": "69.6",
+        "_id": 1884587665117506348
+    },
+    {
+        "country": "COCO",
+        "language": "English",
+        "percentage": "22.3",
+        "_id": 8986992863698096452
+    },
+    {
+        "country": "NORF",
+        "language": "English",
+        "percentage": "67.6",
+        "_id": 7054006413615344875
+    },
+    {
+        "country": "NORF",
+        "language": "Norfuk",
+        "percentage": "23.7",
+        "_id": 7698315595973452822
+    },
+    {
+        "country": "NORF",
+        "language": "Fijian",
+        "percentage": "2",
+        "_id": -1944902580719388013
+    },
+    {
+        "country": "NORF",
+        "language": "Filipino",
+        "percentage": "1.8",
+        "_id": -7775526675088429379
+    },
+    {
+        "country": "NORF",
+        "language": "Mandarin",
+        "percentage": "0.7",
+        "_id": -3003187405845372324
+    },
+    {
+        "country": "NZ",
+        "language": "English",
+        "percentage": "91.2",
+        "_id": -4996832165570781855
+    },
+    {
+        "country": "NZ",
+        "language": "Maori",
+        "percentage": "3.9",
+        "_id": 4001645116826530736
+    },
+    {
+        "country": "NZ",
+        "language": "Samoan",
+        "percentage": "2.1",
+        "_id": 4376885671258442521
+    },
+    {
+        "country": "NZ",
+        "language": "Chinese",
+        "percentage": "2.1",
+        "_id": -7004504430587611019
+    },
+    {
+        "country": "NZ",
+        "language": "French",
+        "percentage": "1.3",
+        "_id": 3387424378796158212
+    },
+    {
+        "country": "NZ",
+        "language": "Hindi",
+        "percentage": "1.1",
+        "_id": 402876348289784426
+    },
+    {
+        "country": "NZ",
+        "language": "German",
+        "percentage": "0.6",
+        "_id": -8700903287106701922
+    },
+    {
+        "country": "PAL",
+        "language": "Palauan",
+        "percentage": "65.2",
+        "_id": 5346297673764991226
+    },
+    {
+        "country": "PAL",
+        "language": "English",
+        "percentage": "19.1",
+        "_id": -2146562547478600377
+    },
+    {
+        "country": "PAL",
+        "language": "Filipino",
+        "percentage": "9.9",
+        "_id": 6347543129739131903
+    },
+    {
+        "country": "PAL",
+        "language": "Chinese",
+        "percentage": "1.2",
+        "_id": 5039196439074005111
+    },
+    {
+        "country": "PAL",
+        "language": "Carolinian",
+        "percentage": "0.7",
+        "_id": -772351916950040769
+    },
+    {
+        "country": "NMIS",
+        "language": "Filipino",
+        "percentage": "32.8",
+        "_id": 6694656451377532544
+    },
+    {
+        "country": "NMIS",
+        "language": "Chamorro",
+        "percentage": "24.1",
+        "_id": -6240573041455354586
+    },
+    {
+        "country": "NMIS",
+        "language": "English",
+        "percentage": "17",
+        "_id": 1989066591522893895
+    },
+    {
+        "country": "NMIS",
+        "language": "Chinese",
+        "percentage": "6.8",
+        "_id": 8782011468962089795
+    },
+    {
+        "country": "NMIS",
+        "language": "Carolinian",
+        "percentage": "4",
+        "_id": -8670843507564523064
+    },
+    {
+        "country": "GUAM",
+        "language": "English",
+        "percentage": "43.6",
+        "_id": -4054030044079462582
+    },
+    {
+        "country": "GUAM",
+        "language": "Filipino",
+        "percentage": "21.2",
+        "_id": -850362758470715725
+    },
+    {
+        "country": "GUAM",
+        "language": "Chamorro",
+        "percentage": "17.8",
+        "_id": 1151099758300909671
+    },
+    {
+        "country": "GUAM",
+        "language": "Chinese",
+        "percentage": "1.6",
+        "_id": 4216570683255012967
+    },
+    {
+        "country": "FSM",
+        "language": "Chuukese",
+        "percentage": "45",
+        "_id": 6359543387254826830
+    },
+    {
+        "country": "FSM",
+        "language": "Pohnpeian",
+        "percentage": "30",
+        "_id": -4951657657557525270
+    },
+    {
+        "country": "FSM",
+        "language": "Kosraean",
+        "percentage": "8",
+        "_id": 8061166118116744423
+    },
+    {
+        "country": "FSM",
+        "language": "Mortlock",
+        "percentage": "6",
+        "_id": -5988179162591120760
+    },
+    {
+        "country": "FSM",
+        "language": "Yapese",
+        "percentage": "5",
+        "_id": 6429347789593907961
+    },
+    {
+        "country": "FSM",
+        "language": "Ulithian",
+        "percentage": "3",
+        "_id": 8440422868606772534
+    },
+    {
+        "country": "FSM",
+        "language": "Kapingamarangi",
+        "percentage": "3",
+        "_id": -5090977548536431857
+    },
+    {
+        "country": "MH",
+        "language": "Marshallese",
+        "percentage": "98.2",
+        "_id": 3988312395344200733
+    },
+    {
+        "country": "NAU",
+        "language": "Nauruan",
+        "percentage": "93",
+        "_id": 5298328759574956880
+    },
+    {
+        "country": "NAU",
+        "language": "English",
+        "percentage": "2",
+        "_id": -747570893191543228
+    },
+    {
+        "country": "NAU",
+        "language": "Kiribati",
+        "percentage": "2",
+        "_id": 3825866590733740425
+    },
+    {
+        "country": "NAU",
+        "language": "Chinese",
+        "percentage": "2",
+        "_id": -1761202050436771628
+    },
+    {
+        "country": "KIR",
+        "language": "Kiribati",
+        "percentage": "99",
+        "_id": -8676298664335836099
+    },
+    {
+        "country": "TUV",
+        "language": "Tuvaluan",
+        "percentage": "94",
+        "_id": 7701024046309899653
+    },
+    {
+        "country": "TUV",
+        "language": "Kiribati",
+        "percentage": "5.6",
+        "_id": -8338275788307354589
+    },
+    {
+        "country": "TOK",
+        "language": "Tokelauan",
+        "percentage": "88.1",
+        "_id": 4365830976279004459
+    },
+    {
+        "country": "TOK",
+        "language": "Kiribati",
+        "percentage": "1.6",
+        "_id": 6826943882180314607
+    },
+    {
+        "country": "WS",
+        "language": "Samoan",
+        "percentage": "97.8",
+        "_id": -3650921709943161239
+    },
+    {
+        "country": "WS",
+        "language": "English",
+        "percentage": "0.5",
+        "_id": -4358926335252261380
+    },
+    {
+        "country": "AMSA",
+        "language": "Samoan",
+        "percentage": "88.6",
+        "_id": -7373883920542079554
+    },
+    {
+        "country": "AMSA",
+        "language": "English",
+        "percentage": "3.9",
+        "_id": -7391374058548165944
+    },
+    {
+        "country": "AMSA",
+        "language": "Tongan",
+        "percentage": "2.7",
+        "_id": -408353172368721027
+    },
+    {
+        "country": "AMSA",
+        "language": "Tagalog",
+        "percentage": "1.6",
+        "_id": 8723332413655114368
+    },
+    {
+        "country": "WF",
+        "language": "Wallisian",
+        "percentage": "59.1",
+        "_id": -2319415335735317906
+    },
+    {
+        "country": "WF",
+        "language": "Futunian",
+        "percentage": "29.9",
+        "_id": -913462041488893246
+    },
+    {
+        "country": "WF",
+        "language": "French",
+        "percentage": "12.7",
+        "_id": -5317015695062153578
+    },
+    {
+        "country": "FJI",
+        "language": "Fijian",
+        "percentage": "40",
+        "_id": 4987122638652416556
+    },
+    {
+        "country": "FJI",
+        "language": "Fiji Hindi",
+        "percentage": "35",
+        "_id": -8963198255032060344
+    },
+    {
+        "country": "FJI",
+        "language": "Wayan",
+        "percentage": "10",
+        "_id": -6409143246960270141
+    },
+    {
+        "country": "FJI",
+        "language": "Kiribati",
+        "percentage": "1.2",
+        "_id": 8143450333030664245
+    },
+    {
+        "country": "FJI",
+        "language": "Rotuman",
+        "percentage": "1",
+        "_id": 899271190271544399
+    },
+    {
+        "country": "TO",
+        "language": "Tongan",
+        "percentage": "97",
+        "_id": -2586034258790498875
+    },
+    {
+        "country": "TO",
+        "language": "English",
+        "percentage": "0.7",
+        "_id": -4100181761428407912
+    },
+    {
+        "country": "NIUE",
+        "language": "Niuean",
+        "percentage": "83",
+        "_id": -7464147125264283659
+    },
+    {
+        "country": "NIUE",
+        "language": "English",
+        "percentage": "11",
+        "_id": 8300232550437283991
+    },
+    {
+        "country": "COOK",
+        "language": "Cook Islands Maori",
+        "percentage": "76.2",
+        "_id": 6945720739382412721
+    },
+    {
+        "country": "COOK",
+        "language": "English",
+        "percentage": "20",
+        "_id": -2266032323524495314
+    },
+    {
+        "country": "FPOL",
+        "language": "French",
+        "percentage": "73.9",
+        "_id": 7516118591701812817
+    },
+    {
+        "country": "FPOL",
+        "language": "Tahitian",
+        "percentage": "20.2",
+        "_id": -2398710690033057981
+    },
+    {
+        "country": "FPOL",
+        "language": "Marquesan",
+        "percentage": "2.8",
+        "_id": 5769249417909698282
+    },
+    {
+        "country": "FPOL",
+        "language": "Tuamotuan",
+        "percentage": "1",
+        "_id": -5788656441827046432
+    },
+    {
+        "country": "FPOL",
+        "language": "Chinese",
+        "percentage": "0.6",
+        "_id": -4703528519544205543
+    },
+    {
+        "country": "FPOL",
+        "language": "English",
+        "percentage": "0.2",
+        "_id": -3413381539465459495
+    },
+    {
+        "country": "PITC",
+        "language": "Pitcairn Creole",
+        "percentage": "100",
+        "_id": -6633241290210106031
+    },
+    {
+        "country": "ET",
+        "language": "Arabic",
+        "percentage": "99",
+        "_id": -2807151132629156343
+    },
+    {
+        "country": "ET",
+        "language": "Nubian",
+        "percentage": "0.1",
+        "_id": -4714960605658080753
+    },
+    {
+        "country": "ET",
+        "language": "Beja",
+        "percentage": "0.1",
+        "_id": 6895340956566940026
+    },
+    {
+        "country": "LAR",
+        "language": "Arabic",
+        "percentage": "92",
+        "_id": 2590579633119187324
+    },
+    {
+        "country": "LAR",
+        "language": "Tebu",
+        "percentage": "4",
+        "_id": -4511843263104547790
+    },
+    {
+        "country": "LAR",
+        "language": "Berber",
+        "percentage": "3",
+        "_id": -8663440310465587838
+    },
+    {
+        "country": "LAR",
+        "language": "Tuareg",
+        "percentage": "0.6",
+        "_id": -6213709465423901687
+    },
+    {
+        "country": "LAR",
+        "language": "English",
+        "_id": -6496396268975592672
+    },
+    {
+        "country": "LAR",
+        "language": "Italian",
+        "_id": 1275370372822702881
+    },
+    {
+        "country": "TN",
+        "language": "Berber",
+        "percentage": "0.3",
+        "_id": -2811661908400650969
+    },
+    {
+        "country": "TN",
+        "language": "Arabic",
+        "_id": 2954719629101384300
+    },
+    {
+        "country": "TN",
+        "language": "French",
+        "_id": -7998428639164430090
+    },
+    {
+        "country": "DZ",
+        "language": "Arabic",
+        "percentage": "72",
+        "_id": 7481384458176106504
+    },
+    {
+        "country": "DZ",
+        "language": "Berber",
+        "percentage": "27",
+        "_id": 6814397785393058559
+    },
+    {
+        "country": "DZ",
+        "language": "French",
+        "percentage": "1",
+        "_id": 5235260568112528303
+    },
+    {
+        "country": "DZ",
+        "language": "Hassaniya Arabic",
+        "percentage": "0.5",
+        "_id": 7264185488257515210
+    },
+    {
+        "country": "DZ",
+        "language": "Tuareg",
+        "percentage": "0.2",
+        "_id": -7564105650076840437
+    },
+    {
+        "country": "MA",
+        "language": "Arabic",
+        "percentage": "65",
+        "_id": -512016294176389025
+    },
+    {
+        "country": "MA",
+        "language": "Berber",
+        "percentage": "28",
+        "_id": -5791006579021007619
+    },
+    {
+        "country": "MA",
+        "language": "Hassaniya Arabic",
+        "percentage": "0.7",
+        "_id": -3038578526710339883
+    },
+    {
+        "country": "MA",
+        "language": "French",
+        "_id": -5058953880071196393
+    },
+    {
+        "country": "WSA",
+        "language": "Arabic",
+        "_id": 3156061941166969228
+    },
+    {
+        "country": "WSA",
+        "language": "Hassaniya Arabic",
+        "_id": -7341019964969512325
+    },
+    {
+        "country": "WSA",
+        "language": "Berber",
+        "_id": 266010033503205756
+    },
+    {
+        "country": "WSA",
+        "language": "Spanish",
+        "_id": 2178468767156608449
+    },
+    {
+        "country": "WSA",
+        "language": "French",
+        "_id": -9032753497972665341
+    },
+    {
+        "country": "RMM",
+        "language": "Bambara",
+        "percentage": "40",
+        "_id": 963651203911885056
+    },
+    {
+        "country": "RMM",
+        "language": "Fulfulde",
+        "percentage": "14",
+        "_id": 6555214718897061558
+    },
+    {
+        "country": "RMM",
+        "language": "Western Maninka",
+        "percentage": "10",
+        "_id": -7139612347423790303
+    },
+    {
+        "country": "RMM",
+        "language": "Senufo",
+        "percentage": "9.6",
+        "_id": 2482839436553932650
+    },
+    {
+        "country": "RMM",
+        "language": "Soninke",
+        "percentage": "6.4",
+        "_id": -7571501629048733881
+    },
+    {
+        "country": "RMM",
+        "language": "Songhai",
+        "percentage": "5.6",
+        "_id": 7769469579257967172
+    },
+    {
+        "country": "RMM",
+        "language": "Dogon",
+        "percentage": "4",
+        "_id": -7647834089284068654
+    },
+    {
+        "country": "RMM",
+        "language": "Kita Maninka",
+        "percentage": "3",
+        "_id": -8295777815364869512
+    },
+    {
+        "country": "RMM",
+        "language": "Tuareg",
+        "percentage": "2.5",
+        "_id": -5003003382249805475
+    },
+    {
+        "country": "RMM",
+        "language": "Bobo",
+        "percentage": "2.1",
+        "_id": -4582298442427190521
+    },
+    {
+        "country": "RMM",
+        "language": "Hassaniya Arabic",
+        "percentage": "2",
+        "_id": -4671883821534267084
+    },
+    {
+        "country": "RMM",
+        "language": "Bozo",
+        "percentage": "1.2",
+        "_id": -8607228988909051718
+    },
+    {
+        "country": "RMM",
+        "language": "Mossi",
+        "percentage": "1",
+        "_id": 7989904463785079139
+    },
+    {
+        "country": "RMM",
+        "language": "French",
+        "_id": -7627006085125416376
+    },
+    {
+        "country": "RMM",
+        "language": "Arabic",
+        "_id": -8208271907038529623
+    },
+    {
+        "country": "RIM",
+        "language": "Hassaniya Arabic",
+        "percentage": "70",
+        "_id": 3316076778823571383
+    },
+    {
+        "country": "RIM",
+        "language": "Fulfulde",
+        "percentage": "22",
+        "_id": -3769608831891549794
+    },
+    {
+        "country": "RIM",
+        "language": "Wolof",
+        "percentage": "7",
+        "_id": 37665225991643609
+    },
+    {
+        "country": "RIM",
+        "language": "Soninke",
+        "percentage": "1",
+        "_id": -7447312217122024666
+    },
+    {
+        "country": "RIM",
+        "language": "Arabic",
+        "_id": -3064505766496118597
+    },
+    {
+        "country": "RIM",
+        "language": "French",
+        "_id": -1450204548098509167
+    },
+    {
+        "country": "SN",
+        "language": "Wolof",
+        "percentage": "45",
+        "_id": -3690174765827508324
+    },
+    {
+        "country": "SN",
+        "language": "Fulfulde",
+        "percentage": "22",
+        "_id": 9068788680441041723
+    },
+    {
+        "country": "SN",
+        "language": "Serer",
+        "percentage": "15",
+        "_id": -7011378941652009321
+    },
+    {
+        "country": "SN",
+        "language": "Mandinka",
+        "percentage": "5",
+        "_id": 5888722156364478472
+    },
+    {
+        "country": "SN",
+        "language": "Diola",
+        "percentage": "4",
+        "_id": -8692017067435843145
+    },
+    {
+        "country": "SN",
+        "language": "Soninke",
+        "percentage": "2",
+        "_id": -2807867861536368142
+    },
+    {
+        "country": "SN",
+        "language": "Hassaniya Arabic",
+        "percentage": "1.6",
+        "_id": 666408669322589123
+    },
+    {
+        "country": "SN",
+        "language": "Balanta",
+        "percentage": "1",
+        "_id": -4456941487556681761
+    },
+    {
+        "country": "SN",
+        "language": "Manjak",
+        "percentage": "0.8",
+        "_id": -4251779008829863849
+    },
+    {
+        "country": "SN",
+        "language": "Bambara",
+        "percentage": "0.5",
+        "_id": 7776810765248708368
+    },
+    {
+        "country": "SN",
+        "language": "Guinea-Bissau Creole",
+        "percentage": "0.4",
+        "_id": 4522522481102899108
+    },
+    {
+        "country": "SN",
+        "language": "French",
+        "_id": -8361601392628595997
+    },
+    {
+        "country": "WAG",
+        "language": "Mandinka",
+        "percentage": "34",
+        "_id": 4176803534474140124
+    },
+    {
+        "country": "WAG",
+        "language": "Fulfulde",
+        "percentage": "20",
+        "_id": -123858730812848537
+    },
+    {
+        "country": "WAG",
+        "language": "Wolof",
+        "percentage": "12",
+        "_id": -5918035342126404660
+    },
+    {
+        "country": "WAG",
+        "language": "Diola",
+        "percentage": "10",
+        "_id": 5248594450377871405
+    },
+    {
+        "country": "WAG",
+        "language": "Soninke",
+        "percentage": "8",
+        "_id": -5488527088146894075
+    },
+    {
+        "country": "WAG",
+        "language": "Serer",
+        "percentage": "2",
+        "_id": 1429765610904154449
+    },
+    {
+        "country": "WAG",
+        "language": "Manjak",
+        "percentage": "1.4",
+        "_id": -6453501407554249174
+    },
+    {
+        "country": "WAG",
+        "language": "English",
+        "_id": -1232010239499382083
+    },
+    {
+        "country": "WAG",
+        "language": "French",
+        "_id": -1970114702058015892
+    },
+    {
+        "country": "GUB",
+        "language": "Guinea-Bissau Creole",
+        "percentage": "40",
+        "_id": -8654548924520448345
+    },
+    {
+        "country": "GUB",
+        "language": "Fulfulde",
+        "percentage": "16",
+        "_id": 2627487765245992013
+    },
+    {
+        "country": "GUB",
+        "language": "Balanta",
+        "percentage": "14",
+        "_id": -8627951989231319723
+    },
+    {
+        "country": "GUB",
+        "language": "Mandinka",
+        "percentage": "7",
+        "_id": -162504647682502579
+    },
+    {
+        "country": "GUB",
+        "language": "Portuguese",
+        "percentage": "5",
+        "_id": -5345561202942471209
+    },
+    {
+        "country": "GUB",
+        "language": "Manjak",
+        "percentage": "5",
+        "_id": -7916627305798203793
+    },
+    {
+        "country": "GUB",
+        "language": "Papel",
+        "percentage": "3",
+        "_id": -7570034688759070562
+    },
+    {
+        "country": "GUB",
+        "language": "Soninke",
+        "percentage": "0.3",
+        "_id": 3604593185631292471
+    },
+    {
+        "country": "RG",
+        "language": "Fulfulde",
+        "percentage": "33.4",
+        "_id": 882726462219101354
+    },
+    {
+        "country": "RG",
+        "language": "Eastern Maninka",
+        "percentage": "24.9",
+        "_id": 247053500374866846
+    },
+    {
+        "country": "RG",
+        "language": "Susu",
+        "percentage": "21.2",
+        "_id": -2436144846945576303
+    },
+    {
+        "country": "RG",
+        "language": "Kpelle",
+        "percentage": "7.8",
+        "_id": 8733828536491439606
+    },
+    {
+        "country": "RG",
+        "language": "Kissi",
+        "percentage": "6.2",
+        "_id": -1982500123307423034
+    },
+    {
+        "country": "RG",
+        "language": "Kuranko",
+        "percentage": "3",
+        "_id": -1375198056698929954
+    },
+    {
+        "country": "RG",
+        "language": "French",
+        "percentage": "2",
+        "_id": 3683682277925152523
+    },
+    {
+        "country": "RG",
+        "language": "Loma",
+        "percentage": "1.6",
+        "_id": 6601781394157718567
+    },
+    {
+        "country": "SLE",
+        "language": "Mende",
+        "percentage": "29.7",
+        "_id": 3569625383246042662
+    },
+    {
+        "country": "SLE",
+        "language": "Temne",
+        "percentage": "26.6",
+        "_id": -8263192193078743820
+    },
+    {
+        "country": "SLE",
+        "language": "Krio",
+        "percentage": "18.2",
+        "_id": 3132967611589573803
+    },
+    {
+        "country": "SLE",
+        "language": "Limba",
+        "percentage": "5.5",
+        "_id": 7699667382032300783
+    },
+    {
+        "country": "SLE",
+        "language": "Kono",
+        "percentage": "5.1",
+        "_id": -7071522857782805832
+    },
+    {
+        "country": "SLE",
+        "language": "Kuranko",
+        "percentage": "4",
+        "_id": -1753022272801508684
+    },
+    {
+        "country": "SLE",
+        "language": "Fulfulde",
+        "percentage": "2.5",
+        "_id": -5810464285759837940
+    },
+    {
+        "country": "SLE",
+        "language": "Susu",
+        "percentage": "2.2",
+        "_id": 7242575130298517826
+    },
+    {
+        "country": "SLE",
+        "language": "Kissi",
+        "percentage": "2.2",
+        "_id": -686501007552111344
+    },
+    {
+        "country": "SLE",
+        "language": "Mandinka",
+        "percentage": "1.3",
+        "_id": 6466667661198574963
+    },
+    {
+        "country": "SLE",
+        "language": "English",
+        "_id": 4059370456552946302
+    },
+    {
+        "country": "LB",
+        "language": "Kpelle",
+        "percentage": "20.3",
+        "_id": 129945530107263818
+    },
+    {
+        "country": "LB",
+        "language": "Bassa",
+        "percentage": "13.4",
+        "_id": 5115630378272241726
+    },
+    {
+        "country": "LB",
+        "language": "Grebo",
+        "percentage": "10",
+        "_id": -2574948839271412321
+    },
+    {
+        "country": "LB",
+        "language": "Dan",
+        "percentage": "8",
+        "_id": -8625337455291354315
+    },
+    {
+        "country": "LB",
+        "language": "Mano",
+        "percentage": "7.9",
+        "_id": 739527091473632269
+    },
+    {
+        "country": "LB",
+        "language": "Klao",
+        "percentage": "6",
+        "_id": 463706937022798859
+    },
+    {
+        "country": "LB",
+        "language": "Gola",
+        "percentage": "6",
+        "_id": 4637441188784521031
+    },
+    {
+        "country": "LB",
+        "language": "Loma",
+        "percentage": "5.1",
+        "_id": -8549201001685501510
+    },
+    {
+        "country": "LB",
+        "language": "Kissi",
+        "percentage": "4.8",
+        "_id": 749392678181697371
+    },
+    {
+        "country": "LB",
+        "language": "Vai",
+        "percentage": "4",
+        "_id": -254068706792657914
+    },
+    {
+        "country": "LB",
+        "language": "Eastern Maninka",
+        "percentage": "3.2",
+        "_id": 7952028498045624511
+    },
+    {
+        "country": "LB",
+        "language": "English",
+        "percentage": "2.5",
+        "_id": -3140421200067887652
+    },
+    {
+        "country": "LB",
+        "language": "Mende",
+        "percentage": "1.3",
+        "_id": -289974042878731498
+    },
+    {
+        "country": "BF",
+        "language": "Mossi",
+        "percentage": "52",
+        "_id": 3148539093741306136
+    },
+    {
+        "country": "BF",
+        "language": "Fulfulde",
+        "percentage": "8.4",
+        "_id": -436580884236224062
+    },
+    {
+        "country": "BF",
+        "language": "Gurma",
+        "percentage": "7",
+        "_id": 6745625532806553455
+    },
+    {
+        "country": "BF",
+        "language": "Bobo",
+        "percentage": "4.9",
+        "_id": -1772907726523851956
+    },
+    {
+        "country": "BF",
+        "language": "Gurunsi",
+        "percentage": "4.6",
+        "_id": -8850145355449499629
+    },
+    {
+        "country": "BF",
+        "language": "Senufo",
+        "percentage": "4.5",
+        "_id": 5616738639068639510
+    },
+    {
+        "country": "BF",
+        "language": "Bissa",
+        "percentage": "3.7",
+        "_id": 4089175076076557259
+    },
+    {
+        "country": "BF",
+        "language": "Dyula",
+        "percentage": "2",
+        "_id": -1961084112256926947
+    },
+    {
+        "country": "BF",
+        "language": "Marka",
+        "percentage": "1.9",
+        "_id": -6823048544952338651
+    },
+    {
+        "country": "BF",
+        "language": "Tuareg",
+        "percentage": "1.9",
+        "_id": 4253673182240782921
+    },
+    {
+        "country": "BF",
+        "language": "French",
+        "_id": 3813547854842903367
+    },
+    {
+        "country": "BF",
+        "language": "Arabic",
+        "_id": -6501135254497288389
+    },
+    {
+        "country": "CI",
+        "language": "Akan",
+        "percentage": "42.4",
+        "_id": 7620646116789017262
+    },
+    {
+        "country": "CI",
+        "language": "Dyula",
+        "percentage": "16.5",
+        "_id": -997166176268606971
+    },
+    {
+        "country": "CI",
+        "language": "Senufo",
+        "percentage": "16.1",
+        "_id": -7991440185000358766
+    },
+    {
+        "country": "CI",
+        "language": "Wee",
+        "percentage": "11",
+        "_id": 6413700126859117038
+    },
+    {
+        "country": "CI",
+        "language": "Mossi",
+        "percentage": "5",
+        "_id": -2463239753007517693
+    },
+    {
+        "country": "CI",
+        "language": "Guro",
+        "percentage": "5",
+        "_id": 8492531667930891181
+    },
+    {
+        "country": "CI",
+        "language": "Dan",
+        "percentage": "4",
+        "_id": -1387211323954790011
+    },
+    {
+        "country": "CI",
+        "language": "Fulfulde",
+        "percentage": "2",
+        "_id": -3373841757151029611
+    },
+    {
+        "country": "CI",
+        "language": "Hausa",
+        "percentage": "0.5",
+        "_id": -5608941167485923846
+    },
+    {
+        "country": "CI",
+        "language": "Bissa",
+        "percentage": "0.5",
+        "_id": 8974751864839839272
+    },
+    {
+        "country": "CI",
+        "language": "Yoruba",
+        "percentage": "0.5",
+        "_id": -3607399175462465375
+    },
+    {
+        "country": "CI",
+        "language": "French",
+        "_id": -123920461612903415
+    },
+    {
+        "country": "GH",
+        "language": "Akan",
+        "percentage": "47.5",
+        "_id": -3739899572251695339
+    },
+    {
+        "country": "GH",
+        "language": "Dagbani",
+        "percentage": "16",
+        "_id": -4846331578761734494
+    },
+    {
+        "country": "GH",
+        "language": "Ewe",
+        "percentage": "13.9",
+        "_id": 2877917836129844735
+    },
+    {
+        "country": "GH",
+        "language": "Gurma",
+        "percentage": "5.7",
+        "_id": 1815531520404029679
+    },
+    {
+        "country": "GH",
+        "language": "Bissa",
+        "percentage": "4.5",
+        "_id": 7778907903292788483
+    },
+    {
+        "country": "GH",
+        "language": "Fulfulde",
+        "percentage": "3.5",
+        "_id": 6024075010975828155
+    },
+    {
+        "country": "GH",
+        "language": "Gurunsi",
+        "percentage": "2.6",
+        "_id": 5850391482995285704
+    },
+    {
+        "country": "GH",
+        "language": "Hausa",
+        "percentage": "2",
+        "_id": 7265024702404113271
+    },
+    {
+        "country": "GH",
+        "language": "Yoruba",
+        "percentage": "2",
+        "_id": -6777000482024302539
+    },
+    {
+        "country": "GH",
+        "language": "Dyula",
+        "percentage": "1.1",
+        "_id": -7778691960583670872
+    },
+    {
+        "country": "GH",
+        "language": "Mossi",
+        "percentage": "0.6",
+        "_id": -460473397377773985
+    },
+    {
+        "country": "GH",
+        "language": "Ibibio",
+        "percentage": "0.5",
+        "_id": -5950827947857848016
+    },
+    {
+        "country": "GH",
+        "language": "English",
+        "_id": -4193633865233517799
+    },
+    {
+        "country": "RT",
+        "language": "Ewe",
+        "percentage": "46",
+        "_id": -6763107998309088841
+    },
+    {
+        "country": "RT",
+        "language": "Gurunsi",
+        "percentage": "22",
+        "_id": -1724050425498986089
+    },
+    {
+        "country": "RT",
+        "language": "Gurma",
+        "percentage": "9.7",
+        "_id": -9212692536507918981
+    },
+    {
+        "country": "RT",
+        "language": "Yoruba",
+        "percentage": "6.8",
+        "_id": -7467192749672145732
+    },
+    {
+        "country": "RT",
+        "language": "Adja",
+        "percentage": "3",
+        "_id": -3777983684227800447
+    },
+    {
+        "country": "RT",
+        "language": "Mossi",
+        "percentage": "1",
+        "_id": -3485287649287742215
+    },
+    {
+        "country": "RT",
+        "language": "Akan",
+        "percentage": "1",
+        "_id": 7853493787499287846
+    },
+    {
+        "country": "RT",
+        "language": "Akebu",
+        "percentage": "1",
+        "_id": -9087425577701203525
+    },
+    {
+        "country": "RT",
+        "language": "French",
+        "_id": -8232395835283945606
+    },
+    {
+        "country": "BEN",
+        "language": "Fon",
+        "percentage": "38",
+        "_id": -6785100131087480284
+    },
+    {
+        "country": "BEN",
+        "language": "Adja",
+        "percentage": "15.1",
+        "_id": 1201054164437606688
+    },
+    {
+        "country": "BEN",
+        "language": "Yoruba",
+        "percentage": "12",
+        "_id": -6668381282279584296
+    },
+    {
+        "country": "BEN",
+        "language": "Bariba",
+        "percentage": "9.6",
+        "_id": 4487683831347962114
+    },
+    {
+        "country": "BEN",
+        "language": "Fulfulde",
+        "percentage": "8.6",
+        "_id": 5451755776745402712
+    },
+    {
+        "country": "BEN",
+        "language": "Gurma",
+        "percentage": "1",
+        "_id": 996220444286155752
+    },
+    {
+        "country": "BEN",
+        "language": "Bissa",
+        "percentage": "0.5",
+        "_id": -3827722093490705257
+    },
+    {
+        "country": "BEN",
+        "language": "Hausa",
+        "percentage": "0.3",
+        "_id": 6026860843342920651
+    },
+    {
+        "country": "BEN",
+        "language": "French",
+        "_id": -2312116524519905789
+    },
+    {
+        "country": "NGR",
+        "language": "Hausa",
+        "percentage": "30",
+        "_id": -8220884408002000261
+    },
+    {
+        "country": "NGR",
+        "language": "Yoruba",
+        "percentage": "20",
+        "_id": 1423065669754703874
+    },
+    {
+        "country": "NGR",
+        "language": "Igbo",
+        "percentage": "17.5",
+        "_id": 6998017167455081105
+    },
+    {
+        "country": "NGR",
+        "language": "Fulfulde",
+        "percentage": "7.5",
+        "_id": -5652443680198642062
+    },
+    {
+        "country": "NGR",
+        "language": "Kanuri",
+        "percentage": "4",
+        "_id": 9206162401738230681
+    },
+    {
+        "country": "NGR",
+        "language": "Ibibio",
+        "percentage": "3",
+        "_id": 5405405483753886313
+    },
+    {
+        "country": "NGR",
+        "language": "Tiv",
+        "percentage": "2",
+        "_id": 5351713252291899944
+    },
+    {
+        "country": "NGR",
+        "language": "Anaang",
+        "percentage": "1.4",
+        "_id": 6447136595653280217
+    },
+    {
+        "country": "NGR",
+        "language": "Arabic",
+        "percentage": "1.1",
+        "_id": 5197161774365830717
+    },
+    {
+        "country": "NGR",
+        "language": "Ijo",
+        "percentage": "1",
+        "_id": 7046039289168922205
+    },
+    {
+        "country": "NGR",
+        "language": "Igala",
+        "percentage": "1",
+        "_id": -2033561726079492040
+    },
+    {
+        "country": "NGR",
+        "language": "Nupe",
+        "percentage": "1",
+        "_id": -701745808886689622
+    },
+    {
+        "country": "NGR",
+        "language": "Ebira",
+        "percentage": "1",
+        "_id": 7907155737334387772
+    },
+    {
+        "country": "NGR",
+        "language": "Gbagyi",
+        "percentage": "1",
+        "_id": -7159505823929192245
+    },
+    {
+        "country": "NGR",
+        "language": "Idoma",
+        "percentage": "1",
+        "_id": 7661933526634702207
+    },
+    {
+        "country": "NGR",
+        "language": "Edo",
+        "percentage": "0.8",
+        "_id": -1708253295603003664
+    },
+    {
+        "country": "NGR",
+        "language": "Berom",
+        "percentage": "0.5",
+        "_id": -2204247796130895349
+    },
+    {
+        "country": "NGR",
+        "language": "English",
+        "_id": 9168250433672350723
+    },
+    {
+        "country": "RN",
+        "language": "Hausa",
+        "percentage": "55.4",
+        "_id": -7375326143987350995
+    },
+    {
+        "country": "RN",
+        "language": "Songhai",
+        "percentage": "21",
+        "_id": 2593828427936758157
+    },
+    {
+        "country": "RN",
+        "language": "Tuareg",
+        "percentage": "9.3",
+        "_id": -7165352437179806454
+    },
+    {
+        "country": "RN",
+        "language": "Fulfulde",
+        "percentage": "8.5",
+        "_id": 8169092573475572164
+    },
+    {
+        "country": "RN",
+        "language": "Kanuri",
+        "percentage": "4.7",
+        "_id": -5410418175187487034
+    },
+    {
+        "country": "RN",
+        "language": "Tebu",
+        "percentage": "0.5",
+        "_id": -4979496243503202287
+    },
+    {
+        "country": "RN",
+        "language": "Gurma",
+        "percentage": "0.4",
+        "_id": -2197988151625558205
+    },
+    {
+        "country": "RN",
+        "language": "Arabic",
+        "percentage": "0.4",
+        "_id": -696712241452224320
+    },
+    {
+        "country": "RN",
+        "language": "French",
+        "_id": 9091334787628176939
+    },
+    {
+        "country": "TCH",
+        "language": "Arabic",
+        "percentage": "40",
+        "_id": -8994101169418337272
+    },
+    {
+        "country": "TCH",
+        "language": "Sara",
+        "percentage": "20",
+        "_id": -8668433205851831683
+    },
+    {
+        "country": "TCH",
+        "language": "Kanuri",
+        "percentage": "8",
+        "_id": 1986035722845249291
+    },
+    {
+        "country": "TCH",
+        "language": "Masalit",
+        "percentage": "7",
+        "_id": 242427943451648132
+    },
+    {
+        "country": "TCH",
+        "language": "Fulfulde",
+        "percentage": "3",
+        "_id": -2715883962499909251
+    },
+    {
+        "country": "TCH",
+        "language": "Tebu",
+        "percentage": "3",
+        "_id": -1543640060199219781
+    },
+    {
+        "country": "TCH",
+        "language": "Baguirmi",
+        "percentage": "1",
+        "_id": 7382271562220914006
+    },
+    {
+        "country": "SUD",
+        "language": "Arabic",
+        "percentage": "70",
+        "_id": 3961139673169732075
+    },
+    {
+        "country": "SUD",
+        "language": "Beja",
+        "percentage": "8",
+        "_id": -7048902421884976925
+    },
+    {
+        "country": "SUD",
+        "language": "Nubian",
+        "percentage": "4",
+        "_id": -1319355683766598951
+    },
+    {
+        "country": "SUD",
+        "language": "Hausa",
+        "percentage": "4",
+        "_id": 4700778742958578365
+    },
+    {
+        "country": "SUD",
+        "language": "Tigre",
+        "percentage": "3",
+        "_id": -2297103047939847642
+    },
+    {
+        "country": "SUD",
+        "language": "Fur",
+        "percentage": "2.5",
+        "_id": 4693180246729676294
+    },
+    {
+        "country": "SUD",
+        "language": "Masalit",
+        "percentage": "1",
+        "_id": -9014528441425359482
+    },
+    {
+        "country": "SUD",
+        "language": "Tebu",
+        "percentage": "1",
+        "_id": 4999813554247458453
+    },
+    {
+        "country": "SUD",
+        "language": "English",
+        "_id": -2634907099876798889
+    },
+    {
+        "country": "SSD",
+        "language": "Dinka",
+        "percentage": "35",
+        "_id": -5525009564572763850
+    },
+    {
+        "country": "SSD",
+        "language": "Nuer",
+        "percentage": "15",
+        "_id": -6530114646242385025
+    },
+    {
+        "country": "SSD",
+        "language": "Shilluk",
+        "percentage": "10",
+        "_id": 6434155434204601326
+    },
+    {
+        "country": "SSD",
+        "language": "Bari",
+        "percentage": "8",
+        "_id": -5241590337185312505
+    },
+    {
+        "country": "SSD",
+        "language": "Azande",
+        "percentage": "7",
+        "_id": -8411300410562018154
+    },
+    {
+        "country": "SSD",
+        "language": "English",
+        "_id": 2864488990315413073
+    },
+    {
+        "country": "SSD",
+        "language": "Arabic",
+        "_id": 7018608333946291231
+    },
+    {
+        "country": "RCA",
+        "language": "Sango",
+        "percentage": "35",
+        "_id": 345185833423356170
+    },
+    {
+        "country": "RCA",
+        "language": "Gbaya",
+        "percentage": "33",
+        "_id": 2041416407546856119
+    },
+    {
+        "country": "RCA",
+        "language": "Banda",
+        "percentage": "22",
+        "_id": -2534886046989166874
+    },
+    {
+        "country": "RCA",
+        "language": "Sara",
+        "percentage": "7",
+        "_id": 511496814684674808
+    },
+    {
+        "country": "RCA",
+        "language": "Azande",
+        "percentage": "1.5",
+        "_id": 6480751892164703048
+    },
+    {
+        "country": "RCA",
+        "language": "French",
+        "_id": 7866105893821104353
+    },
+    {
+        "country": "CAM",
+        "language": "Fulfulde",
+        "percentage": "20",
+        "_id": 5912992457890905678
+    },
+    {
+        "country": "CAM",
+        "language": "Pahuin",
+        "percentage": "20",
+        "_id": 4803623148474805126
+    },
+    {
+        "country": "CAM",
+        "language": "Bamileke",
+        "percentage": "15",
+        "_id": 2898553784500344474
+    },
+    {
+        "country": "CAM",
+        "language": "Bamum",
+        "percentage": "2",
+        "_id": 1553368930338764973
+    },
+    {
+        "country": "CAM",
+        "language": "Basaa",
+        "percentage": "2",
+        "_id": 1999454975217887011
+    },
+    {
+        "country": "CAM",
+        "language": "Duala",
+        "percentage": "2",
+        "_id": -6334961610998385423
+    },
+    {
+        "country": "CAM",
+        "language": "Ibibio",
+        "percentage": "1.4",
+        "_id": 854501290369919940
+    },
+    {
+        "country": "CAM",
+        "language": "Kom",
+        "percentage": "1.2",
+        "_id": -6543005333533173652
+    },
+    {
+        "country": "CAM",
+        "language": "Gbaya",
+        "percentage": "1",
+        "_id": -6365281343109989201
+    },
+    {
+        "country": "CAM",
+        "language": "Arabic",
+        "percentage": "1",
+        "_id": 3722259319679950793
+    },
+    {
+        "country": "CAM",
+        "language": "Maka",
+        "percentage": "1",
+        "_id": 84866241500853792
+    },
+    {
+        "country": "CAM",
+        "language": "Mafa",
+        "percentage": "1",
+        "_id": 3573345643762844351
+    },
+    {
+        "country": "CAM",
+        "language": "Igbo",
+        "percentage": "0.5",
+        "_id": 2599027659009658635
+    },
+    {
+        "country": "CAM",
+        "language": "Kanuri",
+        "percentage": "0.5",
+        "_id": -3376691065581850532
+    },
+    {
+        "country": "CAM",
+        "language": "French",
+        "_id": -7896983586088971432
+    },
+    {
+        "country": "CAM",
+        "language": "English",
+        "_id": 3103566673507887153
+    },
+    {
+        "country": "GQ",
+        "language": "Fang",
+        "percentage": "80",
+        "_id": -4541075000281636071
+    },
+    {
+        "country": "GQ",
+        "language": "Bube",
+        "percentage": "15",
+        "_id": 5269909892605489108
+    },
+    {
+        "country": "GQ",
+        "language": "Annobonese",
+        "percentage": "1.6",
+        "_id": 2978816392902281544
+    },
+    {
+        "country": "GQ",
+        "language": "Ibibio",
+        "percentage": "1",
+        "_id": 4748483037753511052
+    },
+    {
+        "country": "GQ",
+        "language": "Spanish",
+        "_id": -3412061969781216500
+    },
+    {
+        "country": "GQ",
+        "language": "Portuguese",
+        "_id": -3610364056289961204
+    },
+    {
+        "country": "GQ",
+        "language": "French",
+        "_id": 8453531974928703396
+    },
+    {
+        "country": "G",
+        "language": "French",
+        "percentage": "36.3",
+        "_id": -1044497629425747831
+    },
+    {
+        "country": "G",
+        "language": "Fang",
+        "percentage": "32",
+        "_id": 3813247425472013949
+    },
+    {
+        "country": "G",
+        "language": "Nzebi",
+        "percentage": "9",
+        "_id": -4332097368133334419
+    },
+    {
+        "country": "G",
+        "language": "Teke",
+        "percentage": "8",
+        "_id": -841757156056765665
+    },
+    {
+        "country": "G",
+        "language": "Punu",
+        "percentage": "8",
+        "_id": -5749917367270951941
+    },
+    {
+        "country": "G",
+        "language": "Mbete",
+        "percentage": "2.5",
+        "_id": -5270168479532408053
+    },
+    {
+        "country": "G",
+        "language": "Shira",
+        "percentage": "2.5",
+        "_id": 876202257488241711
+    },
+    {
+        "country": "G",
+        "language": "Kota",
+        "percentage": "2.5",
+        "_id": 3246000070150889433
+    },
+    {
+        "country": "G",
+        "language": "Myene",
+        "percentage": "2.5",
+        "_id": -7299588448286207957
+    },
+    {
+        "country": "G",
+        "language": "Hausa",
+        "percentage": "1",
+        "_id": -283720907458820985
+    },
+    {
+        "country": "RCB",
+        "language": "Kikongo",
+        "percentage": "35",
+        "_id": 3309350972511940515
+    },
+    {
+        "country": "RCB",
+        "language": "Lingala",
+        "percentage": "25",
+        "_id": -2004902463984213602
+    },
+    {
+        "country": "RCB",
+        "language": "Teke",
+        "percentage": "14",
+        "_id": -1621344981943455197
+    },
+    {
+        "country": "RCB",
+        "language": "Mboshi",
+        "percentage": "12",
+        "_id": -508508931853036590
+    },
+    {
+        "country": "RCB",
+        "language": "Mbete",
+        "percentage": "4",
+        "_id": 4749990472465796516
+    },
+    {
+        "country": "RCB",
+        "language": "Punu",
+        "percentage": "4",
+        "_id": 5781776501886984901
+    },
+    {
+        "country": "RCB",
+        "language": "French",
+        "_id": -2949448279938569811
+    },
+    {
+        "country": "CGO",
+        "language": "Lingala",
+        "percentage": "15",
+        "_id": -5789777804921926733
+    },
+    {
+        "country": "CGO",
+        "language": "Tshiluba",
+        "percentage": "12",
+        "_id": 8760054400820295729
+    },
+    {
+        "country": "CGO",
+        "language": "Kinyarwanda",
+        "percentage": "10",
+        "_id": 8956828893836868876
+    },
+    {
+        "country": "CGO",
+        "language": "Kikongo",
+        "percentage": "8.2",
+        "_id": 3264250550623477695
+    },
+    {
+        "country": "CGO",
+        "language": "Luba",
+        "percentage": "4",
+        "_id": -2739535226108069102
+    },
+    {
+        "country": "CGO",
+        "language": "Azande",
+        "percentage": "3",
+        "_id": 9097348109983317695
+    },
+    {
+        "country": "CGO",
+        "language": "Lugbara",
+        "percentage": "1.5",
+        "_id": 8788279094794514235
+    },
+    {
+        "country": "CGO",
+        "language": "Chokwe",
+        "percentage": "1.5",
+        "_id": 3164850239559425052
+    },
+    {
+        "country": "CGO",
+        "language": "Gbaya",
+        "percentage": "1",
+        "_id": -2831060549149212374
+    },
+    {
+        "country": "CGO",
+        "language": "Lunda",
+        "percentage": "1",
+        "_id": 1045643291052371072
+    },
+    {
+        "country": "CGO",
+        "language": "Swahili",
+        "_id": 8153832672916920996
+    },
+    {
+        "country": "CGO",
+        "language": "French",
+        "_id": -3725439842224270958
+    },
+    {
+        "country": "ANG",
+        "language": "Portuguese",
+        "percentage": "47",
+        "_id": 8322701803431133561
+    },
+    {
+        "country": "ANG",
+        "language": "Umbundu",
+        "percentage": "23",
+        "_id": -1276193538773420440
+    },
+    {
+        "country": "ANG",
+        "language": "Kikongo",
+        "percentage": "8.2",
+        "_id": 975139244346906149
+    },
+    {
+        "country": "ANG",
+        "language": "Kimbundu",
+        "percentage": "7.8",
+        "_id": -2255042047523012142
+    },
+    {
+        "country": "ANG",
+        "language": "Chokwe",
+        "percentage": "6.5",
+        "_id": 6248358149789903691
+    },
+    {
+        "country": "ANG",
+        "language": "Lunda",
+        "percentage": "2",
+        "_id": -3477545933011658516
+    },
+    {
+        "country": "ANG",
+        "language": "Oshivambo",
+        "percentage": "1.5",
+        "_id": -945148305953572693
+    },
+    {
+        "country": "ANG",
+        "language": "Otshiherero",
+        "percentage": "1",
+        "_id": 7333666896145707486
+    },
+    {
+        "country": "NAM",
+        "language": "Oshivambo",
+        "percentage": "48.9",
+        "_id": -5888823941846326631
+    },
+    {
+        "country": "NAM",
+        "language": "Khoekhoe",
+        "percentage": "11",
+        "_id": 2482293282733718182
+    },
+    {
+        "country": "NAM",
+        "language": "Afrikaans",
+        "percentage": "10.4",
+        "_id": -297283146350489947
+    },
+    {
+        "country": "NAM",
+        "language": "Otshiherero",
+        "percentage": "8.6",
+        "_id": 8481431205533872728
+    },
+    {
+        "country": "NAM",
+        "language": "Kwangali",
+        "percentage": "8.5",
+        "_id": -7838974481182275170
+    },
+    {
+        "country": "NAM",
+        "language": "Lozi",
+        "percentage": "4.8",
+        "_id": 1588734342748379367
+    },
+    {
+        "country": "NAM",
+        "language": "English",
+        "percentage": "3.4",
+        "_id": 5671131287523820301
+    },
+    {
+        "country": "NAM",
+        "language": "German",
+        "percentage": "0.9",
+        "_id": -282422575455549452
+    },
+    {
+        "country": "NAM",
+        "language": "San",
+        "percentage": "0.8",
+        "_id": 7022508553649737322
+    },
+    {
+        "country": "NAM",
+        "language": "Tswana",
+        "percentage": "0.3",
+        "_id": -3039805468480047919
+    },
+    {
+        "country": "RB",
+        "language": "Tswana",
+        "percentage": "77.3",
+        "_id": 5557128846553964924
+    },
+    {
+        "country": "RB",
+        "language": "Kalanga",
+        "percentage": "7.4",
+        "_id": 570674979621277575
+    },
+    {
+        "country": "RB",
+        "language": "English",
+        "percentage": "2.8",
+        "_id": -3393247455319152296
+    },
+    {
+        "country": "RB",
+        "language": "Shona",
+        "percentage": "2",
+        "_id": 156872954224749872
+    },
+    {
+        "country": "RB",
+        "language": "Afrikaans",
+        "percentage": "2",
+        "_id": -3684044962356094074
+    },
+    {
+        "country": "RB",
+        "language": "San",
+        "percentage": "1.7",
+        "_id": 8610687079461293566
+    },
+    {
+        "country": "RB",
+        "language": "Ndebele",
+        "percentage": "1",
+        "_id": 8864146975452141569
+    },
+    {
+        "country": "RSA",
+        "language": "Zulu",
+        "percentage": "22.7",
+        "_id": 3231963096434699992
+    },
+    {
+        "country": "RSA",
+        "language": "Xhosa",
+        "percentage": "16",
+        "_id": 237795527641212613
+    },
+    {
+        "country": "RSA",
+        "language": "Afrikaans",
+        "percentage": "13.5",
+        "_id": 3636828885720312
+    },
+    {
+        "country": "RSA",
+        "language": "English",
+        "percentage": "9.6",
+        "_id": -7631990659461981320
+    },
+    {
+        "country": "RSA",
+        "language": "Sepedi",
+        "percentage": "9.1",
+        "_id": 2865544856393753019
+    },
+    {
+        "country": "RSA",
+        "language": "Tswana",
+        "percentage": "8",
+        "_id": -7280736488328722673
+    },
+    {
+        "country": "RSA",
+        "language": "Sotho",
+        "percentage": "7.6",
+        "_id": -8814988071173133713
+    },
+    {
+        "country": "RSA",
+        "language": "Tsonga",
+        "percentage": "4.5",
+        "_id": -258901027107650445
+    },
+    {
+        "country": "RSA",
+        "language": "Swati",
+        "percentage": "2.5",
+        "_id": -4490604116826745534
+    },
+    {
+        "country": "RSA",
+        "language": "Venda",
+        "percentage": "2.4",
+        "_id": -5602059334246885285
+    },
+    {
+        "country": "RSA",
+        "language": "Ndebele",
+        "percentage": "2.1",
+        "_id": -8709275067414218497
+    },
+    {
+        "country": "LS",
+        "language": "Sesotho",
+        "percentage": "99",
+        "_id": 1597937926115462864
+    },
+    {
+        "country": "SD",
+        "language": "Swati",
+        "percentage": "90",
+        "_id": 5780344492560662679
+    },
+    {
+        "country": "SD",
+        "language": "Zulu",
+        "percentage": "6",
+        "_id": 5718864319435398765
+    },
+    {
+        "country": "SD",
+        "language": "Tsonga",
+        "percentage": "1.5",
+        "_id": -8453571844810585069
+    },
+    {
+        "country": "MOC",
+        "language": "Makua",
+        "percentage": "26.1",
+        "_id": 8418090775811670415
+    },
+    {
+        "country": "MOC",
+        "language": "Portuguese",
+        "percentage": "16.6",
+        "_id": 1130481714244994234
+    },
+    {
+        "country": "MOC",
+        "language": "Tsonga",
+        "percentage": "8.6",
+        "_id": 5475635967281144314
+    },
+    {
+        "country": "MOC",
+        "language": "Chewa",
+        "percentage": "8",
+        "_id": -8205573585680792064
+    },
+    {
+        "country": "MOC",
+        "language": "Sena",
+        "percentage": "7",
+        "_id": -8130559819024495810
+    },
+    {
+        "country": "MOC",
+        "language": "Lomwe",
+        "percentage": "7",
+        "_id": 5977964672276327857
+    },
+    {
+        "country": "MOC",
+        "language": "Shona",
+        "percentage": "3.8",
+        "_id": -7543112787378323234
+    },
+    {
+        "country": "MOC",
+        "language": "Yao",
+        "percentage": "3",
+        "_id": 1729920707071988157
+    },
+    {
+        "country": "MOC",
+        "language": "Makonde",
+        "percentage": "1.5",
+        "_id": 7901335831285912701
+    },
+    {
+        "country": "ZW",
+        "language": "Shona",
+        "percentage": "70",
+        "_id": -4348287088518887601
+    },
+    {
+        "country": "ZW",
+        "language": "Ndebele",
+        "percentage": "20",
+        "_id": 6427723477666621991
+    },
+    {
+        "country": "ZW",
+        "language": "Chewa",
+        "percentage": "6",
+        "_id": 7323479135936985179
+    },
+    {
+        "country": "ZW",
+        "language": "Zambezi",
+        "percentage": "3",
+        "_id": 6103755517607730733
+    },
+    {
+        "country": "ZW",
+        "language": "English",
+        "percentage": "2.5",
+        "_id": -8538740854489804370
+    },
+    {
+        "country": "ZW",
+        "language": "Xhosa",
+        "percentage": "1.2",
+        "_id": -5842437457257766030
+    },
+    {
+        "country": "Z",
+        "language": "Bemba",
+        "percentage": "33.5",
+        "_id": 3394433741068167968
+    },
+    {
+        "country": "Z",
+        "language": "Chewa",
+        "percentage": "19.2",
+        "_id": 402352226110938702
+    },
+    {
+        "country": "Z",
+        "language": "Zambezi",
+        "percentage": "11.4",
+        "_id": 1499253010319167261
+    },
+    {
+        "country": "Z",
+        "language": "Lozi",
+        "percentage": "5.7",
+        "_id": 6763980730807202086
+    },
+    {
+        "country": "Z",
+        "language": "Nsenga",
+        "percentage": "2.9",
+        "_id": -4112909003986165075
+    },
+    {
+        "country": "Z",
+        "language": "Tumbuka",
+        "percentage": "2.5",
+        "_id": 7515008393891354680
+    },
+    {
+        "country": "Z",
+        "language": "Luba",
+        "percentage": "1.8",
+        "_id": -3661614712008971651
+    },
+    {
+        "country": "Z",
+        "language": "English",
+        "percentage": "1.7",
+        "_id": -128680630462510967
+    },
+    {
+        "country": "Z",
+        "language": "Lunda",
+        "percentage": "1",
+        "_id": 6939306099586374561
+    },
+    {
+        "country": "MW",
+        "language": "Chewa",
+        "percentage": "68",
+        "_id": 726663034916488876
+    },
+    {
+        "country": "MW",
+        "language": "Yao",
+        "percentage": "10.1",
+        "_id": 7358315200226649358
+    },
+    {
+        "country": "MW",
+        "language": "Tumbuka",
+        "percentage": "9.5",
+        "_id": -6564018196417351788
+    },
+    {
+        "country": "MW",
+        "language": "Sena",
+        "percentage": "2.7",
+        "_id": 2220792714517970481
+    },
+    {
+        "country": "MW",
+        "language": "Lomwe",
+        "percentage": "2.4",
+        "_id": -3997362720472088746
+    },
+    {
+        "country": "MW",
+        "language": "chiTonga",
+        "percentage": "1.7",
+        "_id": -2249370404810165714
+    },
+    {
+        "country": "MW",
+        "language": "English",
+        "percentage": "0.2",
+        "_id": 3750459808904233667
+    },
+    {
+        "country": "EAT",
+        "language": "Sukuma",
+        "percentage": "15",
+        "_id": 841575942911747379
+    },
+    {
+        "country": "EAT",
+        "language": "Swahili",
+        "percentage": "10",
+        "_id": -1882608509484693922
+    },
+    {
+        "country": "EAT",
+        "language": "Nyamwezi",
+        "percentage": "8",
+        "_id": 6439836332705491315
+    },
+    {
+        "country": "EAT",
+        "language": "Chaga",
+        "percentage": "5",
+        "_id": -8659167222757413147
+    },
+    {
+        "country": "EAT",
+        "language": "Haya",
+        "percentage": "4.5",
+        "_id": -5107636146752564556
+    },
+    {
+        "country": "EAT",
+        "language": "Gogo",
+        "percentage": "4",
+        "_id": 8616893999005566371
+    },
+    {
+        "country": "EAT",
+        "language": "Makonde",
+        "percentage": "3.5",
+        "_id": 815922941862659587
+    },
+    {
+        "country": "EAT",
+        "language": "Ha",
+        "percentage": "3",
+        "_id": 5916771135845264257
+    },
+    {
+        "country": "EAT",
+        "language": "Maasai",
+        "percentage": "3",
+        "_id": -941364828405277833
+    },
+    {
+        "country": "EAT",
+        "language": "Dholuo",
+        "percentage": "2",
+        "_id": -1137558817371531681
+    },
+    {
+        "country": "EAT",
+        "language": "Iraqw",
+        "percentage": "1.6",
+        "_id": -6678819460963778745
+    },
+    {
+        "country": "EAT",
+        "language": "Zigula",
+        "percentage": "1.5",
+        "_id": 5378126205499781324
+    },
+    {
+        "country": "EAT",
+        "language": "Yao",
+        "percentage": "1.5",
+        "_id": -1671733596428228000
+    },
+    {
+        "country": "EAT",
+        "language": "Arabic",
+        "percentage": "1",
+        "_id": 8828139707927436131
+    },
+    {
+        "country": "EAT",
+        "language": "Mijikenda",
+        "percentage": "0.2",
+        "_id": -8488154966603527106
+    },
+    {
+        "country": "EAT",
+        "language": "English",
+        "_id": 2979656687232325409
+    },
+    {
+        "country": "BI",
+        "language": "Kirundi",
+        "percentage": "98",
+        "_id": 120141724963618451
+    },
+    {
+        "country": "BI",
+        "language": "French",
+        "_id": 8232228705513433844
+    },
+    {
+        "country": "BI",
+        "language": "Swahili",
+        "_id": 4201109494987569718
+    },
+    {
+        "country": "RWA",
+        "language": "Kinyarwanda",
+        "percentage": "99",
+        "_id": -7449977124986885032
+    },
+    {
+        "country": "RWA",
+        "language": "Swahili",
+        "_id": -8384774515778571028
+    },
+    {
+        "country": "RWA",
+        "language": "French",
+        "_id": 6382869364867287626
+    },
+    {
+        "country": "EAU",
+        "language": "Ganda",
+        "percentage": "20",
+        "_id": 3804880669144638830
+    },
+    {
+        "country": "EAU",
+        "language": "Dholuo",
+        "percentage": "10.5",
+        "_id": -4482757879095735941
+    },
+    {
+        "country": "EAU",
+        "language": "Nkore",
+        "percentage": "9.4",
+        "_id": 8689351438286428438
+    },
+    {
+        "country": "EAU",
+        "language": "Soga",
+        "percentage": "8.7",
+        "_id": -1298544999659166286
+    },
+    {
+        "country": "EAU",
+        "language": "Kiga",
+        "percentage": "7",
+        "_id": 8400064474108092302
+    },
+    {
+        "country": "EAU",
+        "language": "Ateso",
+        "percentage": "7",
+        "_id": 2003746047228371407
+    },
+    {
+        "country": "EAU",
+        "language": "Gisu",
+        "percentage": "4.9",
+        "_id": 6234730293749428802
+    },
+    {
+        "country": "EAU",
+        "language": "Lugbara",
+        "percentage": "3.2",
+        "_id": 8754124726687863653
+    },
+    {
+        "country": "EAU",
+        "language": "Kinyarwanda",
+        "percentage": "3",
+        "_id": 671676878860665273
+    },
+    {
+        "country": "EAU",
+        "language": "Karamojong",
+        "percentage": "1",
+        "_id": 5047146258294676449
+    },
+    {
+        "country": "EAU",
+        "language": "Bari",
+        "percentage": "1",
+        "_id": -8420020143015830008
+    },
+    {
+        "country": "EAU",
+        "language": "Swahili",
+        "_id": 9222162904335300524
+    },
+    {
+        "country": "EAU",
+        "language": "English",
+        "_id": 4754430690649351550
+    },
+    {
+        "country": "EAK",
+        "language": "Kikuyu",
+        "percentage": "17",
+        "_id": -7745742856662422181
+    },
+    {
+        "country": "EAK",
+        "language": "Luhya",
+        "percentage": "14",
+        "_id": -6129517227113802222
+    },
+    {
+        "country": "EAK",
+        "language": "Kalenjin",
+        "percentage": "13",
+        "_id": 1496592236640470387
+    },
+    {
+        "country": "EAK",
+        "language": "Kamba",
+        "percentage": "10",
+        "_id": 7107379558256496814
+    },
+    {
+        "country": "EAK",
+        "language": "Dholuo",
+        "percentage": "10",
+        "_id": -2578110054478471431
+    },
+    {
+        "country": "EAK",
+        "language": "Somali",
+        "percentage": "6.2",
+        "_id": 9051493241030491679
+    },
+    {
+        "country": "EAK",
+        "language": "Kisii",
+        "percentage": "5.7",
+        "_id": -7654767618813421802
+    },
+    {
+        "country": "EAK",
+        "language": "Mijikenda",
+        "percentage": "5.1",
+        "_id": -6352569831869739620
+    },
+    {
+        "country": "EAK",
+        "language": "Meru",
+        "percentage": "5",
+        "_id": 9009394835985637487
+    },
+    {
+        "country": "EAK",
+        "language": "Turkana",
+        "percentage": "2.6",
+        "_id": 4579493701285425804
+    },
+    {
+        "country": "EAK",
+        "language": "Maasai",
+        "percentage": "2.2",
+        "_id": 7764285994623101310
+    },
+    {
+        "country": "EAK",
+        "language": "Oromo",
+        "percentage": "1.2",
+        "_id": -1078715428449524836
+    },
+    {
+        "country": "EAK",
+        "language": "Swahili",
+        "_id": -5196432156163407775
+    },
+    {
+        "country": "EAK",
+        "language": "English",
+        "_id": 7573687419633480800
+    },
+    {
+        "country": "SO",
+        "language": "Somali",
+        "percentage": "97",
+        "_id": -5891982450605930253
+    },
+    {
+        "country": "SO",
+        "language": "Bravanese Swahili",
+        "percentage": "2",
+        "_id": -7290853762408391351
+    },
+    {
+        "country": "SO",
+        "language": "Zigula",
+        "percentage": "0.5",
+        "_id": 1030175643475581814
+    },
+    {
+        "country": "SO",
+        "language": "Arabic",
+        "percentage": "0.5",
+        "_id": 3067363559033270668
+    },
+    {
+        "country": "SO",
+        "language": "English",
+        "_id": -8046511736014269259
+    },
+    {
+        "country": "SO",
+        "language": "Italian",
+        "_id": 8875123929413992030
+    },
+    {
+        "country": "DJI",
+        "language": "Somali",
+        "percentage": "55",
+        "_id": -7242695432707254935
+    },
+    {
+        "country": "DJI",
+        "language": "Afar",
+        "percentage": "30",
+        "_id": -5248201477068540315
+    },
+    {
+        "country": "DJI",
+        "language": "Arabic",
+        "percentage": "10",
+        "_id": -503594814942863820
+    },
+    {
+        "country": "DJI",
+        "language": "French",
+        "percentage": "2",
+        "_id": 522416680922037842
+    },
+    {
+        "country": "ETH",
+        "language": "Oromo",
+        "percentage": "33.8",
+        "_id": -1533505169830698060
+    },
+    {
+        "country": "ETH",
+        "language": "Amharic",
+        "percentage": "29.3",
+        "_id": 367168991832782251
+    },
+    {
+        "country": "ETH",
+        "language": "Somali",
+        "percentage": "6.3",
+        "_id": 4757596396203575298
+    },
+    {
+        "country": "ETH",
+        "language": "Tigrinya",
+        "percentage": "5.9",
+        "_id": 1982587509654766974
+    },
+    {
+        "country": "ETH",
+        "language": "Sidamo",
+        "percentage": "4",
+        "_id": -1218711365628223306
+    },
+    {
+        "country": "ETH",
+        "language": "Welaita",
+        "percentage": "2.3",
+        "_id": -2042413995228336207
+    },
+    {
+        "country": "ETH",
+        "language": "Hadiya",
+        "percentage": "1.7",
+        "_id": 6942418029451083720
+    },
+    {
+        "country": "ETH",
+        "language": "Afar",
+        "percentage": "1.3",
+        "_id": 6267682223479958721
+    },
+    {
+        "country": "ETH",
+        "language": "Nuer",
+        "percentage": "0.3",
+        "_id": -6039730595023584963
+    },
+    {
+        "country": "ETH",
+        "language": "English",
+        "_id": -6358612708147222393
+    },
+    {
+        "country": "ER",
+        "language": "Tigrinya",
+        "percentage": "55",
+        "_id": -6838606317926122162
+    },
+    {
+        "country": "ER",
+        "language": "Tigre",
+        "percentage": "30",
+        "_id": -1744588797066668774
+    },
+    {
+        "country": "ER",
+        "language": "Afar",
+        "percentage": "4",
+        "_id": 2131161216367304689
+    },
+    {
+        "country": "ER",
+        "language": "Beja",
+        "percentage": "3",
+        "_id": -6957288737200188798
+    },
+    {
+        "country": "ER",
+        "language": "Kunama",
+        "percentage": "2",
+        "_id": 7608273076761314328
+    },
+    {
+        "country": "ER",
+        "language": "Arabic",
+        "percentage": "2",
+        "_id": 1108919242523873756
+    },
+    {
+        "country": "CV",
+        "language": "Krioulo",
+        "percentage": "100",
+        "_id": -4919686466023736972
+    },
+    {
+        "country": "STP",
+        "language": "Portuguese",
+        "percentage": "55",
+        "_id": -8493842572472458106
+    },
+    {
+        "country": "STP",
+        "language": "Forro",
+        "percentage": "36",
+        "_id": -7870386203988148050
+    },
+    {
+        "country": "STP",
+        "language": "Krioulo",
+        "percentage": "8.5",
+        "_id": -537684491229695302
+    },
+    {
+        "country": "SY",
+        "language": "Seychellois Creole",
+        "percentage": "87",
+        "_id": -6514237160993539654
+    },
+    {
+        "country": "SY",
+        "language": "English",
+        "_id": 2321384894602658645
+    },
+    {
+        "country": "SY",
+        "language": "French",
+        "_id": 168018269099833787
+    },
+    {
+        "country": "COM",
+        "language": "Comorian",
+        "percentage": "99",
+        "_id": -4315647652537474343
+    },
+    {
+        "country": "MAYO",
+        "language": "Comorian",
+        "percentage": "98",
+        "_id": 935695509662263648
+    },
+    {
+        "country": "MAYO",
+        "language": "French",
+        "percentage": "1.4",
+        "_id": -8585134210865175823
+    },
+    {
+        "country": "MAYO",
+        "language": "Arabic",
+        "percentage": "0.4",
+        "_id": 6930224209744531944
+    },
+    {
+        "country": "RM",
+        "language": "Malagasy",
+        "percentage": "98",
+        "_id": -3323271683787127759
+    },
+    {
+        "country": "MS",
+        "language": "Mauritian Creole",
+        "percentage": "87",
+        "_id": 3321716431100451496
+    },
+    {
+        "country": "MS",
+        "language": "Bhojpuri",
+        "percentage": "5.3",
+        "_id": 3861064717707327398
+    },
+    {
+        "country": "MS",
+        "language": "French",
+        "percentage": "4.1",
+        "_id": 8263031244139137618
+    },
+    {
+        "country": "MS",
+        "language": "Tamil",
+        "percentage": "0.6",
+        "_id": -8201743800229009864
+    },
+    {
+        "country": "MS",
+        "language": "English",
+        "percentage": "0.5",
+        "_id": 5863861799818608669
+    },
+    {
+        "country": "REUN",
+        "language": "Reunion Creole",
+        "_id": 1773076112478174667
+    },
+    {
+        "country": "REUN",
+        "language": "French",
+        "_id": -1206949608694205156
+    },
+    {
+        "country": "HELX",
+        "language": "English",
+        "percentage": "100",
+        "_id": -8092199744539087479
+    },
+    {
+        "country": "GL",
+        "language": "Kalaallisut",
+        "percentage": "80",
+        "_id": -5493677195534249204
+    },
+    {
+        "country": "GL",
+        "language": "Danish",
+        "percentage": "12",
+        "_id": -4621763649919869046
+    },
+    {
+        "country": "GL",
+        "language": "Tunumiit",
+        "percentage": "8",
+        "_id": 8585960162723582979
+    },
+    {
+        "country": "SPMI",
+        "language": "French",
+        "percentage": "100",
+        "_id": 4424700913910583691
+    },
+    {
+        "country": "BERM",
+        "language": "English",
+        "percentage": "90",
+        "_id": 101835827205604031
+    },
+    {
+        "country": "BERM",
+        "language": "Portuguese",
+        "percentage": "10",
+        "_id": -7997490010426089687
+    },
+    {
+        "country": "CDN",
+        "language": "English",
+        "percentage": "67.1",
+        "_id": -7961153391196539062
+    },
+    {
+        "country": "CDN",
+        "language": "French",
+        "percentage": "21.5",
+        "_id": -8318609787911146543
+    },
+    {
+        "country": "CDN",
+        "language": "Mandarin",
+        "percentage": "1.7",
+        "_id": -5724806079875539636
+    },
+    {
+        "country": "CDN",
+        "language": "Cantonese",
+        "percentage": "1.6",
+        "_id": -3046726678191534686
+    },
+    {
+        "country": "CDN",
+        "language": "Punjabi",
+        "percentage": "1.4",
+        "_id": -4488904926437271910
+    },
+    {
+        "country": "CDN",
+        "language": "Spanish",
+        "percentage": "1.3",
+        "_id": -3261790862852128224
+    },
+    {
+        "country": "CDN",
+        "language": "Filipino",
+        "percentage": "1.2",
+        "_id": 2732203134382523177
+    },
+    {
+        "country": "CDN",
+        "language": "Arabic",
+        "percentage": "1.2",
+        "_id": 5047463630884512596
+    },
+    {
+        "country": "CDN",
+        "language": "German",
+        "percentage": "1.1",
+        "_id": 1559320083586284495
+    },
+    {
+        "country": "CDN",
+        "language": "Italian",
+        "percentage": "1",
+        "_id": 4753771865678801122
+    },
+    {
+        "country": "CDN",
+        "language": "Persian",
+        "percentage": "0.6",
+        "_id": 3829872959616595947
+    },
+    {
+        "country": "CDN",
+        "language": "Urdu",
+        "percentage": "0.6",
+        "_id": -56025975719784487
+    },
+    {
+        "country": "CDN",
+        "language": "Hindi",
+        "percentage": "0.3",
+        "_id": 7882856070687421281
+    },
+    {
+        "country": "CDN",
+        "language": "Gujarati",
+        "percentage": "0.3",
+        "_id": 1088904569288600288
+    },
+    {
+        "country": "CDN",
+        "language": "Ukrainian",
+        "percentage": "0.3",
+        "_id": 9198852462518337907
+    },
+    {
+        "country": "CDN",
+        "language": "Cree",
+        "percentage": "0.3",
+        "_id": -2512187773912751201
+    },
+    {
+        "country": "CDN",
+        "language": "Tamil",
+        "percentage": "0.2",
+        "_id": -6802632915859340208
+    },
+    {
+        "country": "CDN",
+        "language": "Malayalam",
+        "percentage": "0.2",
+        "_id": -7348668475046484115
+    },
+    {
+        "country": "CDN",
+        "language": "Bengali",
+        "percentage": "0.2",
+        "_id": -4825213624328031165
+    },
+    {
+        "country": "CDN",
+        "language": "Inuktitut",
+        "percentage": "0.1",
+        "_id": -6576161987391702328
+    },
+    {
+        "country": "CDN",
+        "language": "Ojibwe",
+        "percentage": "0.1",
+        "_id": -8157745951215893125
+    },
+    {
+        "country": "CDN",
+        "language": "Dakota",
+        "percentage": "0.06",
+        "_id": -3638564254705534221
+    },
+    {
+        "country": "USA",
+        "language": "English",
+        "percentage": "78.2",
+        "_id": -8007941566257614574
+    },
+    {
+        "country": "USA",
+        "language": "Spanish",
+        "percentage": "13.4",
+        "_id": -5219637400504913969
+    },
+    {
+        "country": "USA",
+        "language": "Chinese",
+        "percentage": "1.1",
+        "_id": -8210144789924299031
+    },
+    {
+        "country": "USA",
+        "language": "Tagalog",
+        "percentage": "0.5",
+        "_id": 6638097213788256369
+    },
+    {
+        "country": "USA",
+        "language": "Vietnamese",
+        "percentage": "0.4",
+        "_id": 4688283575344362022
+    },
+    {
+        "country": "USA",
+        "language": "Arabic",
+        "percentage": "0.3",
+        "_id": -4349939215376020070
+    },
+    {
+        "country": "USA",
+        "language": "French",
+        "percentage": "0.3",
+        "_id": 6616372289095261771
+    },
+    {
+        "country": "USA",
+        "language": "Korean",
+        "percentage": "0.3",
+        "_id": 4190324811683123989
+    },
+    {
+        "country": "USA",
+        "language": "Russian",
+        "percentage": "0.3",
+        "_id": 134847105946763220
+    },
+    {
+        "country": "USA",
+        "language": "German",
+        "percentage": "0.3",
+        "_id": -121817016598974429
+    },
+    {
+        "country": "USA",
+        "language": "Hindi",
+        "percentage": "0.25",
+        "_id": 867107542061259417
+    },
+    {
+        "country": "USA",
+        "language": "Portuguese",
+        "percentage": "0.25",
+        "_id": 5463849204259585700
+    },
+    {
+        "country": "USA",
+        "language": "Italian",
+        "percentage": "0.2",
+        "_id": -3906153226014114370
+    },
+    {
+        "country": "USA",
+        "language": "Polish",
+        "percentage": "0.15",
+        "_id": -4341226458152860336
+    },
+    {
+        "country": "USA",
+        "language": "Urdu",
+        "percentage": "0.15",
+        "_id": 1248302913798045970
+    },
+    {
+        "country": "USA",
+        "language": "Yiddish",
+        "percentage": "0.15",
+        "_id": 726739955193883048
+    },
+    {
+        "country": "USA",
+        "language": "Japanese",
+        "percentage": "0.15",
+        "_id": 61903067281377210
+    },
+    {
+        "country": "USA",
+        "language": "Persian",
+        "percentage": "0.1",
+        "_id": 121488282313701921
+    },
+    {
+        "country": "USA",
+        "language": "Gujarati",
+        "percentage": "0.1",
+        "_id": 6917545398238612798
+    },
+    {
+        "country": "USA",
+        "language": "Telugu",
+        "percentage": "0.1",
+        "_id": 1810447097128226656
+    },
+    {
+        "country": "USA",
+        "language": "Bengali",
+        "percentage": "0.1",
+        "_id": -5189201622323944555
+    },
+    {
+        "country": "USA",
+        "language": "Thai",
+        "percentage": "0.1",
+        "_id": 5659100688548699228
+    },
+    {
+        "country": "USA",
+        "language": "Navajo",
+        "percentage": "0.05",
+        "_id": 7405410703369455724
+    },
+    {
+        "country": "USA",
+        "language": "Hawaiian",
+        "percentage": "0.007",
+        "_id": 8322440659016306521
+    },
+    {
+        "country": "USA",
+        "language": "Cherokee",
+        "percentage": "0.006",
+        "_id": 682037712900420990
+    },
+    {
+        "country": "USA",
+        "language": "Dakota",
+        "percentage": "0.005",
+        "_id": -5738524028095026783
+    },
+    {
+        "country": "USA",
+        "language": "Yupik",
+        "percentage": "0.004",
+        "_id": -4443690432505695156
+    },
+    {
+        "country": "MEX",
+        "language": "Spanish",
+        "percentage": "92.7",
+        "_id": 6524784268129163590
+    },
+    {
+        "country": "MEX",
+        "language": "Nahuatl",
+        "percentage": "1.7",
+        "_id": 5780740984144296382
+    },
+    {
+        "country": "MEX",
+        "language": "Yucatec",
+        "percentage": "0.8",
+        "_id": 1056233692752504150
+    },
+    {
+        "country": "MEX",
+        "language": "Mixtec",
+        "percentage": "0.48",
+        "_id": -6745026290653416518
+    },
+    {
+        "country": "MEX",
+        "language": "Zapotec",
+        "percentage": "0.45",
+        "_id": 8656450092172895636
+    },
+    {
+        "country": "MEX",
+        "language": "Tzeltal",
+        "percentage": "0.44",
+        "_id": -8941321023146803430
+    },
+    {
+        "country": "MEX",
+        "language": "Tzotzil",
+        "percentage": "0.4",
+        "_id": 9200930242559369382
+    },
+    {
+        "country": "MEX",
+        "language": "Otomi",
+        "percentage": "0.3",
+        "_id": -6001760625007928989
+    },
+    {
+        "country": "BZ",
+        "language": "Spanish",
+        "percentage": "43",
+        "_id": -212055708506781700
+    },
+    {
+        "country": "BZ",
+        "language": "Belize Creole",
+        "percentage": "37",
+        "_id": 9212246226188003189
+    },
+    {
+        "country": "BZ",
+        "language": "English",
+        "percentage": "5.6",
+        "_id": 7802834099345985492
+    },
+    {
+        "country": "BZ",
+        "language": "Qeqchi",
+        "percentage": "5",
+        "_id": -3492485403164296011
+    },
+    {
+        "country": "BZ",
+        "language": "Garifuna",
+        "percentage": "4",
+        "_id": -3578437610351516156
+    },
+    {
+        "country": "BZ",
+        "language": "Mopan",
+        "percentage": "2.5",
+        "_id": -168056484525889841
+    },
+    {
+        "country": "BZ",
+        "language": "German",
+        "percentage": "2.3",
+        "_id": -1508484129077511585
+    },
+    {
+        "country": "BZ",
+        "language": "Yucatec",
+        "percentage": "2",
+        "_id": 8051112735077741360
+    },
+    {
+        "country": "GCA",
+        "language": "Spanish",
+        "percentage": "69.9",
+        "_id": 7793924019412094396
+    },
+    {
+        "country": "GCA",
+        "language": "Kiche",
+        "percentage": "7.8",
+        "_id": 5269472756448139433
+    },
+    {
+        "country": "GCA",
+        "language": "Qeqchi",
+        "percentage": "7.6",
+        "_id": 6710114849705166900
+    },
+    {
+        "country": "GCA",
+        "language": "Kaqchikel",
+        "percentage": "5.6",
+        "_id": 5201442922361864640
+    },
+    {
+        "country": "GCA",
+        "language": "Mam",
+        "percentage": "4.4",
+        "_id": -2309553995923007134
+    },
+    {
+        "country": "GCA",
+        "language": "Qanjobal",
+        "percentage": "1.4",
+        "_id": -7821070276046019353
+    },
+    {
+        "country": "GCA",
+        "language": "Poqomchi",
+        "percentage": "1",
+        "_id": -4359802826242443042
+    },
+    {
+        "country": "GCA",
+        "language": "Garifuna",
+        "percentage": "0.15",
+        "_id": 1438605797729535183
+    },
+    {
+        "country": "ES",
+        "language": "Spanish",
+        "percentage": "99",
+        "_id": -2448875166545708821
+    },
+    {
+        "country": "HN",
+        "language": "Spanish",
+        "percentage": "99",
+        "_id": 5735972992106140359
+    },
+    {
+        "country": "HN",
+        "language": "Miskito",
+        "percentage": "0.7",
+        "_id": -7477316980452894099
+    },
+    {
+        "country": "HN",
+        "language": "Garifuna",
+        "percentage": "0.7",
+        "_id": 8704570772359431016
+    },
+    {
+        "country": "NIC",
+        "language": "Spanish",
+        "percentage": "95.3",
+        "_id": 4407067390984496286
+    },
+    {
+        "country": "NIC",
+        "language": "Miskito",
+        "percentage": "2.2",
+        "_id": 124459963460946356
+    },
+    {
+        "country": "NIC",
+        "language": "Miskito Coast Creole",
+        "percentage": "2",
+        "_id": -385822037644562296
+    },
+    {
+        "country": "NIC",
+        "language": "Garifuna",
+        "percentage": "0.1",
+        "_id": -9206317366511300560
+    },
+    {
+        "country": "CR",
+        "language": "Spanish",
+        "percentage": "99",
+        "_id": 3679865426847174070
+    },
+    {
+        "country": "CR",
+        "language": "Cabecar",
+        "percentage": "0.2",
+        "_id": -3231982673362832569
+    },
+    {
+        "country": "CR",
+        "language": "Ngäbere",
+        "percentage": "0.1",
+        "_id": -5590304993463557177
+    },
+    {
+        "country": "CR",
+        "language": "Bribri",
+        "percentage": "0.1",
+        "_id": 5688497658463942314
+    },
+    {
+        "country": "PA",
+        "language": "Spanish",
+        "percentage": "90",
+        "_id": 1864642189412843934
+    },
+    {
+        "country": "PA",
+        "language": "Ngäbere",
+        "percentage": "6.5",
+        "_id": 2853896316543584026
+    },
+    {
+        "country": "PA",
+        "language": "Kuna",
+        "percentage": "2",
+        "_id": 3285948390028258449
+    },
+    {
+        "country": "PA",
+        "language": "Embera",
+        "percentage": "0.9",
+        "_id": 6864809935441959925
+    },
+    {
+        "country": "PA",
+        "language": "Buglere",
+        "percentage": "0.5",
+        "_id": 5365776725625814174
+    },
+    {
+        "country": "BS",
+        "language": "English",
+        "percentage": "75",
+        "_id": 5805034550367075693
+    },
+    {
+        "country": "BS",
+        "language": "Bahamian Creole",
+        "percentage": "25",
+        "_id": -8193001268396710917
+    },
+    {
+        "country": "TUCA",
+        "language": "Turks and Caicos Creole",
+        "percentage": "60",
+        "_id": -7574215363297951589
+    },
+    {
+        "country": "TUCA",
+        "language": "English",
+        "percentage": "30",
+        "_id": -1353167067489772059
+    },
+    {
+        "country": "TUCA",
+        "language": "Spanish",
+        "percentage": "10",
+        "_id": -2350889357232039124
+    },
+    {
+        "country": "CAYM",
+        "language": "English",
+        "percentage": "90.9",
+        "_id": 5694821789593981572
+    },
+    {
+        "country": "CAYM",
+        "language": "Spanish",
+        "percentage": "4",
+        "_id": -5518141302697695281
+    },
+    {
+        "country": "CAYM",
+        "language": "Filipino",
+        "percentage": "3.3",
+        "_id": -8239715380901501620
+    },
+    {
+        "country": "C",
+        "language": "Spanish",
+        "percentage": "95",
+        "_id": -4470969274666466043
+    },
+    {
+        "country": "C",
+        "language": "Haitian Creole",
+        "percentage": "5",
+        "_id": 8113986412332881005
+    },
+    {
+        "country": "JA",
+        "language": "Jamaican Patois",
+        "percentage": "75",
+        "_id": -2562523256753362874
+    },
+    {
+        "country": "JA",
+        "language": "English",
+        "percentage": "20",
+        "_id": -7931928350479603571
+    },
+    {
+        "country": "RH",
+        "language": "Haitian Creole",
+        "percentage": "90",
+        "_id": 3315298437465280693
+    },
+    {
+        "country": "RH",
+        "language": "French",
+        "percentage": "10",
+        "_id": 6695350899428605890
+    },
+    {
+        "country": "DOM",
+        "language": "Spanish",
+        "percentage": "90",
+        "_id": -252180847921352533
+    },
+    {
+        "country": "DOM",
+        "language": "Haitian Creole",
+        "percentage": "10",
+        "_id": -6220210069175654302
+    },
+    {
+        "country": "PR",
+        "language": "Spanish",
+        "percentage": "94.3",
+        "_id": -8346012683722635319
+    },
+    {
+        "country": "PR",
+        "language": "English",
+        "percentage": "5.5",
+        "_id": -1503527853203786518
+    },
+    {
+        "country": "PR",
+        "language": "French",
+        "percentage": "0.2",
+        "_id": 6678273587737725750
+    },
+    {
+        "country": "VIRG",
+        "language": "English",
+        "percentage": "71.6",
+        "_id": 8160272011675777542
+    },
+    {
+        "country": "VIRG",
+        "language": "Spanish",
+        "percentage": "17.2",
+        "_id": -5553317496347383074
+    },
+    {
+        "country": "VIRG",
+        "language": "French",
+        "percentage": "8.6",
+        "_id": 1894096387664916041
+    },
+    {
+        "country": "BVI",
+        "language": "English",
+        "percentage": "90",
+        "_id": -6375509792007711131
+    },
+    {
+        "country": "BVI",
+        "language": "Spanish",
+        "percentage": "10",
+        "_id": 3065823800893478464
+    },
+    {
+        "country": "AXA",
+        "language": "English",
+        "percentage": "95",
+        "_id": -8817609756202692776
+    },
+    {
+        "country": "AXA",
+        "language": "Spanish",
+        "percentage": "5",
+        "_id": -6024426308094376834
+    },
+    {
+        "country": "SMAR",
+        "language": "English",
+        "percentage": "85",
+        "_id": 3216296252430929876
+    },
+    {
+        "country": "SMAR",
+        "language": "Haitian Creole",
+        "percentage": "8",
+        "_id": -8028162876957228070
+    },
+    {
+        "country": "SMAR",
+        "language": "French",
+        "percentage": "4",
+        "_id": -1603358936445374409
+    },
+    {
+        "country": "SMAR",
+        "language": "Antillean Creole",
+        "_id": 7337198818328116805
+    },
+    {
+        "country": "SX",
+        "language": "English",
+        "percentage": "67.5",
+        "_id": 8753618088618456274
+    },
+    {
+        "country": "SX",
+        "language": "Spanish",
+        "percentage": "12.9",
+        "_id": -5775688973080432141
+    },
+    {
+        "country": "SX",
+        "language": "Antillean Creole",
+        "percentage": "8.2",
+        "_id": -3543053668782374701
+    },
+    {
+        "country": "SX",
+        "language": "French",
+        "percentage": "6.6",
+        "_id": -325271008062254482
+    },
+    {
+        "country": "SX",
+        "language": "Dutch",
+        "percentage": "4.2",
+        "_id": 3656931602656745725
+    },
+    {
+        "country": "SX",
+        "language": "Papiamento",
+        "percentage": "1.5",
+        "_id": -6472026495871919182
+    },
+    {
+        "country": "SBAR",
+        "language": "French",
+        "percentage": "90",
+        "_id": 268029360606876421
+    },
+    {
+        "country": "SBAR",
+        "language": "Portuguese",
+        "_id": 5822968459365543266
+    },
+    {
+        "country": "KN",
+        "language": "St. Kitts Creole English",
+        "percentage": "95",
+        "_id": 5477131176252982011
+    },
+    {
+        "country": "AG",
+        "language": "Antiguan Creole",
+        "percentage": "90",
+        "_id": -1824089228409590726
+    },
+    {
+        "country": "AG",
+        "language": "English",
+        "percentage": "5",
+        "_id": 1722459340211932061
+    },
+    {
+        "country": "AG",
+        "language": "Spanish",
+        "percentage": "5",
+        "_id": 5240829555999613767
+    },
+    {
+        "country": "MNTS",
+        "language": "English",
+        "_id": -3905718463551843840
+    },
+    {
+        "country": "GUAD",
+        "language": "French",
+        "_id": -6542571875276400549
+    },
+    {
+        "country": "GUAD",
+        "language": "Antillean Creole",
+        "_id": -7236814645990134663
+    },
+    {
+        "country": "WD",
+        "language": "Antillean Creole",
+        "percentage": "60",
+        "_id": -5328734452064019201
+    },
+    {
+        "country": "WD",
+        "language": "English",
+        "_id": 7428113799567339263
+    },
+    {
+        "country": "MART",
+        "language": "French",
+        "_id": 1227643157880415029
+    },
+    {
+        "country": "MART",
+        "language": "Antillean Creole",
+        "_id": -686078700728511852
+    },
+    {
+        "country": "WL",
+        "language": "Antillean Creole",
+        "percentage": "95",
+        "_id": -5252599237959235293
+    },
+    {
+        "country": "WL",
+        "language": "English",
+        "_id": 1551397700000209189
+    },
+    {
+        "country": "BDS",
+        "language": "Bajan",
+        "percentage": "95",
+        "_id": -7842301018149310772
+    },
+    {
+        "country": "BDS",
+        "language": "English",
+        "percentage": "0.4",
+        "_id": 6076937462935151906
+    },
+    {
+        "country": "WV",
+        "language": "English",
+        "_id": 2007416645498749908
+    },
+    {
+        "country": "WV",
+        "language": "Vincentian Creole",
+        "_id": -8266762663637130195
+    },
+    {
+        "country": "WV",
+        "language": "Antillean Creole",
+        "_id": 7565078489103130824
+    },
+    {
+        "country": "WG",
+        "language": "Grenadian Creole English",
+        "percentage": "89",
+        "_id": -1388897456680211627
+    },
+    {
+        "country": "WG",
+        "language": "Antillean Creole",
+        "percentage": "2.5",
+        "_id": 182585272250871173
+    },
+    {
+        "country": "WG",
+        "language": "English",
+        "_id": 3415643816804682540
+    },
+    {
+        "country": "TT",
+        "language": "Trinidadian Creole",
+        "percentage": "75",
+        "_id": -4601722393164278853
+    },
+    {
+        "country": "TT",
+        "language": "Tobagonian Creole",
+        "percentage": "20",
+        "_id": 1439915845530008207
+    },
+    {
+        "country": "TT",
+        "language": "Caribbean Hindustani",
+        "percentage": "1.2",
+        "_id": 6268608237852429122
+    },
+    {
+        "country": "TT",
+        "language": "Hindi",
+        "percentage": "0.8",
+        "_id": -6949026316189783855
+    },
+    {
+        "country": "NLB",
+        "language": "Papiamento",
+        "percentage": "75",
+        "_id": 5929181521233513864
+    },
+    {
+        "country": "NLB",
+        "language": "Spanish",
+        "percentage": "11.8",
+        "_id": 5684738336572703047
+    },
+    {
+        "country": "NLB",
+        "language": "Dutch",
+        "percentage": "8.8",
+        "_id": -5529377867888420293
+    },
+    {
+        "country": "NLB",
+        "language": "English",
+        "percentage": "2.8",
+        "_id": 6409900343107160765
+    },
+    {
+        "country": "CUR",
+        "language": "Papiamento",
+        "percentage": "79.9",
+        "_id": -8978721992793716119
+    },
+    {
+        "country": "CUR",
+        "language": "Dutch",
+        "percentage": "8.8",
+        "_id": -8259997703798360966
+    },
+    {
+        "country": "CUR",
+        "language": "Spanish",
+        "percentage": "5.6",
+        "_id": 853528643999163379
+    },
+    {
+        "country": "CUR",
+        "language": "English",
+        "percentage": "3.1",
+        "_id": 6101347280145612603
+    },
+    {
+        "country": "ARU",
+        "language": "Papiamento",
+        "percentage": "69.4",
+        "_id": -7206543998836765859
+    },
+    {
+        "country": "ARU",
+        "language": "Spanish",
+        "percentage": "13.7",
+        "_id": 7001651765364756056
+    },
+    {
+        "country": "ARU",
+        "language": "English",
+        "percentage": "7.1",
+        "_id": -1124838717725881058
+    },
+    {
+        "country": "ARU",
+        "language": "Dutch",
+        "percentage": "6.1",
+        "_id": -8988665998253379940
+    },
+    {
+        "country": "ARU",
+        "language": "Chinese",
+        "percentage": "1.5",
+        "_id": -1012194445400279335
+    },
+    {
+        "country": "YV",
+        "language": "Spanish",
+        "percentage": "97",
+        "_id": -7390881527581154131
+    },
+    {
+        "country": "YV",
+        "language": "Chinese",
+        "percentage": "1.4",
+        "_id": 1479140464137000556
+    },
+    {
+        "country": "YV",
+        "language": "Wayuu",
+        "percentage": "0.7",
+        "_id": -6184815144921976630
+    },
+    {
+        "country": "GUY",
+        "language": "Guyanese Creole",
+        "percentage": "85",
+        "_id": -5020579794816903626
+    },
+    {
+        "country": "GUY",
+        "language": "Caribbean Hindustani",
+        "percentage": "5",
+        "_id": -333960971686512639
+    },
+    {
+        "country": "GUY",
+        "language": "Kapong",
+        "percentage": "3",
+        "_id": -1955237102224185050
+    },
+    {
+        "country": "GUY",
+        "language": "Wapishana",
+        "percentage": "1",
+        "_id": -4160754791406686001
+    },
+    {
+        "country": "GUY",
+        "language": "Macushi",
+        "percentage": "1",
+        "_id": 4226849686129309719
+    },
+    {
+        "country": "SME",
+        "language": "Dutch",
+        "percentage": "50",
+        "_id": -4122416816661072098
+    },
+    {
+        "country": "SME",
+        "language": "Sranantongo",
+        "percentage": "15",
+        "_id": 750349364412653198
+    },
+    {
+        "country": "SME",
+        "language": "Saramaccan",
+        "percentage": "10",
+        "_id": 4074340092415197459
+    },
+    {
+        "country": "SME",
+        "language": "Caribbean Hindustani",
+        "percentage": "10",
+        "_id": -1089216938246357439
+    },
+    {
+        "country": "SME",
+        "language": "Ndyuka",
+        "percentage": "7",
+        "_id": 3772915060637227255
+    },
+    {
+        "country": "SME",
+        "language": "Javanese",
+        "percentage": "4",
+        "_id": 977485042534864075
+    },
+    {
+        "country": "SME",
+        "language": "Carib",
+        "percentage": "0.5",
+        "_id": 5437436897195483878
+    },
+    {
+        "country": "FGU",
+        "language": "French Guianese Creole",
+        "percentage": "85",
+        "_id": -4206828024707997471
+    },
+    {
+        "country": "FGU",
+        "language": "Saramaccan",
+        "percentage": "10",
+        "_id": -5085778837780837367
+    },
+    {
+        "country": "FGU",
+        "language": "Carib",
+        "percentage": "1.4",
+        "_id": -4647399422974978213
+    },
+    {
+        "country": "FGU",
+        "language": "French",
+        "_id": 8428679677868179910
+    },
+    {
+        "country": "CO",
+        "language": "Spanish",
+        "percentage": "99.2",
+        "_id": -117749296470302296
+    },
+    {
+        "country": "CO",
+        "language": "Wayuu",
+        "percentage": "0.2",
+        "_id": -4266936251230845630
+    },
+    {
+        "country": "CO",
+        "language": "Paez",
+        "percentage": "0.2",
+        "_id": 6797034700339244021
+    },
+    {
+        "country": "CO",
+        "language": "Embera",
+        "percentage": "0.1",
+        "_id": -3170977846468068427
+    },
+    {
+        "country": "EC",
+        "language": "Spanish",
+        "percentage": "93",
+        "_id": 7126920131943910157
+    },
+    {
+        "country": "EC",
+        "language": "Quechua",
+        "percentage": "4.1",
+        "_id": 7575156249152382958
+    },
+    {
+        "country": "EC",
+        "language": "Shuar",
+        "percentage": "0.2",
+        "_id": -8494723866566640106
+    },
+    {
+        "country": "PE",
+        "language": "Spanish",
+        "percentage": "82.6",
+        "_id": 3406114408723276545
+    },
+    {
+        "country": "PE",
+        "language": "Quechua",
+        "percentage": "13.9",
+        "_id": 1531112913680164149
+    },
+    {
+        "country": "PE",
+        "language": "Aymara",
+        "percentage": "1.7",
+        "_id": -334662284122266827
+    },
+    {
+        "country": "PE",
+        "language": "Ashaninka",
+        "percentage": "0.3",
+        "_id": -6541169543456781394
+    },
+    {
+        "country": "PE",
+        "language": "Aguaruna",
+        "percentage": "0.2",
+        "_id": -7519590232373083578
+    },
+    {
+        "country": "BOL",
+        "language": "Spanish",
+        "percentage": "60.7",
+        "_id": 7068752505407564942
+    },
+    {
+        "country": "BOL",
+        "language": "Quechua",
+        "percentage": "21.2",
+        "_id": 5312797688049506792
+    },
+    {
+        "country": "BOL",
+        "language": "Aymara",
+        "percentage": "14.6",
+        "_id": 1297430748555166528
+    },
+    {
+        "country": "BOL",
+        "language": "German",
+        "percentage": "1.6",
+        "_id": -4885253305448616878
+    },
+    {
+        "country": "BOL",
+        "language": "Guarani",
+        "percentage": "0.7",
+        "_id": 8360057340252565192
+    },
+    {
+        "country": "BOL",
+        "language": "Portuguese",
+        "percentage": "0.2",
+        "_id": 6549711223786957464
+    },
+    {
+        "country": "BOL",
+        "language": "Moxo",
+        "percentage": "0.1",
+        "_id": 8311491423960773832
+    },
+    {
+        "country": "RCH",
+        "language": "Spanish",
+        "percentage": "98",
+        "_id": 1951184554764398102
+    },
+    {
+        "country": "RCH",
+        "language": "Mapuche",
+        "percentage": "1.7",
+        "_id": 2431673890537860799
+    },
+    {
+        "country": "RCH",
+        "language": "German",
+        "percentage": "0.2",
+        "_id": -4935602005769316590
+    },
+    {
+        "country": "RCH",
+        "language": "Aymara",
+        "percentage": "0.1",
+        "_id": -6502442515518187530
+    },
+    {
+        "country": "RCH",
+        "language": "Quechua",
+        "percentage": "0.1",
+        "_id": -3841838842257936849
+    },
+    {
+        "country": "RA",
+        "language": "Spanish",
+        "percentage": "94",
+        "_id": -5409588213956336365
+    },
+    {
+        "country": "RA",
+        "language": "Arabic",
+        "percentage": "2",
+        "_id": -5185369191948528552
+    },
+    {
+        "country": "RA",
+        "language": "Guarani",
+        "percentage": "2",
+        "_id": -46083680285556087
+    },
+    {
+        "country": "RA",
+        "language": "German",
+        "percentage": "1",
+        "_id": 9054257174678296349
+    },
+    {
+        "country": "RA",
+        "language": "Quechua",
+        "percentage": "0.2",
+        "_id": -5757088202545626050
+    },
+    {
+        "country": "RA",
+        "language": "Mapuche",
+        "percentage": "0.1",
+        "_id": 3755616391040332746
+    },
+    {
+        "country": "RA",
+        "language": "Wichi",
+        "percentage": "0.1",
+        "_id": 7140519052003739439
+    },
+    {
+        "country": "RA",
+        "language": "Aymara",
+        "percentage": "0.1",
+        "_id": 7230512517968398487
+    },
+    {
+        "country": "RA",
+        "language": "Toba",
+        "percentage": "0.1",
+        "_id": 215802338643690532
+    },
+    {
+        "country": "PY",
+        "language": "Guarani",
+        "percentage": "60",
+        "_id": 6376025768793759600
+    },
+    {
+        "country": "PY",
+        "language": "Spanish",
+        "percentage": "30",
+        "_id": -2208530990304627126
+    },
+    {
+        "country": "PY",
+        "language": "German",
+        "percentage": "2.5",
+        "_id": -5396153904554008755
+    },
+    {
+        "country": "ROU",
+        "language": "Spanish",
+        "percentage": "99",
+        "_id": 7944124421949982845
+    },
+    {
+        "country": "ROU",
+        "language": "German",
+        "percentage": "1",
+        "_id": -1302048599647775110
+    },
+    {
+        "country": "ROU",
+        "language": "Portuguese",
+        "percentage": "0.6",
+        "_id": 7676901291203801706
+    },
+    {
+        "country": "BR",
+        "language": "Portuguese",
+        "percentage": "98",
+        "_id": -4941668127399790136
+    },
+    {
+        "country": "BR",
+        "language": "German",
+        "percentage": "1.5",
+        "_id": -838129976542214899
+    },
+    {
+        "country": "BR",
+        "language": "Guarani",
+        "percentage": "0.025",
+        "_id": -7740200700203379219
+    },
+    {
+        "country": "FALK",
+        "language": "English",
+        "percentage": "100",
+        "_id": -6755392394955498935
+    }
+]
